@@ -36,7 +36,7 @@ func (parser ActionParser) parse(rule string, needFilterString bool) []string {
 	//切割操作符 && || %% 组合条件
 	var ruleList, opMode = splitOperator(ruleWithoutRegexp)
 	//单独执行规则
-	var resultList = make([][]string, 0, 9)
+	var resultList = make([][]string, 2)
 	for index, ruleEach := range ruleList {
 		var resultEach = parser.action.parseEach(ruleEach, needFilterString)
 		resultList[index] = resultEach
@@ -46,7 +46,7 @@ func (parser ActionParser) parse(rule string, needFilterString bool) []string {
 		}
 	}
 	//合并结果集
-	var resultComb = combineResultEach(resultList, opMode)
+	var resultComb = CombineResultEach(resultList, opMode)
 	//正则净化结果
 	var resultAfterRegexp = regexpFilter(resultComb, regexpRule)
 	//maybe 执行js？
@@ -74,10 +74,35 @@ func splitOperator(input string) ([]string, string) {
 	return []string{input}, ""
 }
 
-// 组合结果
-func combineResultEach(input [][]string, opMode string) []string {
-	//todo
-	return nil
+// CombineResultEach 组合结果
+func CombineResultEach(input [][]string, opMode string) []string {
+	switch opMode {
+	case OPERATOR_AND:
+		return append(input[0], input[1]...)
+	case OPERATOR_OR:
+		return append(input[0], input[1]...)
+	case OPERATOR_MERGE:
+		var result []string
+		var maxLength = 0
+		var length1 = len(input[0])
+		var length2 = len(input[1])
+		if length1 > length2 {
+			maxLength = length1
+		} else {
+			maxLength = length2
+		}
+		for i := 0; i < maxLength; i++ {
+			if length1 > i {
+				result = append(result, input[0][i])
+			}
+			if length2 > i {
+				result = append(result, input[1][i])
+			}
+		}
+		return result
+
+	}
+	return input[0]
 }
 
 // 正则净化结果
