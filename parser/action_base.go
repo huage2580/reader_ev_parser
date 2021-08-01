@@ -15,30 +15,78 @@ type Action interface {
 	formatRule(rule string) string
 }
 
-type IActionParser struct {
+type ActionParser struct {
 	action    Action
 	inputData interface{}
 }
 
-func (parser IActionParser) parse(rule string, needFilterString bool) []string {
+func (parser ActionParser) parse(rule string, needFilterString bool) []string {
 	var result = make([]string, 0, 99999)
 	//处理倒叙
 	var needReverse = strings.HasPrefix(rule, "-")
+	// 过滤分类用的前缀
+	var ruleWithoutPrefix = parser.action.formatRule(rule)
 	//过滤js规则，在最后面
-	var ruleWithoutJS, jsScript = formatJs(rule)
+	var ruleWithoutJS, jsScript = formatJs(ruleWithoutPrefix)
 	var s = fmt.Sprintf("ruleWithoutJS->%s | jsScript->%s", ruleWithoutJS, jsScript)
 	fmt.Println(s)
-	//todo 过滤正则净化，标记后面处理
-	//todo 切割操作符 && || %% 组合条件
-	//todo 单独执行规则
-	//todo 合并结果集
-	//todo 正则净化结果
-	//todo 执行js？
+	//过滤正则净化，标记后面处理
+	var ruleWithoutRegexp, regexpRule = formatRegexp(ruleWithoutJS)
+	fmt.Printf("ruleWithoutRegexp->%s | regexpRule->%s\n", ruleWithoutRegexp, regexpRule)
+	//切割操作符 && || %% 组合条件
+	var ruleList, opMode = splitOperator(ruleWithoutRegexp)
+	//单独执行规则
+	var resultList = make([][]string, 0, 9)
+	for index, ruleEach := range ruleList {
+		var resultEach = parser.action.parseEach(ruleEach, needFilterString)
+		resultList[index] = resultEach
+		//或的操作，有数据不执行后面的
+		if len(resultEach) > 0 && opMode == OPERATOR_OR {
+			break
+		}
+	}
+	//合并结果集
+	var resultComb = combineResultEach(resultList, opMode)
+	//正则净化结果
+	var resultAfterRegexp = regexpFilter(resultComb, regexpRule)
+	//maybe 执行js？
 	//反转列表
 	if needReverse {
-		reverseArray(result)
+		result = reverseArray(resultAfterRegexp)
 	}
 	return result
+}
+
+// 按照组合操作符分割规则
+func splitOperator(input string) ([]string, string) {
+	indexAnd := strings.Index(input, OPERATOR_AND)
+	indexOr := strings.Index(input, OPERATOR_OR)
+	indexMerge := strings.Index(input, OPERATOR_MERGE)
+	if indexAnd > 0 {
+		return strings.Split(input, OPERATOR_AND), OPERATOR_AND
+	}
+	if indexOr > 0 {
+		return strings.Split(input, OPERATOR_OR), OPERATOR_OR
+	}
+	if indexMerge > 0 {
+		return strings.Split(input, OPERATOR_MERGE), OPERATOR_MERGE
+	}
+	return []string{input}, ""
+}
+
+// 组合结果
+func combineResultEach(input [][]string, opMode string) []string {
+	//todo
+	return nil
+}
+
+// 正则净化结果
+func regexpFilter(input []string, regexpRule string) []string {
+	if regexpRule == "" {
+		return input
+	}
+	//todo
+	return nil
 }
 
 // 反转数组
@@ -59,4 +107,15 @@ func formatJs(input string) (string, string) {
 		js = jsScript[1]
 	}
 	return output, js
+}
+
+//过滤##正则净化规则
+func formatRegexp(input string) (string, string) {
+	index := strings.Index(input, RE_REPLACE)
+	if index > 0 {
+		var output = input[0:index]
+		var regexpRule = input[index+len(RE_REPLACE):]
+		return output, regexpRule
+	}
+	return input, ""
 }

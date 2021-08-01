@@ -7,7 +7,7 @@ import (
 
 func Jsoup() {
 	tId := parser.StartTransaction(DATA)
-	result := parser.ParseRuleStr(tId, "tag.p.0@text")
+	result := parser.ParseRuleStr(tId, "tag.p.0@text##hello")
 	result2 := parser.ParseRuleStr(tId, `href@js:result+',{webView:\"true\"}'`)
 	fmt.Println(result, result2)
 	parser.EndTransaction(tId)

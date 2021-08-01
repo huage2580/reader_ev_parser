@@ -33,14 +33,14 @@ func EndTransaction(tId string) {
 	delete(transactionCacheMap, tId)
 }
 
-func factory(input string) IActionParser {
+func factory(input string) ActionParser {
 	//todo 根据类型指派解析器
-	return IActionParser{
-		action:    JsoupParser{},
+	return ActionParser{
+		action:    JsoupAction{},
 		inputData: input,
 	}
 }
 
-func factoryTid(tId string) IActionParser {
+func factoryTid(tId string) ActionParser {
 	return factory(transactionCacheMap[tId].(string))
 }
