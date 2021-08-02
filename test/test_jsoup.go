@@ -6,15 +6,15 @@ import (
 )
 
 func Jsoup() {
-	//jsoupListStr("tag.h1.0@ownText")
-	//jsoupListStr("tag.h1.0@text.甲方@text")
-	//jsoupListStr("id.list.0@tag.dd.0:1:2@text%%id.list.0@tag.dd.12:13@text")
+	jsoupListStr("tag.h1.0@ownText")
+	jsoupListStr("text.甲方@html")
+	jsoupListStr("id.list.0@tag.dd.0:1:2@text&&id.list.0@tag.dd.12:13@text&&id.list.0@tag.dd.12:13@html")
 	//jsoupListStr("tag.h1.0@html")
 	//jsoupListStr("id.list.0@tag.dd.0@all")
 	//jsoupListStr("id.list.0@tag.dd.0@html")
 	//jsoupListStr("id.list.0@tag.dd.0@tag.a.0@href")
 
-	jsoupBatch("id.list.0@tag.dd.0:1:2:3:4", "tag.a@href", "text")
+	//jsoupBatch("id.list.0@tag.dd.0:1:2:3:4", "tag.a@href", "text")
 
 }
 

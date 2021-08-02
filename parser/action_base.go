@@ -42,7 +42,7 @@ func (parser ActionParser) parse(rule string, needFilterString bool, cacheId str
 	//切割操作符 && || %% 组合条件
 	var ruleList, opMode = splitOperator(ruleWithoutRegexp)
 	//单独执行规则
-	var resultList = make([][]interface{}, 2)
+	var resultList = make([][]interface{}, len(ruleList))
 	for index, ruleEach := range ruleList {
 		var resultEach = parser.action.parseEach(parser.inputData, ruleEach, needFilterString)
 		resultList[index] = resultEach
@@ -94,33 +94,38 @@ func splitOperator(input string) ([]string, string) {
 
 // CombineResultEach 组合结果
 func CombineResultEach(input [][]interface{}, opMode string) []interface{} {
+	//todo 现在只支持了两个，应该改支持多个
+	var result = input[0]
 	switch opMode {
 	case OPERATOR_AND:
-		return append(input[0], input[1]...)
+		for _, item := range input {
+			result = append(result, item...)
+		}
+		return result
 	case OPERATOR_OR:
-		return append(input[0], input[1]...)
+		for _, item := range input {
+			result = append(result, item...)
+		}
+		return result
 	case OPERATOR_MERGE:
-		var result []interface{}
 		var maxLength = 0
-		var length1 = len(input[0])
-		var length2 = len(input[1])
-		if length1 > length2 {
-			maxLength = length1
-		} else {
-			maxLength = length2
+		for _, item := range input {
+			len1 := len(item)
+			if len1 > maxLength {
+				maxLength = len1
+			}
 		}
 		for i := 0; i < maxLength; i++ {
-			if length1 > i {
-				result = append(result, input[0][i])
-			}
-			if length2 > i {
-				result = append(result, input[1][i])
+			for ind, i2 := range input {
+				if len(i2) > i {
+					result = append(result, input[ind][i])
+				}
 			}
 		}
 		return result
 
 	}
-	return input[0]
+	return result
 }
 
 // RegexpFilter 正则净化结果

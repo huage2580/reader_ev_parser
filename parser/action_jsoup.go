@@ -142,7 +142,12 @@ func filterText(nodes []*goquery.Selection, stringFilterValue string) []string {
 func mapText(node *goquery.Selection, clazz string) string {
 	switch clazz {
 	case FILTER_HTML:
-		out, _ := goquery.OuterHtml(node)
+		var out = ""
+		node.Contents().Each(func(i int, s *goquery.Selection) {
+			if goquery.NodeName(s) == "#text" {
+				out = out + s.Text() + "\n"
+			}
+		})
 		return out
 	case FILTER_TEXT:
 		return node.Text()
