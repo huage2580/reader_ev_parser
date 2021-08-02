@@ -186,7 +186,7 @@ func formatJs(input string) (string, string) {
 //过滤##正则净化规则
 func formatRegexp(input string) (string, string) {
 	index := strings.Index(input, RE_REPLACE)
-	if index > 0 {
+	if index >= 0 {
 		var output = input[0:index]
 		var regexpRule = input[index:]
 		return output, regexpRule

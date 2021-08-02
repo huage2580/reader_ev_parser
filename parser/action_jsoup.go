@@ -15,6 +15,9 @@ type JsoupAction struct {
 func (action JsoupAction) parseEach(input interface{}, rule string, needFilterString bool) []interface{} {
 	switch input.(type) {
 	case string:
+		if rule == "" {
+			return []interface{}{input}
+		}
 		return parseHtml(input.(string), rule, needFilterString)
 	case *goquery.Selection:
 		var node = input.(*goquery.Selection)
