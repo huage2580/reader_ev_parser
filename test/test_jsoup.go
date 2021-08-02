@@ -6,15 +6,16 @@ import (
 )
 
 func Jsoup() {
-	jsoupListStr("tag.h1.0@ownText")
-	jsoupListStr("text.甲方@html")
-	jsoupListStr("id.list.0@tag.dd.0:1:2@text&&id.list.0@tag.dd.12:13@text&&id.list.0@tag.dd.12:13@html")
+	//jsoupListStr("tag.h1.0@ownText")
+	//jsoupListStr("text.甲方@html")
+	//jsoupListStr("id.list.0@tag.dd.0:1:2@text&&id.list.0@tag.dd.12:13@text&&id.list.0@tag.dd.12:13@html")
 	//jsoupListStr("tag.h1.0@html")
 	//jsoupListStr("id.list.0@tag.dd.0@all")
 	//jsoupListStr("id.list.0@tag.dd.0@html")
 	//jsoupListStr("id.list.0@tag.dd.0@tag.a.0@href")
 
 	//jsoupBatch("id.list.0@tag.dd.0:1:2:3:4", "tag.a@href", "text")
+	jsoupHtml("tag.div@html")
 
 }
 
@@ -37,6 +38,15 @@ func jsoupBatch(rule string, rule1 string, rule2 string) {
 		fmt.Printf("jsoup rule-> [%s] result-> %s\n", rule2, r2)
 	}
 	parser.EndTransaction(bId)
+	parser.EndTransaction(tId)
+}
+
+func jsoupHtml(rule string) {
+	tId := parser.StartTransaction(`
+<div><p>hello</p><p>wor<br/>ld</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;张若尘现在所在的国家，名叫“云武郡国”，只是昆仑界东域成千上万个郡国中的一个。<br>测试</div>
+`)
+	result := parser.ParseRuleStr(tId, rule)
+	fmt.Printf("jsoup rule-> [%s] result-> %s\n", rule, result)
 	parser.EndTransaction(tId)
 }
 
