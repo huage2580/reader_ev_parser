@@ -6,17 +6,38 @@ import (
 )
 
 func Jsoup() {
-	//tId := parser.StartTransaction(DATA)
-	//result := parser.ParseRuleStr(tId, "tag.p.0@text##hello")
-	//result2 := parser.ParseRuleStr(tId, `href@js:result+',{webView:\"true\"}'`)
-	//fmt.Println(result, result2)
-	//parser.EndTransaction(tId)
-	var test = parser.CombineResultEach([][]string{
-		{"1", "2", "3"},
-		{"4", "5", "6", "7", "8"},
-	}, parser.OPERATOR_MERGE)
-	fmt.Println(test)
+	//jsoupListStr("tag.h1.0@ownText")
+	//jsoupListStr("tag.h1.0@text.甲方@text")
+	//jsoupListStr("id.list.0@tag.dd.0:1:2@text%%id.list.0@tag.dd.12:13@text")
+	//jsoupListStr("tag.h1.0@html")
+	//jsoupListStr("id.list.0@tag.dd.0@all")
+	//jsoupListStr("id.list.0@tag.dd.0@html")
+	//jsoupListStr("id.list.0@tag.dd.0@tag.a.0@href")
 
+	jsoupBatch("id.list.0@tag.dd.0:1:2:3:4", "tag.a@href", "text")
+
+}
+
+func jsoupListStr(rule string) {
+	tId := parser.StartTransaction(DATA)
+	result := parser.ParseRuleStr(tId, rule)
+	fmt.Printf("jsoup rule-> [%s] result-> %s\n", rule, result)
+	parser.EndTransaction(tId)
+}
+
+func jsoupBatch(rule string, rule1 string, rule2 string) {
+	tId := parser.StartTransaction(DATA)
+	bId := parser.ParseRuleRaw(tId, rule)
+	size := parser.QueryBatchResultSize(bId)
+	fmt.Printf("jsoup rule-> [%s] result-> %d\n", rule, size)
+	for i := 0; i < size; i++ {
+		r1 := parser.ParseRuleStrForParent(bId, rule1, i)
+		fmt.Printf("jsoup rule-> [%s] result-> %s\n", rule1, r1)
+		r2 := parser.ParseRuleStrForParent(bId, rule2, i)
+		fmt.Printf("jsoup rule-> [%s] result-> %s\n", rule2, r2)
+	}
+	parser.EndTransaction(bId)
+	parser.EndTransaction(tId)
 }
 
 func Regexp() {

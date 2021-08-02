@@ -1,7 +1,6 @@
 package parser
 
 import (
-	"fmt"
 	"regexp"
 	"strings"
 )
@@ -10,9 +9,16 @@ import (
 这里实现通用的解析流程
 */
 
+// BatchResult 缓存的结果集,用来批量操作的，用于解析目录列表和搜索列表页
+type BatchResult struct {
+	queryType string
+	cacheData []interface{}
+}
+
 type Action interface {
-	parseEach(rule string, needFilterString bool) []string
+	parseEach(input interface{}, rule string, needFilterString bool) []interface{}
 	formatRule(rule string) string
+	getType() string
 }
 
 type ActionParser struct {
@@ -20,25 +26,25 @@ type ActionParser struct {
 	inputData interface{}
 }
 
-func (parser ActionParser) parse(rule string, needFilterString bool) []string {
-	var result = make([]string, 0, 99999)
+//[cacheId] 表示把结果存储到这里
+func (parser ActionParser) parse(rule string, needFilterString bool, cacheId string) []string {
 	//处理倒叙
 	var needReverse = strings.HasPrefix(rule, "-")
 	// 过滤分类用的前缀
 	var ruleWithoutPrefix = parser.action.formatRule(rule)
 	//过滤js规则，在最后面
-	var ruleWithoutJS, jsScript = formatJs(ruleWithoutPrefix)
-	var s = fmt.Sprintf("ruleWithoutJS->%s | jsScript->%s", ruleWithoutJS, jsScript)
-	fmt.Println(s)
+	var ruleWithoutJS, _ = formatJs(ruleWithoutPrefix)
+
 	//过滤正则净化，标记后面处理
 	var ruleWithoutRegexp, regexpRule = formatRegexp(ruleWithoutJS)
-	fmt.Printf("ruleWithoutRegexp->%s | regexpRule->%s\n", ruleWithoutRegexp, regexpRule)
+	//fmt.Printf("ruleWithoutRegexp->%s | regexpRule->%s\n", ruleWithoutRegexp, regexpRule)
+
 	//切割操作符 && || %% 组合条件
 	var ruleList, opMode = splitOperator(ruleWithoutRegexp)
 	//单独执行规则
-	var resultList = make([][]string, 2)
+	var resultList = make([][]interface{}, 2)
 	for index, ruleEach := range ruleList {
-		var resultEach = parser.action.parseEach(ruleEach, needFilterString)
+		var resultEach = parser.action.parseEach(parser.inputData, ruleEach, needFilterString)
 		resultList[index] = resultEach
 		//或的操作，有数据不执行后面的
 		if len(resultEach) > 0 && opMode == OPERATOR_OR {
@@ -47,14 +53,26 @@ func (parser ActionParser) parse(rule string, needFilterString bool) []string {
 	}
 	//合并结果集
 	var resultComb = CombineResultEach(resultList, opMode)
+	//缓存结果集,在作为批量操作的时候
+	if cacheId != "" {
+		CacheTransactionData(cacheId, BatchResult{queryType: parser.action.getType(), cacheData: resultComb})
+	}
 	//正则净化结果
-	var resultAfterRegexp = RegexpFilter(resultComb, regexpRule)
+	var resultAfterRegexp = make([]string, 0)
+	if needFilterString {
+		var resultStr = make([]string, len(resultComb))
+		for i, item := range resultComb {
+			resultStr[i] = item.(string)
+		}
+		resultAfterRegexp = RegexpFilter(resultStr, regexpRule)
+	}
 	//maybe 执行js？
 	//反转列表
 	if needReverse {
-		result = reverseArray(resultAfterRegexp)
+		resultAfterRegexp = reverseArray(resultAfterRegexp)
 	}
-	return result
+	//只有要求输出文本的才有结果集,原生的缓存起来等待批量解析
+	return resultAfterRegexp
 }
 
 // 按照组合操作符分割规则
@@ -75,14 +93,14 @@ func splitOperator(input string) ([]string, string) {
 }
 
 // CombineResultEach 组合结果
-func CombineResultEach(input [][]string, opMode string) []string {
+func CombineResultEach(input [][]interface{}, opMode string) []interface{} {
 	switch opMode {
 	case OPERATOR_AND:
 		return append(input[0], input[1]...)
 	case OPERATOR_OR:
 		return append(input[0], input[1]...)
 	case OPERATOR_MERGE:
-		var result []string
+		var result []interface{}
 		var maxLength = 0
 		var length1 = len(input[0])
 		var length2 = len(input[1])
@@ -165,7 +183,7 @@ func formatRegexp(input string) (string, string) {
 	index := strings.Index(input, RE_REPLACE)
 	if index > 0 {
 		var output = input[0:index]
-		var regexpRule = input[index+len(RE_REPLACE):]
+		var regexpRule = input[index:]
 		return output, regexpRule
 	}
 	return input, ""

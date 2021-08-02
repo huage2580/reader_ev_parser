@@ -19,7 +19,6 @@ const FILTER_TEXT_NODE = "textNodes"
 const FILTER_OWN_TEXT = "ownText"
 const FILTER_HTML = "html"
 const FILTER_ALL = "all"
-const FILTER_HREF = "href"
 
 const JSOUP_SPLIT = "."
 
@@ -28,7 +27,8 @@ const JSOUP_SUPPORT_CLASS = "class"
 const JSOUP_SUPPORT_TAG = "tag"
 const JSOUP_SUPPORT_ID = "id"
 const JSOUP_SUPPORT_TEXT = "text"
-const JSOUP_SUPPORT_SELF = "self"
 
 const JSOUP_EXCLUDE_CHAR = "!"
 const JSOUP_EXCLUDE_INT = ":"
+
+const ACTION_TYPE_JSOUP = "jsoup"
