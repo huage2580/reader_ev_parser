@@ -1,6 +1,7 @@
 package parser
 
 import (
+	"golang.org/x/net/html"
 	"log"
 	"strconv"
 	"strings"
@@ -22,6 +23,9 @@ func (action JsoupAction) parseEach(input interface{}, rule string, needFilterSt
 	case *goquery.Selection:
 		var node = input.(*goquery.Selection)
 		return parseDocument(node, rule, needFilterString)
+	case *html.Node: //预留给xpath的
+		var nde = input.(*html.Node)
+		return parseDocument(goquery.NewDocumentFromNode(nde).Find("body").Children().First(), rule, needFilterString)
 	default:
 		//not support
 	}
