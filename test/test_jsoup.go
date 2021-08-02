@@ -16,4 +16,14 @@ func Jsoup() {
 		{"4", "5", "6", "7", "8"},
 	}, parser.OPERATOR_MERGE)
 	fmt.Println(test)
+
+}
+
+func Regexp() {
+	var test = parser.RegexpFilter([]string{"测试内容,测试内容，测试"}, "##测试")
+	fmt.Println(test)
+	var test2 = parser.RegexpFilter([]string{"测试内容,测屁内容，测试"}, "##测(.)##体$1")
+	fmt.Println(test2)
+	var test3 = parser.RegexpFilter([]string{"测试内容,测试内容，测试"}, "##(.)试##替换$1的###")
+	fmt.Println(test3)
 }

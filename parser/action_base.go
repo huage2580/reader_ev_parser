@@ -48,7 +48,7 @@ func (parser ActionParser) parse(rule string, needFilterString bool) []string {
 	//合并结果集
 	var resultComb = CombineResultEach(resultList, opMode)
 	//正则净化结果
-	var resultAfterRegexp = regexpFilter(resultComb, regexpRule)
+	var resultAfterRegexp = RegexpFilter(resultComb, regexpRule)
 	//maybe 执行js？
 	//反转列表
 	if needReverse {
@@ -105,13 +105,39 @@ func CombineResultEach(input [][]string, opMode string) []string {
 	return input[0]
 }
 
-// 正则净化结果
-func regexpFilter(input []string, regexpRule string) []string {
+// RegexpFilter 正则净化结果
+func RegexpFilter(input []string, regexpRule string) []string {
 	if regexpRule == "" {
 		return input
 	}
-	//todo
-	return nil
+	reList := strings.Split(regexpRule, RE_REPLACE)
+	length := len(reList)
+	var rule, replace string
+	var onlyOne = false
+	rule = reList[1]
+	if length == 2 { //
+		replace = ""
+	} else if length == 3 { //
+		replace = reList[2]
+	} else if length == 4 { //
+		replace = reList[2]
+		onlyOne = true
+	}
+	//把 $1 换成 ${1}的格式，go对前者兼容很差
+	realReplace := regexp.MustCompile(`\$(\d*)`).ReplaceAllString(replace, `${$1}`)
+	for i, str := range input {
+		re := regexp.MustCompile(rule)
+		onlyOneFlag := false
+		output := re.ReplaceAllStringFunc(str, func(a string) string {
+			if onlyOneFlag && onlyOne {
+				return a
+			}
+			onlyOneFlag = true
+			return re.ReplaceAllString(a, realReplace)
+		})
+		input[i] = output
+	}
+	return input
 }
 
 // 反转数组
