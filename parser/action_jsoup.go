@@ -19,13 +19,13 @@ func (action JsoupAction) parseEach(input interface{}, rule string, needFilterSt
 		if rule == "" {
 			return []interface{}{input}
 		}
-		return parseHtml(input.(string), rule, needFilterString)
+		return parseHtmlJsoup(input.(string), rule, needFilterString)
 	case *goquery.Selection:
 		var node = input.(*goquery.Selection)
-		return parseDocument(node, rule, needFilterString)
+		return parseDocumentJsoup(node, rule, needFilterString)
 	case *html.Node: //预留给xpath的
 		var nde = input.(*html.Node)
-		return parseDocument(goquery.NewDocumentFromNode(nde).Find("body").Children().First(), rule, needFilterString)
+		return parseDocumentJsoup(goquery.NewDocumentFromNode(nde).Find("body").Children().First(), rule, needFilterString)
 	default:
 		//not support
 	}
@@ -43,16 +43,16 @@ func (action JsoupAction) getType() string {
 	return ACTION_TYPE_JSOUP
 }
 
-func parseHtml(html string, rule string, needFilterString bool) []interface{} {
+func parseHtmlJsoup(html string, rule string, needFilterString bool) []interface{} {
 	document, e := goquery.NewDocumentFromReader(strings.NewReader(html))
 	if e != nil {
 		log.Fatal(e)
 		return []interface{}{}
 	}
-	return parseDocument(document.Selection, rule, needFilterString)
+	return parseDocumentJsoup(document.Selection, rule, needFilterString)
 }
 
-func parseDocument(node *goquery.Selection, rule string, needFilterString bool) []interface{} {
+func parseDocumentJsoup(node *goquery.Selection, rule string, needFilterString bool) []interface{} {
 	//分割文本类型,如果是获取文本，最后一个就是要求返回的文本结果，除了常用匹配，就是返回attr属性值
 	var ruleList = strings.Split(rule, DELIMITER)
 	var stringFilterValue string
@@ -70,7 +70,12 @@ func parseDocument(node *goquery.Selection, rule string, needFilterString bool) 
 		var nodesInRound = make([]*goquery.Selection, 0)
 		for _, currentNode := range currentNodes {
 			nodesInRound = make([]*goquery.Selection, 0) //清空结果
-			var find = currentNode.Find(cssQuery)
+			var find *goquery.Selection
+			if cssQuery == JSOUP_SUPPORT_CHILD { //单独处理获取子元素
+				find = currentNode.Children()
+			} else {
+				find = currentNode.Find(cssQuery)
+			}
 			var pResults = find.Nodes
 			for i := range pResults {
 				var s = find.Eq(i)
@@ -81,6 +86,12 @@ func parseDocument(node *goquery.Selection, rule string, needFilterString bool) 
 		currentNodes = filterIndex(nodesInRound, includeIndex, excludeIndex)
 	}
 	result = currentNodes
+
+	return selectionToInterface(result, needFilterString, stringFilterValue)
+}
+
+//转换结果为interface，或者string
+func selectionToInterface(result []*goquery.Selection, needFilterString bool, stringFilterValue string) []interface{} {
 	//结果集
 	var output = make([]interface{}, len(result))
 
@@ -121,7 +132,7 @@ func remapToCssQuery(r string) (string, []int, []int) {
 	//根据类型生成css
 	switch aType {
 	case JSOUP_SUPPORT_CHILD:
-		css = "*"
+		css = JSOUP_SUPPORT_CHILD
 	case JSOUP_SUPPORT_CLASS:
 		css = "." + aValue
 	case JSOUP_SUPPORT_TAG:
@@ -171,14 +182,14 @@ func mapText(node *goquery.Selection, clazz string) string {
 	case FILTER_TEXT_NODE:
 		var out = ""
 		node.Contents().Each(func(i int, s *goquery.Selection) {
-			if goquery.NodeName(s) == "#text" {
-				out = out + s.Text() + "\n"
-			}
+			out = out + s.Text() + "\n"
 		})
 		return out
 	case FILTER_ALL:
 		out, _ := node.Html()
 		return out
+	case FILTER_TAG_NAME:
+		return goquery.NodeName(node)
 	default:
 		return node.AttrOr(clazz, "null")
 	}

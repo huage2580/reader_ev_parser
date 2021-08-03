@@ -1,9 +1,9 @@
 package parser
 
-const PARSER_TYPE_CSS = "[-+]?@css:"
-const PARSER_TYPE_JSON = `[-+]?@JSon:|[-+]?@json:|\$\.`
-const PARSER_TYPE_XPATH = `[-+]?@XPath:|//`
-const PARSER_TYPE_REGEXP = "[-+]?:" //正则之AllInOne
+const PARSER_TYPE_CSS = "^[-+]?@css:"
+const PARSER_TYPE_JSON = `^[-+]?@JSon:|^[-+]?@json:|^\$\.`
+const PARSER_TYPE_XPATH = `^[-+]?@XPath:|^//`
+const PARSER_TYPE_REGEXP = "^[-+]?:" //正则之AllInOne
 
 const RE_REPLACE = "##"
 const RE_JS_TOKEN = `@js:(.*)|<js>(.*)<\/js>`
@@ -19,6 +19,7 @@ const FILTER_TEXT_NODE = "textNodes"
 const FILTER_OWN_TEXT = "ownText"
 const FILTER_HTML = "html"
 const FILTER_ALL = "all"
+const FILTER_TAG_NAME = "tag" //only for debug
 
 const JSOUP_SPLIT = "."
 
@@ -32,3 +33,4 @@ const JSOUP_EXCLUDE_CHAR = "!"
 const JSOUP_EXCLUDE_INT = ":"
 
 const ACTION_TYPE_JSOUP = "jsoup"
+const ACTION_TYPE_CSS = "css"

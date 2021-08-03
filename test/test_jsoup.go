@@ -16,7 +16,8 @@ func Jsoup() {
 
 	//jsoupBatch("id.list.0@tag.dd.0:1:2:3:4", "tag.a@href", "text")
 	//jsoupHtml("tag.div@html")
-	jsoupHtml("##div##fxxk###")
+	//jsoupHtml("##div##fxxk###")
+	jsoupBatch("id.list.0@tag.dd.0:1:2:3:4", "children@tag", "tag")
 
 }
 

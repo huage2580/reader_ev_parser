@@ -5,12 +5,10 @@ package main
 todo 入参、出参、是不是要转换成C的
 */
 
-//import "C"
-import (
-	"reader_ev_parser/test"
-)
+import "reader_ev_parser/test"
 
 func main() {
 	//test.Regexp()
+	//test.CSS()
 	test.Jsoup()
 }

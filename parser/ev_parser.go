@@ -2,7 +2,10 @@ package parser
 
 //--------解析器实现---------
 
-import uuid "github.com/satori/go.uuid"
+import (
+	uuid "github.com/satori/go.uuid"
+	"regexp"
+)
 
 var transactionCacheMap = make(map[string]interface{})
 
@@ -53,6 +56,8 @@ func factory(input interface{}, rule string, parentQueryType string) ActionParse
 	switch judgeQueryType(rule, parentQueryType) {
 	case ACTION_TYPE_JSOUP:
 		action = JsoupAction{}
+	case ACTION_TYPE_CSS:
+		action = CSSAction{}
 	default:
 		action = JsoupAction{}
 	}
@@ -74,5 +79,9 @@ func factoryForParent(tId string, rule string, index int) ActionParser {
 
 func judgeQueryType(rule string, parentQueryType string) string {
 	//todo 根据类型指派解析器,先判断自己属于什么类型,然后结合父类型
-	return "jsoup"
+	var matchCss, _ = regexp.MatchString(PARSER_TYPE_CSS, rule)
+	if matchCss {
+		return ACTION_TYPE_CSS
+	}
+	return ACTION_TYPE_JSOUP
 }

@@ -94,7 +94,7 @@ func splitOperator(input string) ([]string, string) {
 
 // CombineResultEach 组合结果
 func CombineResultEach(input [][]interface{}, opMode string) []interface{} {
-	//todo 现在只支持了两个，应该改支持多个
+	//
 	var result = input[0]
 	switch opMode {
 	case OPERATOR_AND:
