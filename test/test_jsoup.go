@@ -17,8 +17,8 @@ func Jsoup() {
 	//jsoupBatch("id.list.0@tag.dd.0:1:2:3:4", "tag.a@href", "text")
 	//jsoupHtml("tag.div@html")
 	//jsoupHtml("##div##fxxk###")
-	jsoupBatch("id.list.0@tag.dd.0:1:2:3:4", "children@tag", "tag")
-
+	//jsoupBatch("id.list.0@tag.dd.0:1:2:3:4", "children@tag", "tag")
+	KenShuWu()
 }
 
 func jsoupListStr(rule string) {
@@ -59,4 +59,40 @@ func Regexp() {
 	fmt.Println(test2)
 	var test3 = parser.RegexpFilter([]string{"测试内容,测试内容，测试"}, "##(.)试##替换$1的###")
 	fmt.Println(test3)
+}
+
+func KenShuWu() {
+	//搜索
+	//jsoupBatchInput(DATA_KENSHUWU_SEARCH,"class.novelslist2@li!0",[]string{"tag.a.0@text","tag.span.2@text","a@href","tag.a.1@text"})
+	//章节
+	//jsoupBatchInput(DATA_KENSHUWU_LIST,"id.list@dd",[]string{"a@text","a@href"})
+	//阅读页
+	jsoupStrInput(DATA_KENSHUWU_DETAIL, "id.content@textNodes")
+
+}
+
+func jsoupBatchInput(input string, rule string, rule1 []string) {
+	tId := parser.StartTransaction(input)
+	bId := parser.ParseRuleRaw(tId, rule)
+	size := parser.QueryBatchResultSize(bId)
+	fmt.Printf("jsoup rule-> [%s] result-> %d\n", rule, size)
+	for i := 0; i < size; i++ {
+		for _, r := range rule1 {
+			r1 := parser.ParseRuleStrForParent(bId, r, i)
+			fmt.Printf("%s", r1)
+		}
+		fmt.Println("")
+	}
+	parser.EndTransaction(bId)
+	parser.EndTransaction(tId)
+}
+
+func jsoupStrInput(input string, rule string) {
+	tId := parser.StartTransaction(input)
+	result := parser.ParseRuleStr(tId, rule)
+	fmt.Printf("jsoup rule-> [%s] result-> \n", rule)
+	for i, s := range result {
+		fmt.Printf("%d->%s\n", i, s)
+	}
+	parser.EndTransaction(tId)
 }

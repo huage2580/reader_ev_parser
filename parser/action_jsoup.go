@@ -170,7 +170,7 @@ func mapText(node *goquery.Selection, clazz string) string {
 		})
 		return out
 	case FILTER_TEXT:
-		return node.Text()
+		return strings.TrimSpace(node.Text())
 	case FILTER_OWN_TEXT:
 		var out = ""
 		node.Contents().Each(func(i int, s *goquery.Selection) {
@@ -182,7 +182,7 @@ func mapText(node *goquery.Selection, clazz string) string {
 	case FILTER_TEXT_NODE:
 		var out = ""
 		node.Contents().Each(func(i int, s *goquery.Selection) {
-			out = out + s.Text() + "\n"
+			out = out + strings.TrimSpace(s.Text()) + "\n"
 		})
 		return out
 	case FILTER_ALL:
