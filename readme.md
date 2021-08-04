@@ -12,3 +12,15 @@
 2. 通过go编译出ios,android,flutter,server,windows通用  
 3. 为了保证可用兼容性，放弃对JS的支持,做到剩下60%书源的兼容  
 
+##编译
+### Android
+```shell
+$env:GOOS="android"
+$env:GOARCH="arm"
+$env:CGO_ENABLED="1"
+$env:CC="C:\Users\hua\AppData\Local\Android\Sdk\ndk\22.0.7026061\toolchains\llvm\prebuilt\windows-x86_64\bin\armv7a-linux-androideabi19-clang.cmd"
+$env:CXX="C:\Users\hua\AppData\Local\Android\Sdk\ndk\22.0.7026061\toolchains\llvm\prebuilt\windows-x86_64\bin\armv7a-linux-androideabi19-clang++.cmd"
+go build -buildmode=c-shared -o evparser.so
+# 查看编译结果
+readelf -h evparser.so
+```
