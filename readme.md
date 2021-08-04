@@ -16,10 +16,10 @@
 ### Android
 ```shell
 $env:GOOS="android"
-$env:GOARCH="arm"
+$env:GOARCH="arm64"
 $env:CGO_ENABLED="1"
-$env:CC="C:\Users\hua\AppData\Local\Android\Sdk\ndk\22.0.7026061\toolchains\llvm\prebuilt\windows-x86_64\bin\armv7a-linux-androideabi19-clang.cmd"
-$env:CXX="C:\Users\hua\AppData\Local\Android\Sdk\ndk\22.0.7026061\toolchains\llvm\prebuilt\windows-x86_64\bin\armv7a-linux-androideabi19-clang++.cmd"
+$env:CC="C:\Users\hua\AppData\Local\Android\Sdk\ndk\22.0.7026061\toolchains\llvm\prebuilt\windows-x86_64\bin\aarch64-linux-android21-clang.cmd"
+$env:CXX="C:\Users\hua\AppData\Local\Android\Sdk\ndk\22.0.7026061\toolchains\llvm\prebuilt\windows-x86_64\bin\aarch64-linux-android21-clang++.cmd"
 go build -buildmode=c-shared -o evparser.so
 # 查看编译结果
 readelf -h evparser.so
