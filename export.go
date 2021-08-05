@@ -8,6 +8,7 @@ package main
 */
 import "C"
 import (
+	"log"
 	"reader_ev_parser/parser"
 	"reflect"
 	"unsafe"
@@ -21,19 +22,28 @@ func StartTransaction(inputString *C.char) *C.char {
 
 //export ParseRuleRaw
 func ParseRuleRaw(tId *C.char, rule *C.char) *C.char {
-	r := parser.ParseRuleRaw(toGoString(tId), toGoString(rule))
+	var r = ""
+	TryWithLog(func() {
+		r = parser.ParseRuleRaw(toGoString(tId), toGoString(rule))
+	})
 	return toCString(r)
 }
 
 //export ParseRuleStr
 func ParseRuleStr(tId *C.char, rule *C.char) **C.char {
-	r := parser.ParseRuleStr(toGoString(tId), toGoString(rule))
+	var r []string
+	TryWithLog(func() {
+		r = parser.ParseRuleStr(toGoString(tId), toGoString(rule))
+	})
 	return stringSliceToC(r)
 }
 
 //export ParseRuleStrForParent
 func ParseRuleStrForParent(tId *C.char, rule *C.char, index int) **C.char {
-	r := parser.ParseRuleStrForParent(toGoString(tId), toGoString(rule), index)
+	var r []string
+	TryWithLog(func() {
+		r = parser.ParseRuleStrForParent(toGoString(tId), toGoString(rule), index)
+	})
 	return stringSliceToC(r)
 }
 
@@ -72,4 +82,21 @@ func stringSliceToC(input []string) **C.char {
 	C.memcpy(p2, p1, sizeLong)
 	//C.test_print((**C.char)(p2))
 	return (**C.char)(p2)
+}
+
+//实现 try catch
+
+func Try(fun func(), handler func(interface{})) {
+	defer func() {
+		if err := recover(); err != nil {
+			handler(err)
+		}
+	}()
+	fun()
+}
+
+func TryWithLog(fun func()) {
+	Try(fun, func(i interface{}) {
+		log.Fatal(i)
+	})
 }
