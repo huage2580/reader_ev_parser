@@ -67,7 +67,7 @@ func KenShuWu() {
 	//jsoupBatchInput(DATA_KENSHUWU_SEARCH,"class.novelslist2@li!0",[]string{"tag.a.0@text","tag.span.2@text","a@href","tag.a.1@text"})
 	//章节
 	//jsoupBatchInput(DATA_KENSHUWU_LIST,"id.list@dd",[]string{"a@text","a@href"})
-	jsoupBatchInput(DATA_KENSHUWU_LIST, "id.list@dd", []string{"abc@text", "a@href"})
+	jsoupBatchInput(DATA_KENSHUWU_LIST, "id.list@dd", []string{"a@text", "a@href"})
 
 	//阅读页
 	//jsoupStrInput(DATA_KENSHUWU_DETAIL, "id.content@textNodes")

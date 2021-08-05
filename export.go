@@ -14,6 +14,8 @@ import (
 	"unsafe"
 )
 
+var holder = make(map[uintptr]interface{})
+
 //export StartTransaction
 func StartTransaction(inputString *C.char) *C.char {
 	r := parser.StartTransaction(toGoString(inputString))
@@ -30,7 +32,7 @@ func ParseRuleRaw(tId *C.char, rule *C.char) *C.char {
 }
 
 //export ParseRuleStr
-func ParseRuleStr(tId *C.char, rule *C.char) **C.char {
+func ParseRuleStr(tId *C.char, rule *C.char) uintptr {
 	var r []string
 	TryWithLog(func() {
 		r = parser.ParseRuleStr(toGoString(tId), toGoString(rule))
@@ -39,7 +41,7 @@ func ParseRuleStr(tId *C.char, rule *C.char) **C.char {
 }
 
 //export ParseRuleStrForParent
-func ParseRuleStrForParent(tId *C.char, rule *C.char, index int) **C.char {
+func ParseRuleStrForParent(tId *C.char, rule *C.char, index int) uintptr {
 	var r []string
 	TryWithLog(func() {
 		r = parser.ParseRuleStrForParent(toGoString(tId), toGoString(rule), index)
@@ -58,8 +60,18 @@ func EndTransaction(tId *C.char) {
 }
 
 //export FreeStr
-func FreeStr(address unsafe.Pointer) {
-	C.free(address)
+func FreeStr(address *C.char) {
+	C.free(unsafe.Pointer(address))
+}
+
+//export FreeSlice
+func FreeSlice(address uintptr) {
+	//fmt.Println(address)
+	var a = holder[address].([]*C.char)
+	for _, char := range a {
+		C.free(unsafe.Pointer(char))
+	}
+	delete(holder, address)
 }
 
 //------------------------------------------------------------------------
@@ -73,26 +85,16 @@ func toGoString(input *C.char) string {
 }
 
 //先转换GoString为CString,再拼接数组,返回的是指针,对应dart Point<Point<Utf8>> **char
-func stringSliceToC(input []string) **C.char {
-	arr := make([]*C.char, len(input))
+func stringSliceToC(input []string) uintptr {
+	//fmt.Println("go->",input)
+	arr := make([]*C.char, len(input)+1)
 	for i, s := range input {
 		arr[i] = C.CString(s)
 	}
 	ptr := (*reflect.SliceHeader)(unsafe.Pointer(&arr))
-	p1 := unsafe.Pointer(ptr.Data)
-	//copy 一份给c用，slice的数据在大量操作的时候，会触发go的gc，导致数据被回收
-	var sizeOfPoint = unsafe.Sizeof(p1)
-
-	//var size = (int(sizeOfPoint)) * (len(arr) + 1) //+1是为了后面放个空指针，数据完结
-	//var sizeLong = C.size_t(size)
-	//p2 := C.malloc(sizeLong)
-
-	var size = (int(sizeOfPoint)) * (len(arr) + 1) //+1是为了后面放个空指针，数据完结
-	var sizeLong = C.size_t(size)
-	p2 := C.calloc(sizeLong, 1)
-	C.memcpy(p2, p1, sizeLong)
-	//C.test_print((**C.char)(p2))
-	return (**C.char)(p2)
+	//做持有操作，避免被回收，后续调用free
+	holder[ptr.Data] = arr
+	return ptr.Data
 }
 
 //实现 try catch
