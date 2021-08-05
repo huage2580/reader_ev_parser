@@ -13,7 +13,7 @@
 3. 为了保证可用兼容性，放弃对JS的支持,做到剩下60%书源的兼容  
 
 ##编译
-### Android
+### Android arm64(aarch64)
 ```shell
 $env:GOOS="android"
 $env:GOARCH="arm64"
@@ -23,4 +23,9 @@ $env:CXX="C:\Users\hua\AppData\Local\Android\Sdk\ndk\22.0.7026061\toolchains\llv
 go build -buildmode=c-shared -o evparser.so
 # 查看编译结果
 readelf -h evparser.so
+```
+### windows
+```shell
+$env:CGO_ENABLED="1"
+go build -buildmode=c-shared -o evparser.dll
 ```

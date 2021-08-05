@@ -197,6 +197,9 @@ func mapText(node *goquery.Selection, clazz string) string {
 
 func filterIndex(nodes []*goquery.Selection, include []int, exclude []int) []*goquery.Selection {
 	var result = make([]*goquery.Selection, 0)
+	if len(nodes) == 0 {
+		return result
+	}
 	//copy
 	if len(exclude) == 0 && len(include) == 0 {
 		for _, node := range nodes {

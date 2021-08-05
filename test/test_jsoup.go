@@ -6,7 +6,8 @@ import (
 )
 
 func Jsoup() {
-	//jsoupListStr("tag.h1.0@ownText")
+	jsoupListStr("tag.h2.0@ownText")
+	jsoupListStr("tag.h1.0@ownText")
 	//jsoupListStr("text.甲方@html")
 	//jsoupListStr("id.list.0@tag.dd.0:1:2@text&&id.list.0@tag.dd.12:13@text&&id.list.0@tag.dd.12:13@html")
 	//jsoupListStr("tag.h1.0@html")
@@ -66,8 +67,10 @@ func KenShuWu() {
 	//jsoupBatchInput(DATA_KENSHUWU_SEARCH,"class.novelslist2@li!0",[]string{"tag.a.0@text","tag.span.2@text","a@href","tag.a.1@text"})
 	//章节
 	//jsoupBatchInput(DATA_KENSHUWU_LIST,"id.list@dd",[]string{"a@text","a@href"})
+	jsoupBatchInput(DATA_KENSHUWU_LIST, "id.list@dd", []string{"abc@text", "a@href"})
+
 	//阅读页
-	jsoupStrInput(DATA_KENSHUWU_DETAIL, "id.content@textNodes")
+	//jsoupStrInput(DATA_KENSHUWU_DETAIL, "id.content@textNodes")
 
 }
 
