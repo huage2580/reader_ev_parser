@@ -57,7 +57,13 @@ func EndTransaction(tId *C.char) {
 	parser.EndTransaction(toGoString(tId))
 }
 
+//export FreeStr
+func FreeStr(address unsafe.Pointer) {
+	C.free(address)
+}
+
 //------------------------------------------------------------------------
+
 func toCString(input string) *C.char {
 	return C.CString(input)
 }
@@ -76,9 +82,14 @@ func stringSliceToC(input []string) **C.char {
 	p1 := unsafe.Pointer(ptr.Data)
 	//copy 一份给c用，slice的数据在大量操作的时候，会触发go的gc，导致数据被回收
 	var sizeOfPoint = unsafe.Sizeof(p1)
+
+	//var size = (int(sizeOfPoint)) * (len(arr) + 1) //+1是为了后面放个空指针，数据完结
+	//var sizeLong = C.size_t(size)
+	//p2 := C.malloc(sizeLong)
+
 	var size = (int(sizeOfPoint)) * (len(arr) + 1) //+1是为了后面放个空指针，数据完结
 	var sizeLong = C.size_t(size)
-	p2 := C.malloc(sizeLong)
+	p2 := C.calloc(sizeLong, 1)
 	C.memcpy(p2, p1, sizeLong)
 	//C.test_print((**C.char)(p2))
 	return (**C.char)(p2)

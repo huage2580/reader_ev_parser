@@ -26,6 +26,10 @@ readelf -h evparser.so
 ```
 ### windows
 ```shell
+$env:GOOS=""
+$env:GOARCH=""
 $env:CGO_ENABLED="1"
+$env:CC=""
+$env:CXX=""
 go build -buildmode=c-shared -o evparser.dll
 ```
