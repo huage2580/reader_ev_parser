@@ -142,7 +142,7 @@ func remapToCssQuery(r string) (string, []int, []int) {
 	case JSOUP_SUPPORT_TEXT:
 		css = ":containsOwn(" + aValue + ")"
 	default:
-		css = aType
+		css = r //直接执行css，不支持的类型
 	}
 	return css, indexStringToArray(includeStr), indexStringToArray(excludeStr)
 }
