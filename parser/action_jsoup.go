@@ -161,8 +161,11 @@ func mapText(node *goquery.Selection, clazz string) string {
 	case FILTER_HTML:
 		var out = ""
 		node.Contents().Each(func(i int, s *goquery.Selection) {
-			if goquery.NodeName(s) == "br" {
+			var nodeName = goquery.NodeName(s)
+			if nodeName == "br" {
 				out = out + "\n"
+			} else if nodeName != "script" && nodeName != "style" {
+				//nothing
 			} else {
 				out = out + s.Text()
 			}
