@@ -8,7 +8,7 @@ package main
 */
 import "C"
 import (
-	"log"
+	"fmt"
 	"reader_ev_parser/parser"
 	"reflect"
 	"sync"
@@ -34,7 +34,7 @@ func ParseRuleRaw(tId *C.char, rule *C.char) *C.char {
 
 //export ParseRuleStr
 func ParseRuleStr(tId *C.char, rule *C.char) uintptr {
-	var r []string
+	var r = make([]string, 0)
 	TryWithLog(func() {
 		r = parser.ParseRuleStr(toGoString(tId), toGoString(rule))
 	})
@@ -43,7 +43,7 @@ func ParseRuleStr(tId *C.char, rule *C.char) uintptr {
 
 //export ParseRuleStrForParent
 func ParseRuleStrForParent(tId *C.char, rule *C.char, index int) uintptr {
-	var r []string
+	var r = make([]string, 0)
 	TryWithLog(func() {
 		r = parser.ParseRuleStrForParent(toGoString(tId), toGoString(rule), index)
 	})
@@ -90,6 +90,9 @@ func toGoString(input *C.char) string {
 
 //先转换GoString为CString,再拼接数组,返回的是指针,对应dart Point<Point<Utf8>> **char
 func stringSliceToC(input []string) uintptr {
+	if len(input) == 0 {
+		return uintptr(0)
+	}
 	//fmt.Println("go->",input)
 	arr := make([]*C.char, len(input)+1)
 	for i, s := range input {
@@ -114,6 +117,6 @@ func Try(fun func(), handler func(interface{})) {
 
 func TryWithLog(fun func()) {
 	Try(fun, func(i interface{}) {
-		log.Fatal(i)
+		fmt.Println("golang parser error ->", i)
 	})
 }

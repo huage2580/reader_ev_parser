@@ -7,7 +7,11 @@ import (
 )
 
 func Test_ME(t *testing.T) {
-	Jsoup()
+	//Jsoup()
+	//m01xs()
+	//m01xcList()
+	//Biquge()
+	KenShuWu()
 }
 
 func Jsoup() {
@@ -70,13 +74,12 @@ func Regexp() {
 
 func KenShuWu() {
 	//搜索
-	//jsoupBatchInput(DATA_KENSHUWU_SEARCH,"class.novelslist2@li!0",[]string{"tag.a.0@text","tag.span.2@text","a@href","tag.a.1@text"})
+	jsoupBatchInput(DATA_KENSHUWU_SEARCH, "class.novelslist2@li!0", []string{"tag.a.0@text", "tag.span.2@text", "a@href", "tag.a.1@text"})
 	//章节
-	//jsoupBatchInput(DATA_KENSHUWU_LIST,"id.list@dd",[]string{"a@text","a@href"})
-	jsoupBatchInput(DATA_biquge_LIST, ".mulu_list li a", []string{"text", "href"})
+	jsoupBatchInput(DATA_KENSHUWU_LIST, "id.list@dd", []string{"a@text", "a@href"})
 
 	//阅读页
-	//jsoupStrInput(DATA_KENSHUWU_DETAIL, "id.content@textNodes")
+	jsoupStrInput(DATA_KENSHUWU_DETAIL, "id.content@textNodes")
 
 }
 
@@ -90,6 +93,17 @@ func Biquge() {
 
 	//阅读页
 	//jsoupStrInput(DATA_KENSHUWU_DETAIL, "id.content@textNodes")
+
+}
+
+func m01xs() {
+	jsoupBatchInput(DATA_01xs_SEARCH, ".search-list dl",
+		[]string{"tag.a.0@text", "tag.dd.0@text##.*：|\\s.*", "tag.dd.0:1@text##.*\\s", "tag.a.1@text", "tag.a.0@href", "tag.a.0@href##.+\\D((\\d+)\\d{3})\\D##https://img01xs.cdn.bcebos.com/files/article/image/$2/$1/$1s.jpg###"})
+
+}
+
+func m01xcList() {
+	jsoupBatchInput(DATA_m01xs_LIST, "#index_list!-1@li a", []string{"text", "href"})
 
 }
 

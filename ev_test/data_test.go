@@ -3667,3 +3667,7319 @@ var DATA_biquge_LIST = `
 
 <!DOCTYPE html><html><head><meta charset="gbk"><title>凡人修仙传最新章节_凡人修仙传全文阅读_忘语_笔趣阁小说网</title><meta name="keywords" content="凡人修仙传,凡人修仙传最新章节,凡人修仙传全文阅读,忘语"/><meta name="description" content="凡人修仙传，凡人修仙传全文阅读。凡人修仙传是作家忘语的最新修真小说大作，笔趣阁小说网提供凡人修仙传首发最新章节及章节列表，凡人修仙传最新更新尽在笔趣阁小说网。"/><link href="https://www.bqg34.net/article/9148/" rel="canonical"/><meta name="mobile-agent" content="format=html5;url=https://m.bqg34.net/article/9148/"><meta name="mobile-agent" content="format=xhtml;url=https://m.bqg34.net/article/9148/"><meta name="applicable-device" content="pc"><meta http-equiv="Cache-Control" content="no-transform"/><meta http-equiv="Cache-Control" content="no-siteapp"/><meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0" /><meta property="og:type" content="novel"/><meta property="og:title" content="凡人修仙传"/><meta property="og:description" content="一个普通山村小子，偶然下进入到当地江湖小门派，成了一名记名弟子。他以这样身份，如何在门派中立足,如何以平庸的资质进入到修仙者的行列，从而笑傲三界之中！诸位道友，.."/><meta property="og:image" content="https://www.bqg34.net/modules/article/images/nocover.jpg"/><meta property="og:novel:category" content="修真小说"/><meta property="og:novel:author" content="忘语"/><meta property="og:novel:book_name" content="凡人修仙传"/><meta property="og:novel:read_url" content="https://www.bqg34.net/article/9148/"/><meta property="og:url" content="https://www.bqg34.net/article/9148/"/><meta property="og:novel:status" content="已完成"/><meta property="og:novel:author_link" content="https://www.bqg34.net/modules/article/authorarticle.php?author=忘语"/><meta property="og:novel:update_time" content="2016-03-16 06:28:42" /><meta property="og:novel:latest_chapter_name" content="正文 忘语新书《玄界之门》"/><meta property="og:novel:latest_chapter_url" content="https://www.bqg34.net/article/9148/4311901.html"/><link rel="stylesheet" href="/biquge/css/style.css" type="text/css" /><link rel="stylesheet" href="/biquge/css/book.css" type="text/css" /><script type="text/javascript" src="/biquge/js/jquery191.min.js"></script><script type="text/javascript" src="/biquge/js/script.js"></script><script>Go("https://m.bqg34.net/article/9148/");</script><script data-ad-client="ca-pub-4554708189793180" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script></head><body><div class="header"><a href="https://www.bqg34.net" class="logo"><img src="/biquge/images/logo.png" alt="笔趣阁小说网"/></a><div class="header-search"><script type="text/javascript"> SearchBox(); </script></div><div class="header-right"><script type="text/javascript"> login(); </script></div><div class="clear"></div></div><div class="nav-bar"><div class="nav_cont"><ul><li><a href="https://www.bqg34.net" title="笔趣阁小说网首页"> 首页</a></li><li><a href="https://www.bqg34.net/fenlei/1_1/" title="玄幻小说">玄幻小说</a></li><li><a href="https://www.bqg34.net/fenlei/2_1/" title="修真小说">修真小说</a></li><li><a href="https://www.bqg34.net/fenlei/3_1/" title="都市小说">都市小说</a></li><li><a href="https://www.bqg34.net/fenlei/4_1/" title="历史小说">历史小说</a></li><li><a href="https://www.bqg34.net/fenlei/5_1/" title="网游小说">网游小说</a></li><li><a href="https://www.bqg34.net/fenlei/6_1/" title="科幻小说">科幻小说</a></li><li><a href="https://www.bqg34.net/fenlei/7_1/" title="恐怖小说">恐怖小说</a></li><li><a href="https://www.bqg34.net/fenlei/8_1/" title="其他小说">其他小说</a></li><li><a href="https://www.bqg34.net/quanben/" title="完本小说">完本小说</a></li><li><a href="https://www.bqg34.net/top/monthvisit/" title="热门小说">热门小说</a></li></ul></div><div class="clear"></div></div><div class="warpper"><div id="maininfo"><div class="weizhi"><a href="https://www.bqg34.net">笔趣阁小说网</a> &gt; <a href="/fenlei/2_1/" target="_blank">修真小说</a> &gt; 凡人修仙传 </div><div class="book-img"><div id="fmimg"><img width="140px" height="180px" src="https://www.bqg34.net/modules/article/images/nocover.jpg" alt="凡人修仙传" /><span class="a"></span></div></div><div id="info"><h1>凡人修仙传</h1><p>作者：<a href="/modules/article/authorarticle.php?author=忘语" title="忘语作品全集" target="_blank">忘语</a></p><p> 动作：<a href="javascript:;" onclick="BookVote('9148');" rel="nofollow">投票推荐</a>，<a href="javascript:;" onclick="BookCaseAdd('9148');">加入书架</a>，<a href="#footer" rel="nofollow">直达底部</a></p><p> 更新时间：2016-03-16 06:28&nbsp; [人气：2w+] </p><p>最新：<a class="red" href="4311901.html" title="正文 忘语新书《玄界之门》">正文 忘语新书《玄界之门》</a></p><div class="clear"></div><div id="intro"> &nbsp;&nbsp;一个普通山村小子，偶然下进入到当地江湖小门派，成了一名记名弟子。他以这样身份，如何在门派中立足,如何以平庸的资质进入到修仙者的行列，从而笑傲三界之中！<br /> &nbsp;&nbsp;诸位道友，忘语新书《大梦主》，经在起点中文网上传了，欢迎大家继续支持哦！<br /></div></div><div class="clear"></div><div class="tjlist">推荐阅读：<a href="https://www.bqg34.net/article/100542/" target="_blank" title="天下第九">天下第九</a>、<a href="https://www.bqg34.net/article/100952/" target="_blank" title="三寸人间">三寸人间</a>、<a href="https://www.bqg34.net/article/112256/" target="_blank" title="大符篆师">大符篆师</a>、<a href="https://www.bqg34.net/article/25779/" target="_blank" title="飞剑问道">飞剑问道</a>、<a href="https://www.bqg34.net/article/110522/" target="_blank" title="仙宫">仙宫</a>、<a href="https://www.bqg34.net/article/109775/" target="_blank" title="大侠萧金衍">大侠萧金衍</a>、<a href="https://www.bqg34.net/article/102211/" target="_blank" title="大华恩仇引">大华恩仇引</a>、<a href="https://www.bqg34.net/article/10388/" target="_blank" title="天刑纪">天刑纪</a>、<a href="https://www.bqg34.net/article/12992/" target="_blank" title="一念永恒">一念永恒</a>、<a href="https://www.bqg34.net/article/37984/" target="_blank" title="武道宗师">武道宗师</a></div></div></div><div class="warpper"><center class="clear" style="margin-top: 10px;"><script>hf();</script></center><div class="mu_contain"><ul class="mulu_list"><li class="fenjuan">《凡人修仙传》正文</li><li><a href="4309392.html">第一章 山边小村</a></li><li><a href="4309393.html">第二章 青牛镇</a></li><li><a href="4309394.html">第三章 七玄门</a></li><li><a href="4309395.html">第四章 炼骨崖</a></li><li><a href="4309396.html">第五章 墨大夫</a></li><li><a href="4309397.html">第六章 无名口诀</a></li><li><a href="4309398.html">第七章 修炼难</a></li><li><a href="4309399.html">第八章 入门弟子</a></li><li><a href="4309400.html">第九章 象甲功</a></li><li><a href="4309401.html">第十章 神秘瓶子</a></li><li><a href="4309402.html">第十一章 瓶难开</a></li><li><a href="4309403.html">第十二章 砸瓶子</a></li><li><a href="4309404.html">第十三章 异象起</a></li><li><a href="4309405.html">第十四章 神秘液</a></li><li><a href="4309406.html">第十五章 四年后</a></li><li><a href="4309407.html">第十六章 小算盘</a></li><li><a href="4309408.html">第十七章 厉师兄（1）</a></li><li><a href="4309409.html">第十八章 厉师兄（2）</a></li><li><a href="4309410.html">第十九章 江湖斗</a></li><li><a href="4309411.html">第二十章 抽髓丸</a></li><li><a href="4309412.html">第二十一章 止痛药</a></li><li><a href="4309413.html">第二十二章 心魔生</a></li><li><a href="4309414.html">第二十三章 试药兔</a></li><li><a href="4309415.html">第二十四章 惊魂定</a></li><li><a href="4309416.html">第二十五章 插柳成</a></li><li><a href="4309417.html">第二十六章 催药生</a></li><li><a href="4309418.html">第二十七章 配灵药</a></li><li><a href="4309419.html">第二十八章 墨回谷</a></li><li><a href="4309420.html">第二十九章 冲突起</a></li><li><a href="4309421.html">第三十章 枭雄末路</a></li><li><a href="4309422.html">第三十一章 尸虫丸</a></li><li><a href="4309423.html">第三十二章 豪气生</a></li><li><a href="4309424.html">第三十三章 私下交易</a></li><li><a href="4309425.html">第三十四章 眨眼剑法</a></li><li><a href="4309426.html">第三十五章 偷秘籍</a></li><li><a href="4309427.html">第三十六章 吃惊</a></li><li><a href="4309428.html">第三十七章 三不练</a></li><li><a href="4309429.html">第三十八章 夜遇奸细</a></li><li><a href="4309430.html">第三十九章 变态条件</a></li><li><a href="4309431.html">第四十章 秘技渊源</a></li><li><a href="4309432.html">第四十一章 留言夜出</a></li><li><a href="4309433.html">第四十二章 云翅鸟</a></li><li><a href="4309434.html">第四十三章 万事具备</a></li><li><a href="4309435.html">第四十四章 解药</a></li><li><a href="4309436.html">第四十五章 暗算与獠牙</a></li><li><a href="4309437.html">第四十六章 破膛一剑</a></li><li><a href="4309438.html">第四十七章 魔银手对罗烟步</a></li><li><a href="4309439.html">第四十八章 诈语</a></li><li><a href="4309440.html">第四十九章 套中套</a></li><li><a href="4309441.html">第五十章 缠香丝</a></li><li><a href="4309442.html">第五十一章 巨汉显威</a></li><li><a href="4309443.html">第五十二章 七鬼噬魂</a></li><li><a href="4309444.html">第五十三章 美男子</a></li><li><a href="4309445.html">第五十四章 定神符</a></li><li><a href="4309446.html">第五十五章 第三人</a></li><li><a href="4309447.html">第五十六章 光球之战</a></li><li><a href="4309448.html">第五十七章 身醒敌亡</a></li><li><a href="4309449.html">第五十八章 修仙者</a></li><li><a href="4309450.html">第五十九章 三大铁则</a></li><li><a href="4309451.html">第六十章 试毒</a></li><li><a href="4309452.html">第六十一章 神灭</a></li><li><a href="4309453.html">第六十二章 交易</a></li><li><a href="4309454.html">第六十三章 真容</a></li><li><a href="4309455.html">第六十四章 曲魂</a></li><li><a href="4309456.html">第六十五章 韩神医</a></li><li><a href="4309457.html">第六十六章 古怪规定</a></li><li><a href="4309458.html">第六十七章 火弹术</a></li><li><a href="4309459.html">第六十八章 中毒</a></li><li><a href="4309460.html">第六十九章 厉飞雨与少女</a></li><li><a href="4309461.html">第七十章 挑拨</a></li><li><a href="4309462.html">第七十一章 清灵散</a></li><li><a href="4309463.html">第七十二章 拔毒</a></li><li><a href="4309464.html">第七十三章 厉飞雨的心思</a></li><li><a href="4309465.html">第七十四章 御风决</a></li><li><a href="4309466.html">第七十五章 法武并用</a></li><li><a href="4309467.html">第七十六章 谈判与火起</a></li><li><a href="4309468.html">第七十七章 对策</a></li><li><a href="4309469.html">第七十八章 林中杀戮</a></li><li><a href="4309470.html">第七十九章 拷问</a></li><li><a href="4309471.html">第八十章 遇敌</a></li><li><a href="4309472.html">第八十一章 贾天龙</a></li><li><a href="4309473.html">第八十二章 金光上人</a></li><li><a href="4309474.html">第八十三章 大陷阱</a></li><li><a href="4309475.html">第八十四章 地动山摇</a></li><li><a href="4309476.html">第八十五章 死契血斗</a></li><li><a href="4309477.html">第八十六章 突变</a></li><li><a href="4309478.html">第八十七章 略显身手</a></li><li><a href="4309479.html">第八十八章 金光罩</a></li><li><a href="4309480.html">第八十九章 矛与盾</a></li><li><a href="4309481.html">第九十章 飞剑?</a></li><li><a href="4309482.html">第九十一章 抢宝</a></li><li><a href="4309483.html">第九十二章 剑符</a></li><li><a href="4309484.html">第九十三章 烈火焚敌</a></li><li><a href="4309485.html">第九十四章 完胜</a></li><li><a href="4309486.html">第九十五章 魔名赫起</a></li><li><a href="4309487.html">第九十六章 缺陷</a></li><li><a href="4309488.html">第九十七章 背后交易</a></li><li><a href="4309489.html">第九十八章 回村</a></li><li><a href="4309490.html">第九十九章 离开</a></li><li><a href="4309491.html">第一百章 嘉元城</a></li><li><a href="4309492.html">第一百零一章 钱财惹祸</a></li><li><a href="4309493.html">第一百零二章 格杀</a></li><li><a href="4309494.html">第一百零三章 收服</a></li><li><a href="4309495.html">第一百零四章 情报</a></li><li><a href="4309496.html">第一百零五章 惊信</a></li><li><a href="4309497.html">第一百零六章 蓝衣人</a></li><li><a href="4309498.html">第一百零七章 墨玉珠</a></li><li><a href="4309499.html">第一百零八章 夜入墨府</a></li><li><a href="4309500.html">第一百零九章 登门</a></li><li><a href="4309501.html">第一百一十章 狐媚</a></li><li><a href="4309502.html">第一百一十一章 美妇</a></li><li><a href="4309503.html">第一百一十二章 暗信</a></li><li><a href="4309504.html">第一百一十三章 萦香丸</a></li><li><a href="4309505.html">第一百一十四章 燕歌痴情</a></li><li><a href="4309506.html">第一百一十五章 惊变</a></li><li><a href="4309507.html">第一百一十六章 翻脸</a></li><li><a href="4309508.html">第一百一十七章 言和</a></li><li><a href="4309509.html">第一百一十八章 二选一</a></li><li><a href="4309510.html">第一百一十九章 意外消息</a></li><li><a href="4309511.html">第一百二十章 定计夺帮</a></li><li><a href="4309512.html">第一百二十一章 潇湘院</a></li><li><a href="4309513.html">第一百二十二章 毒杀</a></li><li><a href="4309514.html">第一百二十三章 交易</a></li><li><a href="4309515.html">第一百二十四章 墨凤舞</a></li><li><a href="4309516.html">第一百二十五章 安排</a></li><li><a href="4309517.html">第一百二十六章 太南山、太南谷、少年</a></li><li><a href="4309518.html">第一百二十七章 灵根之说</a></li><li><a href="4309519.html">第一百二十八章 太南小会</a></li><li><a href="4309520.html">第一百二十九章 青颜真人</a></li><li><a href="4309521.html">第一百三十章 入伙</a></li><li><a href="4309522.html">第一百三十一章 灵石与灵符</a></li><li><a href="4309523.html">第一百三十二章 收获</a></li><li><a href="4309524.html">一百三十三章 偷技</a></li><li><a href="4309525.html">第一百三十四章 升仙大会</a></li><li><a href="4309526.html">第一百三十五章 惊闻</a></li><li><a href="4309527.html">第一百三十六章 燕家</a></li><li><a href="4309528.html">第一百三十七章 金竺笔</a></li><li><a href="4309529.html">第一百三十八章 制符之道</a></li><li><a href="4309530.html">第一百三十九章 法宝残片</a></li><li><a href="4309531.html">第一百四十章 势在必得</a></li><li><a href="4309532.html">第一百四十一章 升仙令（又缺票票了）</a></li><li><a href="4309533.html">第一百四十二章 袭杀</a></li><li><a href="4309534.html">第一百四十三章 斩杀</a></li><li><a href="4309535.html">第一百四十四章 筑基丹之争</a></li><li><a href="4309536.html">第一百四十五章 不速之客</a></li><li><a href="4309537.html">第一百四十六章 成交</a></li><li><a href="4309538.html">第一百四十七章 谷内详情</a></li><li><a href="4309539.html">第一百四十八章 灰衣老者</a></li><li><a href="4309540.html">第一百四十九章 杂务</a></li><li><a href="4309541.html">第一百五十章 悔诺</a></li><li><a href="4309542.html">第一百五十一章 百药园</a></li><li><a href="4309543.html">第一百五十二章 两年后</a></li><li><a href="4309544.html">第一百五十三章 岳麓殿</a></li><li><a href="4309545.html">第一百五十四章 许老与藏室</a></li><li><a href="4309546.html">第一百五十五章 郁闷</a></li><li><a href="4309547.html">第一百五十六章 地肺之火</a></li><li><a href="4309548.html">第一百五十七章 慕容兄弟</a></li><li><a href="4309549.html">第一百五十八章 蓝衣女子</a></li><li><a href="4309550.html">第一百五十九章 天地灵药</a></li><li><a href="4309551.html">第一百六十章 血禁试炼</a></li><li><a href="4309552.html">第一百六十一章 坊市</a></li><li><a href="4309553.html">第一百六十二章 万宝楼</a></li><li><a href="4309554.html">第一百六十三章 锦盒之宝</a></li><li><a href="4309555.html">第一百六十四章 符宝之秘</a></li><li><a href="4309556.html">第一百六十五章 夜遇</a></li><li><a href="4309557.html">第一百六十六章 狠毒</a></li><li><a href="4309558.html">第一百六十七章 恶斗（上）</a></li><li><a href="4309559.html">第一百六十八章 恶斗（中）</a></li><li><a href="4309560.html">第一百六十九章 恶斗（下）</a></li><li><a href="4309561.html">第一百七十章 战利品与香艳</a></li><li><a href="4309562.html">第一百七十一章 返回</a></li><li><a href="4309563.html">第一百七十二章 选择</a></li><li><a href="4309564.html">第一百七十三章 聚集</a></li><li><a href="4309565.html">第一百七十四章 李师祖</a></li><li><a href="4309566.html">第一百七十五章 清虚门</a></li><li><a href="4309567.html">第一百七十六章 赌约</a></li><li><a href="4309568.html">第一百七十七章 修仙界与正邪</a></li><li><a href="4309569.html">第一百七十八章 掩月宗</a></li><li><a href="4309570.html">第一百七十九章 破禁</a></li><li><a href="4309571.html">第一百八十章 乌龙潭</a></li><li><a href="4309572.html">第一百八十一章 彩蝶与死战</a></li><li><a href="4309573.html">第一百八十二章 少女与丝线</a></li><li><a href="4309574.html">第一把八十三章 融灵符</a></li><li><a href="4309575.html">第一百八十四章 金光砖之威</a></li><li><a href="4309576.html">第一百八十五章 强者</a></li><li><a href="4309577.html">第一百八十六章 出手</a></li><li><a href="4309578.html">第一百八十七章 黄雀“封岳”</a></li><li><a href="4309579.html">第一百八十八章 恶名</a></li><li><a href="4309580.html">第一百八十九章 雷灭</a></li><li><a href="4309581.html">第一百九十章 乌靴</a></li><li><a href="4309582.html">第一百九十一章 异心与孤零</a></li><li><a href="4309583.html">第一百九十二章 飞蛇 (解禁）</a></li><li><a href="4309584.html">第三卷 第一百九十三章 敌友之分（求月票了）</a></li><li><a href="4309585.html">第三卷 第一百九十四章 中心区秘闻</a></li><li><a href="4309586.html">第三卷 第一百九十五章 “月阳宝珠”之威</a></li><li><a href="4309587.html">第三卷 第一百九十六章 韩立的计划</a></li><li><a href="4309588.html">第三卷 第一百九十七章 妖兽巨蜈蚣</a></li><li><a href="4309589.html">第三卷 第一百九十八章 冲突</a></li><li><a href="4309590.html">第三卷 第一百九十九章 陈氏兄妹</a></li><li><a href="4309591.html">第三卷 第二百章 少女与少女</a></li><li><a href="4309592.html">第三卷 第二百零一章 武痴</a></li><li><a href="4309593.html">第三卷 第二百零二章 灭口</a></li><li><a href="4309594.html">第三卷 第二百零三章 无忧针与忘尘丹</a></li><li><a href="4309595.html">第三卷 第二百零四章 石殿与地道</a></li><li><a href="4309596.html">第三卷 第二百零五章 观战</a></li><li><a href="4309597.html">第三卷 第二百零六章 意外</a></li><li><a href="4309598.html">第三卷 第二百零七章 屠蛟与战利品</a></li><li><a href="4309599.html">第三卷 第二百零八章 合欢</a></li><li><a href="4309600.html">第三卷 第二百零九章 回归</a></li><li><a href="4309601.html">第三卷 第二百一十章 赌局</a></li><li><a href="4309602.html">第三卷 第二百一十一章 赢家</a></li><li><a href="4309603.html">第三卷 第二百一十二章 恍然</a></li><li><a href="4309604.html">第三卷 第二百一十三章 准备</a></li><li><a href="4309605.html">第三卷 第二百一十四章 地火之屋</a></li><li><a href="4309606.html">第三卷 第二百一十五章 炼丹与筑基</a></li><li><a href="4309607.html">第三卷 第二百一十六章 药力</a></li><li><a href="4309608.html">第三卷 第二百一十七章 剑诀</a></li><li><a href="4309609.html">第三卷 第二百一十八章 缺陷与优势</a></li><li><a href="4309610.html">第三卷 第二百一十九章 会谈</a></li><li><a href="4309611.html">第三卷 第二百二十章 灵眼之泉</a></li><li><a href="4309612.html">第三卷 第二百二十一章 天星宗与法阵</a></li><li><a href="4309613.html">第三卷 第二百二十二章 炼器高手</a></li><li><a href="4309614.html">第三卷 第二百二十三章 秘店、竞卖会(求月票了）</a></li><li><a href="4309615.html">第三卷 第二百二十四章 傀儡机关兽</a></li><li><a href="4309616.html">第三卷 第二百二十五章 铁精、灵药</a></li><li><a href="4309617.html">第三卷 第二百二十六章 颠倒五行阵</a></li><li><a href="4309618.html">第三卷 第二百二十七章 结交之心</a></li><li><a href="4309619.html">第三卷 第二百二十八章 傀儡与修士</a></li><li><a href="4309620.html">第三卷 第二百二十九章 巨虎</a></li><li><a href="4309621.html">第三卷 第二百三十章 圈套</a></li><li><a href="4309622.html">第三卷 第二百三十一章 惹祸上门</a></li><li><a href="4309623.html">第三卷 第二百三十二章 大衍决</a></li><li><a href="4309624.html">第三卷 第三百三十三章 雷万鹤(月票榜危机，请求大量月票支持）</a></li><li><a href="4309625.html">第三卷 第二百三十四章 禁制、灵药</a></li><li><a href="4309626.html">第三卷 第二百三十五章 韩立的心思（一日三更爆发完毕，需要大家的月票支持啊）</a></li><li><a href="4309627.html">第三卷 第二百三十六章 古方（召唤月票了）</a></li><li><a href="4309628.html">第三卷 第二百三十七章 参见（月票支持哦）</a></li><li><a href="4309629.html">第三卷 第二百三十八章 于坤的可怕</a></li><li><a href="4309630.html">第三卷 第二百三十九章 抉择（召唤月票支持）</a></li><li><a href="4309631.html">第三卷 第二百四十章 书页</a></li><li><a href="4309632.html">第三卷 第二百四十一章 三转重元功(三更完毕，呼唤下月票）</a></li><li><a href="4309633.html">第三卷 第二百四十二章 制符</a></li><li><a href="4309634.html">第三卷 第二百四十三章 药效</a></li><li><a href="4309635.html">第三卷 第二百四十四章 双修（月底了，狂唤月票）</a></li><li><a href="4309636.html">第三卷 第二百四十五章 远行与意外</a></li><li><a href="4309637.html">第三卷 第二百四十六章 董萱儿</a></li><li><a href="4309638.html">第三卷 第二百四十七章 燕氏兄妹 （月底了，狂唤月票）</a></li><li><a href="4309639.html">第三卷 第二百四十八章 争风</a></li><li><a href="4309640.html">第三卷 第二百四十九章 比试</a></li><li><a href="4309641.html">第三卷 第二百五十章 故人遇</a></li><li><a href="4309642.html">第三卷 第二百五十一章 毁灭</a></li><li><a href="4309643.html">第三卷 第二百五十二章 分离</a></li><li><a href="4309644.html">第三卷 第二百五十三章 鬼灵门</a></li><li><a href="4309645.html">第三卷 第二百五十四章 燕家老祖</a></li><li><a href="4309646.html">第三卷 第二百五十五章 密会</a></li><li><a href="4309647.html">第三卷 第二百五十六章 谋划</a></li><li><a href="4309648.html">第三卷 第二百五十七章 血祭与艳丽男子</a></li><li><a href="4309649.html">第三卷 第二百五十八章 迷魂</a></li><li><a href="4309650.html">第三卷 第二百五十九章 风动</a></li><li><a href="4309651.html">第三卷 第二百六十章 圈套</a></li><li><a href="4309652.html">第三卷 第二百六十一章 血灵大法</a></li><li><a href="4309653.html">第三卷 第二百六十二章 脱身</a></li><li><a href="4309654.html">第三卷 第二百六十三章 实力</a></li><li><a href="4309655.html">第三卷 第二百六十四章 机关傀儡与大衍决</a></li><li><a href="4309656.html">第三卷 第二百六十五章 战况</a></li><li><a href="4309657.html">第三卷 第二百六十六章 激斗</a></li><li><a href="4309658.html">第三卷 第二百六十七章 魔火逞威</a></li><li><a href="4309659.html">第三卷 第二百六十八章 白蜘蛛</a></li><li><a href="4309660.html">第三卷 第二百六十九章 血色</a></li><li><a href="4309661.html">第三卷 第二百七十章 斩杀</a></li><li><a href="4309662.html">第三卷 第二百七十一章 大挪移令和古传送阵</a></li><li><a href="4309663.html">第三卷 第二百七十二章 一年</a></li><li><a href="4309664.html">第三卷 第二百七十三章 巧遇</a></li><li><a href="4309665.html">第三卷 第二百七十四章 赴约</a></li><li><a href="4309666.html">第三卷 第二百七十五章 茶香</a></li><li><a href="4309667.html">第三卷 第二百七十六章 出手</a></li><li><a href="4309668.html">第三卷 第二百七十七章 辛如音</a></li><li><a href="4309669.html">第三卷 第二百七十八章 半年之约</a></li><li><a href="4309670.html">第三卷 第二百七十九章 大富秦宅</a></li><li><a href="4309671.html">第三卷 第二百八十章 接见</a></li><li><a href="4309672.html">第三卷 第二百八十一章 秦宅众人、表小姐</a></li><li><a href="4309673.html">第三卷 第二百八十二章 改变</a></li><li><a href="4309674.html">第三卷 第二百八十三章 旧情</a></li><li><a href="4309675.html">第三卷 第二百八十四章 私语</a></li><li><a href="4309676.html">第三卷 第二百八十五章 冷漠与谣言</a></li><li><a href="4309677.html">第三卷 第二百八十六章 王府</a></li><li><a href="4309678.html">第三卷 第二百八十七章 仙师</a></li><li><a href="4309679.html">第三卷 第二百八十八章 迷魂交锋</a></li><li><a href="4309680.html">第三卷 第二百八十九章 仙术</a></li><li><a href="4309681.html">第三卷 第二百九十章 小王爷</a></li><li><a href="4309682.html">第三卷 第二百九十一章 萧家</a></li><li><a href="4309683.html">第三卷 第二百九十二章 强势</a></li><li><a href="4309684.html">第三卷 第二百九十三章 潜入</a></li><li><a href="4309685.html">第三卷 第二百九十四章 弄焰决</a></li><li><a href="4309686.html">第三卷 第二百九十五章 赴约</a></li><li><a href="4309687.html">第三卷 第二百九十六章 拜师</a></li><li><a href="4309688.html">第三卷 第二百九十七章 裂痕凶讯</a></li><li><a href="4309689.html">第三卷 第二百九十八章 生擒</a></li><li><a href="4309690.html">第三卷 第二百九十九章 各怀心思</a></li><li><a href="4309691.html">第三卷 第三百章 血咒</a></li><li><a href="4309692.html">第三卷 第三百零一章 驱毒、解咒</a></li><li><a href="4309693.html">第三卷 第三百零二章 对策</a></li><li><a href="4309694.html">第三卷 第三百零三章 震惊</a></li><li><a href="4309695.html">第三卷 第三零四章 内应</a></li><li><a href="4309696.html">第三卷 第三百零五章 后手</a></li><li><a href="4309697.html">第三卷 第三百零六章 危机</a></li><li><a href="4309699.html">第三卷 第三百零七章 血侍</a></li><li><a href="4309700.html">第三卷 第三百零八章 大展身手</a></li><li><a href="4309701.html">第三卷 第三百零九章 妖化</a></li><li><a href="4309702.html">第三卷 第三百一十一章 皇室</a></li><li><a href="4309703.html">第三卷 三百一十二章 血祭隐秘</a></li><li><a href="4309704.html">第三卷 第三百一十二章 平静与援兵</a></li><li><a href="4309705.html">第三卷 第三百一十三章 决定</a></li><li><a href="4309706.html">第三卷 第三百一十四章 会和</a></li><li><a href="4309707.html">第三卷 第三百一十五章 后手、怀疑</a></li><li><a href="4309708.html">第三卷 第三百一十六章 失踪</a></li><li><a href="4309709.html">第三卷 第三百一十七章 四象阵</a></li><li><a href="4309710.html">第三卷 第三百一十八章 青纹重现</a></li><li><a href="4309711.html">第三卷 第三百一十九章 四大血侍</a></li><li><a href="4309712.html">第三卷 第三百二十章 破茧</a></li><li><a href="4309713.html">第三卷 第三百二十一章 隐斗</a></li><li><a href="4309714.html">第三卷 第三百二十二章 刘靖与“真宝”</a></li><li><a href="4309715.html">第三卷 第三百二十三章 斩妖</a></li><li><a href="4309716.html">第三卷 第三百二十四章 黑煞教主</a></li><li><a href="4309717.html">第三卷 第三百二十五章 诡异</a></li><li><a href="4309718.html">第三卷 第三百二十六章 血灵钻</a></li><li><a href="4309719.html">第三卷 第三百二十七章 入阵</a></li><li><a href="4309720.html">第三卷 第三百二十八章 黑血刀</a></li><li><a href="4309722.html">第三卷 第三百二十九章 灭敌</a></li><li><a href="4309723.html">第三卷 第三百三十章 煞丹</a></li><li><a href="4309724.html">第三卷 第三百三十一章 命令</a></li><li><a href="4309725.html">第三卷 第三百三十二章 旧地</a></li><li><a href="4309726.html">第三卷 第三百三十三章 孙帮主</a></li><li><a href="4309727.html">第三卷 第三百三十四章 异变</a></li><li><a href="4309728.html">第三卷 第三百三十五章 惊愕</a></li><li><a href="4309729.html">第三卷 第三百三十六章 缨宁</a></li><li><a href="4309730.html">第三卷 第三百三十七章 暗手、曲魂</a></li><li><a href="4309731.html">第三卷 第三百三十八章 逼供</a></li><li><a href="4309732.html">第三卷 第三百三十九章 震惊</a></li><li><a href="4309733.html">第三卷 第三百四十章 圈套</a></li><li><a href="4309734.html">第三卷 第三百四十一章 狼狈</a></li><li><a href="4309735.html">第三卷 第三百四十二章 惊疑</a></li><li><a href="4309736.html">第三卷 第三百四十三章 绿煌剑</a></li><li><a href="4309737.html">第三卷 第三百四十四章 大阵灭妖</a></li><li><a href="4309738.html">第三卷 第三百四十五章 小老头与钟声</a></li><li><a href="4309739.html">第三卷 第三百四十六章 令狐老祖</a></li><li><a href="4309740.html">第三卷 第三百四十七章 撤离</a></li><li><a href="4309741.html">第三卷 第三百四十八章 天火之术</a></li><li><a href="4309742.html">第三卷 第三百四十九章 遁走元武</a></li><li><a href="4309743.html">第三卷 第三百五十章 瞬杀</a></li><li><a href="4309744.html">第三卷 第三百五十一章 齐云霄之死</a></li><li><a href="4309745.html">第三卷 第三百五十二章 承诺</a></li><li><a href="4309746.html">第三卷 第三百五十三章 星尘阁</a></li><li><a href="4309747.html">第三卷 第三百五十四章 蓝夫人</a></li><li><a href="4309748.html">第三卷 第三百五十五章 红线遁光针</a></li><li><a href="4309749.html">第三卷 第三百五十六章 祸福相依</a></li><li><a href="4309750.html">第三卷 第三百五十七章 白池山</a></li><li><a href="4309751.html">第三卷 第三百五十八章 无边海、慕兰人</a></li><li><a href="4309752.html">第三卷 第三百五十九章 惊遇旧人</a></li><li><a href="4309753.html">第三卷 第三百六十章 半路劫人</a></li><li><a href="4309754.html">第三卷 第三百六十一章 乌龙</a></li><li><a href="4309755.html">第三卷 第三百六十二章 南宫屏</a></li><li><a href="4309756.html">第三卷 第三百六十三章 传送</a></li><li><a href="4309757.html">第四卷 风起海外 第三百六十四章 孤岛、巨舟</a></li><li><a href="4309758.html">第四卷 风起海外 第三百六十五章 王长青</a></li><li><a href="4309759.html">第四卷 风起海外 第三百六十六章 顾东主的生意</a></li><li><a href="4309760.html">第四卷 风起海外 第三百六十七章 第三百六十七章 保人与定居</a></li><li><a href="4309761.html">第四卷 风起海外 第三百六十八章 庄园</a></li><li><a href="4309762.html">第四卷 风起海外 第三百六十九章 挑战（上）</a></li><li><a href="4309763.html">第四卷 风起海外 第三百七十章 挑战（下）</a></li><li><a href="4309764.html">第四卷 风起海外 第三百七十一章 登仙阁</a></li><li><a href="4309765.html">第四卷 风起海外 第三百七十二章 小寰岛</a></li><li><a href="4309767.html">第四卷 风起海外 第三百七十三章 身外化身</a></li><li><a href="4309768.html">第四卷 风起海外 第三百七十四章 修炼无岁月</a></li><li><a href="4309769.html">第四卷 风起海外 第三百七十五章 双娇</a></li><li><a href="4309770.html">第四卷 风起海外 第三百七十六章 雪灵水和天火液</a></li><li><a href="4309771.html">第四卷 风起海外 第三百七十七章 丹方与妖丹</a></li><li><a href="4309772.html">第四卷 风起海外 第三百七十八章 出海（上）</a></li><li><a href="4309773.html">第四卷 风起海外 第三百七十九章 出海（下）</a></li><li><a href="4309774.html">第四卷 风起海外 第三百八十章 婴鲤兽</a></li><li><a href="4309775.html">第四卷 风起海外 第三百八十一章 异宝伏妖</a></li><li><a href="4309776.html">第四卷 风起海外 第三百八十二章 乌丑</a></li><li><a href="4309777.html">第四卷 风起海外 第三百八十三章 斗结丹</a></li><li><a href="4309778.html">第四卷 风起海外 第三百八十四章 斩杀高阶</a></li><li><a href="4309779.html">第四卷 风起海外 第三百八十五章 海猿岛</a></li><li><a href="4309780.html">第四卷 风起海外 第三百八十六章 四年结丹</a></li><li><a href="4309781.html">第四卷 风起海外 第三百八十七章 噬金虫</a></li><li><a href="4309782.html">第四卷 风起海外 第三百八十八章 曲魂魔威</a></li><li><a href="4309783.html">第四卷 风起海外 第三百八十九章 天星城与星宫</a></li><li><a href="4309784.html">第四卷 风起海外 第三百九十章 巨城</a></li><li><a href="4309785.html">第四卷 风起海外 第三百九十一章 新居</a></li><li><a href="4309786.html">第四卷 风起海外 第三百九十二章 育虫</a></li><li><a href="4309787.html">第四卷 风起海外 第三百九十三章 凝翠岛</a></li><li><a href="4309788.html">第四卷 风起海外 第三百九十四章 修士、妖兽、小岛</a></li><li><a href="4309789.html">第四卷 风起海外 第三百九十五章 霓裳草</a></li><li><a href="4309790.html">第四卷 风起海外 第三百九十六章 杀妖取丹</a></li><li><a href="4309791.html">第四卷 风起海外 第三百九十七章 闭府苦修</a></li><li><a href="4309792.html">第四卷 风起海外 第三百九十八章 结丹与法宝</a></li><li><a href="4309793.html">第四卷 风起海外 第三百九十九章 妙音门</a></li><li><a href="4309794.html">第四卷 风起海外 第四百章 道貌岸然</a></li><li><a href="4309795.html">第四卷 风起海外 第四百零一章 天雷竹</a></li><li><a href="4309796.html">第四卷 风起海外 第四百零二章 左右双使</a></li><li><a href="4309797.html">第四卷 风起海外 第四百零三章 赤火老怪</a></li><li><a href="4309798.html">第四卷 风起海外 第四百零四章 诡局</a></li><li><a href="4309799.html">第四卷 风起海外 第四百零五章 附身大法</a></li><li><a href="4309800.html">第四卷 风起海外 第四百零六章 天都尸火</a></li><li><a href="4309801.html">第四卷 风起海外 第四百零七章 倒戈</a></li><li><a href="4309802.html">第四卷 风起海外 第四百零八章 妖尸</a></li><li><a href="4309803.html">第四卷 风起海外 第四百零九章 真容</a></li><li><a href="4309804.html">第四卷 风起海外 第四百一十章 长老</a></li><li><a href="4309805.html">第四卷 风起海外 第四百一十一章 培竹</a></li><li><a href="4309806.html">第四卷 风起海外 第四百一十二章 青竹小轩</a></li><li><a href="4309807.html">第四卷 风起海外 第四百一十三章 炼化</a></li><li><a href="4309808.html">第四卷 风起海外 第四百一十四章 成形</a></li><li><a href="4309809.html">第四卷 风起海外 第四百一十五章 珠中图</a></li><li><a href="4309810.html">第四卷 风起海外 第四百一十六章 土山</a></li><li><a href="4309811.html">第四卷 风起海外 第四百一十七章 以阵破阵</a></li><li><a href="4309812.html">第四卷 风起海外 第四百一十八章 破阵</a></li><li><a href="4309813.html">第四卷 风起海外 第四百一十九章 洪荒古宝</a></li><li><a href="4309814.html">第四卷 风起海外 第四百二十章 噬金虫的威力</a></li><li><a href="4309815.html">第四卷 风起海外 第四百二十一章 封灵柱</a></li><li><a href="4309816.html">第四卷 风起海外 第四百二十二章 七霞莲</a></li><li><a href="4309817.html">第四卷 风起海外 第四百二十三章 剧毒</a></li><li><a href="4309818.html">第四卷 风起海外 第四百二十四章 妖蛇</a></li><li><a href="4309819.html">第四卷 风起海外 第四百二十五章 脂阳鸟</a></li><li><a href="4309820.html">第四卷 风起海外 第四百二十六章 诡诈</a></li><li><a href="4309821.html">第四卷 风起海外 第四百二十七章 玄魂炼妖</a></li><li><a href="4309822.html">第四卷 风起海外 第四百二十八章 萧诧</a></li><li><a href="4309823.html">第四卷 风起海外 第四百二十九章 残图再现</a></li><li><a href="4309824.html">第四卷 风起海外 第四百三十章 文思月</a></li><li><a href="4309825.html">第四卷 风起海外 第四百三十一章 虚天殿</a></li><li><a href="4309826.html">第四卷 风起海外 第四百三十二章 极阴祖师</a></li><li><a href="4309827.html">第四卷 风起海外 第四百三十三章 九曲灵参</a></li><li><a href="4309828.html">第四卷 风起海外 第四百三十四章 聚集</a></li><li><a href="4309829.html">第四卷 风起海外 第四百三十五章 虚天鼎、补天丹</a></li><li><a href="4309830.html">第四卷 风起海外 第四百三十六章 紫灵再遇</a></li><li><a href="4309831.html">第四卷 风起海外 第四百三十七章 啼魂</a></li><li><a href="4309832.html">第四卷 风起海外 第四百三十八章 鬼雾遗骸</a></li><li><a href="4309833.html">第四卷 风起海外 第四百三十九章 鬼王（1）</a></li><li><a href="4309834.html">第四卷 风起海外 第四百四十章 鬼王（2）</a></li><li><a href="4309835.html">第四卷 风起海外 第四百四十一章 鬼王（3）</a></li><li><a href="4309836.html">第四卷 风起海外 第四百四十二章 鬼王（4）</a></li><li><a href="4309837.html">第四卷 风起海外 第四百四十三章 鬼王（5）</a></li><li><a href="4309838.html">第四卷 风起海外 第四百四十四章 黑袍</a></li><li><a href="4309839.html">第四卷 风起海外 第四百四十五章 元瑶</a></li><li><a href="4309840.html">第四卷 风起海外 第四百四十六章 再聚</a></li><li><a href="4309841.html">第四卷 风起海外 第四百四十七章 空间</a></li><li><a href="4309842.html">第四卷 风起海外 第四百四十八章 小石山</a></li><li><a href="4309843.html">第四卷 风起海外 第四百四十九章 暗计</a></li><li><a href="4309844.html">第四卷 风起海外 第四百五十章 显形(诸位书友，元旦快乐！）</a></li><li><a href="4309845.html">第四卷 风起海外 第四百五十一章 反脸</a></li><li><a href="4309846.html">第四卷 风起海外 第四百五十二章 雷霆之击</a></li><li><a href="4309847.html">第四卷 风起海外 第四百五十三章 极阴来袭</a></li><li><a href="4309848.html">第四卷 风起海外 第四百五十四章 诱惑</a></li><li><a href="4309849.html">第四卷 风起海外 第四百五十五章 意外频生</a></li><li><a href="4309850.html">第四卷 风起海外 第四百五十六章 极阴门徒</a></li><li><a href="4309851.html">第四卷 风起海外 第四百五十七章 托天魔功</a></li><li><a href="4309852.html">第四卷 风起海外 第四百五十六章 冰火道</a></li><li><a href="4309853.html">第四卷 风起海外 第四百五十七章 步步维艰</a></li><li><a href="4309854.html">第四卷 风起海外 第四百五十八章 生死路</a></li><li><a href="4309855.html">第四卷 风起海外 第四百五十九章 黑沙漠</a></li><li><a href="4309856.html">第四卷 风起海外 第四百六十章 铁火蚁</a></li><li><a href="4309857.html">第四卷 风起海外 第四百六十一章 巧遇</a></li><li><a href="4309858.html">第四卷 风起海外 第四百六十二章 鸣魂珠</a></li><li><a href="4309859.html">第四卷 风起海外 第四百六十三章 暗流汹涌</a></li><li><a href="4309860.html">第四卷 风起海外 第四百六十四章 炼晶</a></li><li><a href="4309861.html">第四卷 风起海外 第四百六十五章 阁楼重宝</a></li><li><a href="4309862.html">第四卷 风起海外 第四百六十六章 宝光阁</a></li><li><a href="4309863.html">第四卷 风起海外 第四百六十七章 取宝</a></li><li><a href="4309864.html">第四卷 风起海外 第四百六十八章 诡异黑甲</a></li><li><a href="4309865.html">第四卷 风起海外 第四百六十九章 妖异古宝</a></li><li><a href="4309866.html">第四卷 风起海外 第四百七十章 幻境黑殿</a></li><li><a href="4309867.html">第四卷 风起海外 第四百七十一章 内殿开启</a></li><li><a href="4309868.html">第四卷 风起海外 第四百七十二章 螳螂、黄雀</a></li><li><a href="4309869.html">第四卷 风起海外 第四百七十三章 狼首傀儡</a></li><li><a href="4309870.html">第四卷 风起海外 第四百七十五章 意外</a></li><li><a href="4309871.html">第四卷 风起海外 第四百七十六章 金蚕取宝</a></li><li><a href="4309872.html">第四卷 风起海外 第四百七十七章 金丝蚕与天青花</a></li><li><a href="4309873.html">第四卷 风起海外 第四百七十八章 取宝</a></li><li><a href="4309874.html">第四卷 风起海外 第四百七十九章 去而复返</a></li><li><a href="4309875.html">第四卷 风起海外 第四百八十章 大战起</a></li><li><a href="4309876.html">第四卷 风起海外 第四百八十一章 化形之宝</a></li><li><a href="4309877.html">第四卷 风起海外 第四百八十二章 古宝之争</a></li><li><a href="4309878.html">第四卷 风起海外 第四百八十三章 冰封</a></li><li><a href="4309879.html">第四卷 风起海外 第四百八十四章 化身符与补天丹</a></li><li><a href="4309880.html">第四卷 风起海外 第四百八十五章 元婴现</a></li><li><a href="4309881.html">第四卷 风起海外 第四百八十五章 丹药之争</a></li><li><a href="4309882.html">第四卷 风起海外 第四百八十七章 乌丑之死</a></li><li><a href="4309883.html">第四卷 风起海外 第四百八十八 宝鼎再现</a></li><li><a href="4309884.html">第四卷 风起海外 第四百八十九章 收鼎（忘语祝大家新年快乐！）</a></li><li><a href="4309885.html">第四卷 风起海外 第四百九十章 辟邪神雷与修罗圣火</a></li><li><a href="4309886.html">第四卷 风起海外 第四百九十一章 玄骨之死</a></li><li><a href="4309887.html">第四卷 风起海外 第四百九十二章 乾蓝珠</a></li><li><a href="4309888.html">第四卷 风起海外 第四百九十三章 画轴之谜</a></li><li><a href="4309889.html">第四卷 风起海外 第四百九十四章 艳女与灵泉</a></li><li><a href="4309890.html">第四卷 风起海外 第四百九十五章 灵乳与养魂木</a></li><li><a href="4309891.html">第四卷 风起海外 第四百九十六章 真假难辨</a></li><li><a href="4309892.html">第四卷 风起海外 第四百九十七章 狼形器灵</a></li><li><a href="4309893.html">第四卷 风起海外 第四百九十八章 逆星盟</a></li><li><a href="4309894.html">第四卷 风起海外 第四百九十九章 南明岛</a></li><li><a href="4309895.html">第四卷 风起海外 第五百章 盘查</a></li><li><a href="4309896.html">第四卷 风起海外 第五百零一章 冲突再起</a></li><li><a href="4309897.html">第四卷 风起海外 第五百零二章 古宝之威</a></li><li><a href="4309898.html">第四卷 风起海外 第五百零三章 凌玉灵</a></li><li><a href="4309899.html">第四卷 风起海外 第五百零四章 传送与条件</a></li><li><a href="4309900.html">第四卷 风起海外 第五百零五章 柳暗花明</a></li><li><a href="4309901.html">第四卷 风起海外 第五百零六章 定计</a></li><li><a href="4309902.html">第四卷 风起海外 第五百零七章 混入</a></li><li><a href="4309903.html">第四卷 风起海外 第五百零八章 要挟</a></li><li><a href="4309904.html">第四卷 风起海外 第五百零九章 再临外海</a></li><li><a href="4309905.html">第四卷 风起海外 第五百一十章 黑石城</a></li><li><a href="4309906.html">第四卷 风起海外 第五百一十一章 海渊妖兽</a></li><li><a href="4309907.html">第四卷 风起海外 第五百一十二章 女修炉鼎</a></li><li><a href="4309908.html">第四卷 风起海外 第五百一十三章 寸金阁</a></li><li><a href="4309909.html">第四卷 风起海外 第五百一十四章 伴妖草</a></li><li><a href="4309910.html">第四卷 风起海外 第五百一十五章 雾中岛</a></li><li><a href="4309911.html">第四卷 风起海外 第五百一十六章 幻焰蛾</a></li><li><a href="4309912.html">第四卷 风起海外 第五百一十七章 玄阴经</a></li><li><a href="4309913.html">第四卷 风起海外 第五百一十八章 化形之劫</a></li><li><a href="4309914.html">第四卷 风起海外 第五百一十九章 毒蛟</a></li><li><a href="4309915.html">第四卷 风起海外 第五百二十章 五色珠与新噬金虫</a></li><li><a href="4309916.html">第四卷 风起海外 第五百二十一章 抽魂取丹</a></li><li><a href="4309917.html">第四卷 风起海外 第五百二十二章 偷窥</a></li><li><a href="4309918.html">第四卷 风起海外 第五百二十三章 凶名滔天</a></li><li><a href="4309919.html">第四卷 风起海外 第五百二十四章 盘问</a></li><li><a href="4309920.html">第四卷 风起海外 第五百二十五章 真假虫魔</a></li><li><a href="4309921.html">第四卷 风起海外 第五百二十六章 暗流涌动</a></li><li><a href="4309922.html">第四卷 风起海外 第五百二十七章 不速之客</a></li><li><a href="4309923.html">第四卷 风起海外 第五百二十八章 青灵门</a></li><li><a href="4309924.html">第四卷 风起海外 第五百二十九章 冷漠与苦求</a></li><li><a href="4309925.html">第四卷 风起海外 第五百三十章 稚女炉鼎</a></li><li><a href="4309926.html">第四卷 风起海外 第五百三十一章 赠宝</a></li><li><a href="4309927.html">第四卷 风起海外 第五百三十二章 援手灭妖</a></li><li><a href="4309928.html">第四卷 风起海外 第五百三十三章 交换会</a></li><li><a href="4309929.html">第四卷 风起海外 第五百三十四章 偎红倚翠</a></li><li><a href="4309930.html">第四卷 风起海外 第五百三十五章 消息</a></li><li><a href="4309931.html">第四卷 风起海外 第五百三十六章 剑威初现</a></li><li><a href="4309932.html">第四卷 风起海外 第五百三十七章 震慑群修</a></li><li><a href="4309933.html">第四卷 风起海外 第五百三十八章 侍妾之言</a></li><li><a href="4309934.html">第四卷 风起海外 第五百三十九章 三头六臂</a></li><li><a href="4309935.html">第四卷 风起海外 第五百四十章 九级妖修</a></li><li><a href="4309936.html">第四卷 风起海外 第五百四十一章 碧焰酒</a></li><li><a href="4309937.html">第四卷 风起海外 第五百四十二章 后期大成</a></li><li><a href="4309938.html">第四卷 风起海外 第五百四十三章 风雷翅</a></li><li><a href="4309939.html">第四卷 风起海外 第五百四十四章 梵圣真片</a></li><li><a href="4309940.html">第四卷 风起海外 第五百四十五章 雷鹏之骨</a></li><li><a href="4309941.html">第四卷 风起海外 第五百四十六章 风雷合</a></li><li><a href="4309942.html">第四卷 风起海外 第五百四十七章 暗算</a></li><li><a href="4309943.html">第四卷 风起海外 第五百四十八章 束手无策</a></li><li><a href="4309944.html">第四卷 风起海外 第五百四十九章 噬蛟</a></li><li><a href="4309945.html">第四卷 风起海外 第五百五十章 逃匿与追杀</a></li><li><a href="4309946.html">第四卷 风起海外 第五百五十一章 雷遁之术</a></li><li><a href="4309947.html">第四卷 风起海外 第五百五十二章 再闯妙音门</a></li><li><a href="4309948.html">第四卷 风起海外 第五百五十三章 识破</a></li><li><a href="4309949.html">第四卷 风起海外 第五百五十四章 求助与交易</a></li><li><a href="4309950.html">第四卷 风起海外 第五百五十五章 出手与传送阵</a></li><li><a href="4309951.html">第四卷 风起海外 第五百五十六章 诱伏</a></li><li><a href="4309952.html">第四卷 风起海外 第五百五十七章 意外骤起</a></li><li><a href="4309953.html">第四卷 风起海外 第五百五十八章 裂风再现</a></li><li><a href="4309954.html">第四卷 风起海外 第五百五十九章 诡异错认</a></li><li><a href="4309955.html">第四卷 风起海外 第五百六十章 元瑶与青阳门</a></li><li><a href="4309956.html">第四卷 风起海外 第五百六十一章 借头颅</a></li><li><a href="4309957.html">第四卷 风起海外 第五百六十二章 赠物</a></li><li><a href="4309958.html">第四卷 风起海外 第五百六十三章 秘辛</a></li><li><a href="4309959.html">第四卷 风起海外 第五百六十四章 还魂术</a></li><li><a href="4309960.html">第四卷 风起海外 第五百六十五章 天兆</a></li><li><a href="4309961.html">第四卷 风起海外 第五百六十六章 惊退</a></li><li><a href="4309962.html">第四卷 风起海外 第五百六十七章 潜入</a></li><li><a href="4309963.html">第四卷 风起海外 第五百六十八章 强敌</a></li><li><a href="4309964.html">第四卷 风起海外 第五百六十九章 六道传人</a></li><li><a href="4309965.html">第四卷 风起海外 第五百七十章 苦斗</a></li><li><a href="4309966.html">第四卷 风起海外 第五百七十一章 阴魔斩与六极真魔</a></li><li><a href="4309967.html">第四卷 风起海外 第五百七十二章 八门金光镜</a></li><li><a href="4309968.html">第四卷 风起海外 第五百七十三章 金光神焰</a></li><li><a href="4309969.html">第四卷 风起海外 第五百七十四章 鬼雾现</a></li><li><a href="4309970.html">第四卷 风起海外 第五百七十五章 莫名凶险</a></li><li><a href="4309971.html">第四卷 风起海外 第五百七十六章 黑暗奇遇</a></li><li><a href="4309972.html">第四卷 风起海外 第五百七十七章 无名之地</a></li><li><a href="4309973.html">第四卷 风起海外 第五百七十八章 高墙村落</a></li><li><a href="4309974.html">第四卷 风起海外 第五百七十九章 巨兽来袭</a></li><li><a href="4309975.html">第四卷 风起海外 第五百八十章 阴冥之地</a></li><li><a href="4309976.html">第四卷 风起海外 第五百八十一章 罗睺与大晋皇朝</a></li><li><a href="4309977.html">第四卷 风起海外 第五百八十一章 石符与兽晶</a></li><li><a href="4309978.html">第四卷 风起海外 第五百八十二章 妖文再现</a></li><li><a href="4309979.html">第四卷 风起海外 第五百八十三章 以牙还牙</a></li><li><a href="4309980.html">第四卷 风起海外 第五百八十四章 通灵之气</a></li><li><a href="4309981.html">第四卷 风起海外 第五百八十五章 香吻销魂</a></li><li><a href="4309982.html">第四卷 风起海外 第五百八十六章 来客</a></li><li><a href="4309983.html">第四卷 风起海外 第五百八十七章 骨盒</a></li><li><a href="4309984.html">第四卷 风起海外 第五百八十八章 降灵符</a></li><li><a href="4309985.html">第四卷 风起海外 第五百八十九章 啖魂</a></li><li><a href="4309986.html">第四卷 风起海外 第五百九十章 暴风山</a></li><li><a href="4309987.html">第四卷 风起海外 第五百九十一章 阴阳轮回决</a></li><li><a href="4309988.html">第四卷 风起海外 第五百九十二章 脱离</a></li><li><a href="4309989.html">第五卷 名震一方 第五百九十三章 委身之举</a></li><li><a href="4309990.html">第五卷 名震一方 第五百九十四章 落云宗</a></li><li><a href="4309991.html">第五卷 名震一方 第五百九十五章 四大势力</a></li><li><a href="4309992.html">第五卷 名震一方 第五百九十六章 入门（上）</a></li><li><a href="4309993.html">第五卷 名震一方 第五百九十七章 入门（中）</a></li><li><a href="4309994.html">第五卷 名震一方 第五百九十八章 入门（下）</a></li><li><a href="4309995.html">第五卷 名震一方 第五百九十九章 煅金之体</a></li><li><a href="4309996.html">第五卷 名震一方 第五百六十章 归属</a></li><li><a href="4309997.html">第五卷 名震一方 第六百零一章 解除后患</a></li><li><a href="4309998.html">第五卷 名震一方 第六百零二章 血影遁</a></li><li><a href="4309999.html">第五卷 名震一方 第六百零三章 雪云狐</a></li><li><a href="4310000.html">第五卷 名震一方 第六百零四章 绿踪沼泽</a></li><li><a href="4310001.html">第五卷 名震一方 第六百零五章 狐现</a></li><li><a href="4310002.html">第五卷 名震一方 第六百零六章 追匿</a></li><li><a href="4310003.html">第五卷 名震一方 第六百零七章 黑衣少妇</a></li><li><a href="4310004.html">第五卷 名震一方 第六百零八章 化形之玉与金符玉盒</a></li><li><a href="4310005.html">第五卷 名震一方 第六百零九章 尸魈</a></li><li><a href="4310006.html">第五卷 名震一方 第六百一十章 狐变</a></li><li><a href="4310007.html">第五卷 名震一方 第六百一十一章 狼现</a></li><li><a href="4310008.html">第五卷 名震一方 第六百一十二章 银月狼族</a></li><li><a href="4310009.html">第五卷 名震一方 第六百一十三章 主仆与器灵</a></li><li><a href="4310010.html">第五卷 名震一方 第六百一十四章 去而复返</a></li><li><a href="4310011.html">第五卷 名震一方 第六百一十五章 试剑大会</a></li><li><a href="4310012.html">第五卷 名震一方 第六百一十六章 明清灵水</a></li><li><a href="4310013.html">第五卷 名震一方 第六百一十七章 半路来客</a></li><li><a href="4310014.html">第五卷 名震一方 第六百一十八章 杜东和觐见</a></li><li><a href="4310015.html">第五卷 名震一方 第六百一十九章 宗内初试</a></li><li><a href="4310016.html">第五卷 名震一方 第六百二十章 牛刀杀鸡</a></li><li><a href="4310018.html">第五卷 名震一方 第六百二十一章 阁楼之议</a></li><li><a href="4310019.html">第五卷 名震一方 第六百二十二章 鬼影啼魂</a></li><li><a href="4310021.html">第五卷 名震一方 第二百六十三章 通明灵犀</a></li><li><a href="4310022.html">第五卷 名震一方 第二百六十四章 三派试剑（上）</a></li><li><a href="4310023.html">第五卷 名震一方 第二百六十五章 三派试剑（下）</a></li><li><a href="4310024.html">第五卷 名震一方 第二百六十六章 三派禁地</a></li><li><a href="4310025.html">第五卷 名震一方 第六百二十七章 童子</a></li><li><a href="4310026.html">第五卷 名震一方 第六百二十八章 灵眼之树</a></li><li><a href="4310027.html">第五卷 名震一方 第六百二十九章 诡变</a></li><li><a href="4310028.html">第五卷 名震一方 第六百三十章 大罗千幻决与天狐迷灵大法</a></li><li><a href="4310029.html">第五卷 名震一方 第六百三十一章 算计</a></li><li><a href="4310030.html">第五卷 名震一方 第六百三十二章 得灵根</a></li><li><a href="4310031.html">第五卷 名震一方 第六百三十三章 返回</a></li><li><a href="4310032.html">第五卷 名震一方 第六百三十四章 结婴（上）</a></li><li><a href="4310033.html">第五卷 名震一方 第六百三十五章 结婴（中）</a></li><li><a href="4310034.html">第五卷 名震一方 第六百三十六章 结婴（下）</a></li><li><a href="4310035.html">第五卷 名震一方 第六百三十七章 邀请</a></li><li><a href="4310036.html">第五卷 名震一方 第六百三十八章 虚天鼎、小瓶、通天灵宝</a></li><li><a href="4310037.html">第五卷 名震一方 第六百三十九章 一派长老</a></li><li><a href="4310038.html">第五卷 名震一方 第六百四十章 弄假成真</a></li><li><a href="4310039.html">第五卷 名震一方 第六百四十一章 三十年之约</a></li><li><a href="4310040.html">第五卷 名震一方 第六百四十二章 颠凤培元功</a></li><li><a href="4310041.html">第五卷 名震一方 第六百四十三章 大庚剑阵</a></li><li><a href="4310042.html">第五卷 名震一方 第六百四十四章 诺言和启程</a></li><li><a href="4310043.html">第五卷 名震一方 第六百四十五章 三人行</a></li><li><a href="4310044.html">第五卷 名震一方 第六百四十六章 心怀鬼胎</a></li><li><a href="4310045.html">第五卷 名震一方 第六百四十七章 妖婴</a></li><li><a href="4310046.html">第五卷 名震一方 第六百四十八章 至木灵婴</a></li><li><a href="4310047.html">第五卷 名震一方 第六百四十九章 预兆</a></li><li><a href="4310048.html">第五卷 名震一方 第六百五十章 灭族（上）</a></li><li><a href="4310049.html">第五卷 名震一方 第六百五十一章 灭族（下）</a></li><li><a href="4310050.html">第五卷 名震一方 第六百五十二章 旧人后</a></li><li><a href="4310051.html">第五卷 名震一方 第六百五十三章 遗言与赠物</a></li><li><a href="4310052.html">第五卷 名震一方 第六百五十四章 玄牡化婴大法</a></li><li><a href="4310053.html">第五卷 名震一方 第六百五十五章 故居灵泉</a></li><li><a href="4310054.html">第五卷 名震一方 第六百五十六章 碎魂门人</a></li><li><a href="4310055.html">第五卷 名震一方 第六百五十七章 昔日小镇</a></li><li><a href="4310056.html">第五卷 名震一方 第六百五十八章 韩家祠</a></li><li><a href="4310057.html">第五卷 名震一方 第六百五十九章 四叔祖</a></li><li><a href="4310058.html">第五卷 名震一方 第六百六十章 噬金灵剑</a></li><li><a href="4310059.html">第五卷 名震一方 第六百六十一章 行迹暴露</a></li><li><a href="4310060.html">第五卷 名震一方 第六百六十二章 第六百六十二章 闻风而逃</a></li><li><a href="4310061.html">第五卷 名震一方 第六百六十三章 纵横披靡</a></li><li><a href="4310062.html">第五卷 名震一方 第六百六十四章 六翼霜蚣</a></li><li><a href="4310063.html">第五卷 名震一方 第六百六十五章 五行灵婴</a></li><li><a href="4310064.html">第五卷 名震一方 第六百六十六章 柳玉</a></li><li><a href="4310065.html">第五卷 名震一方 第六百六十七章 霜花与蓝焰</a></li><li><a href="4310066.html">第五卷 名震一方 第六百六十八章 虫甲术</a></li><li><a href="4310067.html">第五卷 名震一方 第六百六十九章 第二元婴</a></li><li><a href="4310068.html">第五卷 名震一方 第六百七十章 交易会</a></li><li><a href="4310069.html">第五卷 名震一方 第六百七十一章 南陇侯</a></li><li><a href="4310070.html">第五卷 名震一方 第六百七十二章 强行交易</a></li><li><a href="4310071.html">第五卷 名震一方 第六百七十三章 神识化形</a></li><li><a href="4310072.html">第五卷 名震一方 第六百七十四章 再见童子</a></li><li><a href="4310073.html">第五卷 名震一方 第六百七十五章 元婴聚</a></li><li><a href="4310074.html">第五卷 名震一方 第六百七十六章 赤精芝</a></li><li><a href="4310075.html">第五卷 名震一方 第六百七十七章 坠魔谷</a></li><li><a href="4310076.html">第五卷 名震一方 第六百七十九章 残符</a></li><li><a href="4310077.html">第五卷 名震一方 第六百八十章 誓言与选择</a></li><li><a href="4310078.html">第五卷 名震一方 第六百八十一章 魂石与上古傀儡术</a></li><li><a href="4310079.html">第五卷 名震一方 第六百八十二章 再见南陇</a></li><li><a href="4310080.html">第五卷 名震一方 第六百八十三章 密会</a></li><li><a href="4310081.html">第五卷 名震一方 第六百八十四章 苍坤遗宝</a></li><li><a href="4310082.html">第五卷 名震一方 第六百八十五章 荒地凶险</a></li><li><a href="4310083.html">第五卷 名震一方 第六百八十六章 法士初现</a></li><li><a href="4310084.html">第五卷 名震一方 第六百八十七章 大上师</a></li><li><a href="4310085.html">第五卷 名震一方 第六百八十八章 御风车</a></li><li><a href="4310086.html">第五卷 名震一方 第六百八十九章 初试神通</a></li><li><a href="4310087.html">第五卷 名震一方 第六百九十章 冰晶与黑峰</a></li><li><a href="4310088.html">第五卷 名震一方 第六百九十一章 冰封</a></li><li><a href="4310089.html">第五卷 名震一方 第六百九十二章 再聚</a></li><li><a href="4310090.html">第五卷 名震一方 第六百九十三章 惊退</a></li><li><a href="4310091.html">第五卷 名震一方 第六百九十四章 雷火锥</a></li><li><a href="4310092.html">第五卷 名震一方 第六百九十五章 出手</a></li><li><a href="4310093.html">第五卷 名震一方 第六百九十六章 破禁与卷轴</a></li><li><a href="4310094.html">第五卷 名震一方 第六百九十七章 瓜分</a></li><li><a href="4310095.html">第五卷 名震一方 第六百九十八章 算计</a></li><li><a href="4310096.html">第五卷 名震一方 第六百九十九章 祸水东移</a></li><li><a href="4310097.html">第五卷 名震一方 第七百章 先手</a></li><li><a href="4310098.html">第五卷 名震一方 第七百零一章 万尺一线</a></li><li><a href="4310099.html">第五卷 名震一方 第七百零二章 炼婴</a></li><li><a href="4310100.html">第五卷 名震一方 第七百零三章 盒中之宝</a></li><li><a href="4310101.html">第五卷 名震一方 第七百零四章 路逢旧人</a></li><li><a href="4310102.html">第五卷 名震一方 第七百零五章 拘灵土龙</a></li><li><a href="4310103.html">第五卷 名震一方 第七百零六章 雷万鹤的震惊</a></li><li><a href="4310104.html">第五卷 名震一方 第七百零七章 南宫之讯</a></li><li><a href="4310105.html">第五卷 名震一方 第七百零八章 韩立的决心</a></li><li><a href="4310106.html">第五卷 名震一方 第七百零九章 化形入山</a></li><li><a href="4310107.html">第五卷 名震一方 第七百一十章 南宫</a></li><li><a href="4310108.html">第五卷 名震一方 第七百一十一章 昔日之心</a></li><li><a href="4310109.html">第五卷 名震一方 第七百一十二章 困心术</a></li><li><a href="4310110.html">第五卷 名震一方 第七百一十三章 设伏</a></li><li><a href="4310111.html">第五卷 名震一方 第七百一十四章 识破与伏击</a></li><li><a href="4310112.html">第五卷 名震一方 第七百一十五章 凝光宝镜与轮回神光</a></li><li><a href="4310113.html">第五卷 名震一方 第七百一十六章 血魔剑</a></li><li><a href="4310114.html">第五卷 名震一方 第七百一十七章 指环</a></li><li><a href="4310115.html">第五卷 名震一方 第七百一十八章 重返阗天</a></li><li><a href="4310116.html">第五卷 名震一方 第七百一十九章 天极门</a></li><li><a href="4310117.html">第五卷 名震一方 第七百二十章 殿议</a></li><li><a href="4310118.html">第五卷 名震一方 第七百二十一章 令狐之邀</a></li><li><a href="4310119.html">第五卷 名震一方 第七百二十二章 初见玉符</a></li><li><a href="4310120.html">第五卷 名震一方 第七百二十三章 第七百二十三章 两仪环</a></li><li><a href="4310121.html">第五卷 名震一方 第七百二十四章 火蟾古兽</a></li><li><a href="4310122.html">第五卷 名震一方 第七百二十五章 支援</a></li><li><a href="4310123.html">第五卷 名震一方 第七百二十六章 黄龙山</a></li><li><a href="4310124.html">第五卷 名震一方 第七百二十七章 昔日缨宁</a></li><li><a href="4310125.html">第五卷 名震一方 第七百二十八章 紫罗极火</a></li><li><a href="4310126.html">第五卷 名震一方 第七百二十九章 火灵化蛟</a></li><li><a href="4310127.html">第五卷 名震一方 第七百三十章 太玄八卦图</a></li><li><a href="4310128.html">第五卷 名震一方 第七百三十一章 天刹真魔功</a></li><li><a href="4310129.html">第五卷 名震一方 第七百三十二章 双尾蛇</a></li><li><a href="4310130.html">第五卷 名震一方 第七百三十三章 暴露</a></li><li><a href="4310131.html">第五卷 名震一方 第七百三十四章 附灵蛇怪</a></li><li><a href="4310132.html">第五卷 名震一方 第七百三十五章 将计就计</a></li><li><a href="4310133.html">第五卷 名震一方 第七百三十六章 破阵大战（一）</a></li><li><a href="4310134.html">第五卷 名震一方 破阵大战（二）</a></li><li><a href="4310135.html">第五卷 名震一方 第七百三十八章 破阵大战（三）</a></li><li><a href="4310136.html">第五卷 名震一方 第七百三十九章 破阵大战（四）</a></li><li><a href="4310137.html">第五卷 名震一方 第七百四十章 破阵大战（五）</a></li><li><a href="4310138.html">第五卷 名震一方 第七百四十一章 破阵大战（六）</a></li><li><a href="4310139.html">第五卷 名震一方 第七百四十二章 破阵大战（七）</a></li><li><a href="4310140.html">第五卷 名震一方 第七百四十三章 破阵大战（八）</a></li><li><a href="4310141.html">第五卷 名震一方 第七百四十四章 名声渐起</a></li><li><a href="4310142.html">第五卷 名震一方 第七百四十五章 回归</a></li><li><a href="4310143.html">第五卷 名震一方 第七百四十六章 义妹</a></li><li><a href="4310144.html">第五卷 名震一方 第七百四十七章 条件</a></li><li><a href="4310145.html">第五卷 名震一方 第七百四十八章 意外之约</a></li><li><a href="4310146.html">第五卷 名震一方 第七百四十九章 灵烛果与造化丹</a></li><li><a href="4310147.html">第五卷 名震一方 第七百五十章 定议</a></li><li><a href="4310148.html">第五卷 名震一方 第七百五十一章 化焰(求月票了哦！）</a></li><li><a href="4310149.html">第五卷 名震一方 第七百五十二章 雷珠</a></li><li><a href="4310150.html">第五卷 名震一方 第七百五十三章 云露老魔</a></li><li><a href="4310151.html">第五卷 名震一方 第七百五十四章 老怪齐聚</a></li><li><a href="4310152.html">第五卷 名震一方 第七百五十五章 生死赌战</a></li><li><a href="4310153.html">第五卷 名震一方 第七百五十六章 利诱</a></li><li><a href="4310154.html">第五卷 名震一方 第七百五十七章 冰雪蚕与庚精</a></li><li><a href="4310155.html">第五卷 名震一方 第七百五十八章 玄天仙藤</a></li><li><a href="4310156.html">第五卷 名震一方 第七百五十九章 第七百五十九章 灵符与蛟魂</a></li><li><a href="4310157.html">第五卷 名震一方 第七百六十章 大战将至</a></li><li><a href="4310158.html">第五卷 名震一方 第七百六十一章 萧师侄</a></li><li><a href="4310159.html">第五卷 名震一方 第七百六十二章 敌谋</a></li><li><a href="4310160.html">第五卷 名震一方 第七百六十三章 暗手</a></li><li><a href="4310161.html">第五卷 名震一方 第七百六十四章 边界之战（一）</a></li><li><a href="4310162.html">第五卷 名震一方 第七百六十五章 边界之战（二）</a></li><li><a href="4310163.html">第五卷 名震一方 第七百六十六章 边界之战（三）</a></li><li><a href="4310164.html">第五卷 名震一方 第七百六十七章 边界之战（四）</a></li><li><a href="4310165.html">第五卷 名震一方 第七百六十八章 边界之战（五）</a></li><li><a href="4310166.html">第五卷 名震一方 第七百六十九章 边界之战（六）</a></li><li><a href="4310167.html">第五卷 名震一方 第七百七十章 边界之战（七）</a></li><li><a href="4310168.html">第五卷 名震一方 第七百七十一章 边界之战（八）</a></li><li><a href="4310169.html">第五卷 名震一方 第七百七十二章 太真七修与圣禽</a></li><li><a href="4310170.html">第五卷 名震一方 第七百七十三章 降灵之威</a></li><li><a href="4310171.html">第五卷 名震一方 第七百七十四章 阴阳魔尸</a></li><li><a href="4310172.html">第五卷 名震一方 第七百七十五章 巨猿现</a></li><li><a href="4310173.html">第五卷 名震一方 第七百七十六章 辣手无情</a></li><li><a href="4310174.html">第五卷 名震一方 第七百七十七章 血鬼与石人</a></li><li><a href="4310175.html">第五卷 名震一方 第七百七十八章 抢灯</a></li><li><a href="4310176.html">第五卷 名震一方 第七百七十九章 远信</a></li><li><a href="4310177.html">第五卷 名震一方 第七百八十章 大战之后</a></li><li><a href="4310178.html">第五卷 名震一方 第七百八十一章 南宫惊变</a></li><li><a href="4310179.html">第五卷 名震一方 第七百八十二章 密室炼剑</a></li><li><a href="4310180.html">第五卷 名震一方 第七百八十三章 剑阵初成</a></li><li><a href="4310181.html">第五卷 名震一方 第七百八十四章 黑袍青年</a></li><li><a href="4310182.html">第五卷 名震一方 第七百八十五章 剑阵初展</a></li><li><a href="4310183.html">第五卷 名震一方 第七百八十六章 鬼罗幡</a></li><li><a href="4310184.html">第五卷 名震一方 第七百八十七章 吞魔啖鬼</a></li><li><a href="4310185.html">第五卷 名震一方 第七百八十八章 路遇</a></li><li><a href="4310186.html">第五卷 名震一方 第七百八十九章 极西之地</a></li><li><a href="4310187.html">第五卷 名震一方 第七百九十章 侵占</a></li><li><a href="4310188.html">第五卷 名震一方 第七百九十一章 天绝魔尸</a></li><li><a href="4310189.html">第五卷 名震一方 第七百九十二章 远行之前</a></li><li><a href="4310190.html">第六卷 通天灵宝 第七百九十三章 坠魔之地</a></li><li><a href="4310191.html">第六卷 通天灵宝 第七百九十四章 韩立回归（求月票了！）</a></li><li><a href="4310192.html">第六卷 通天灵宝 第七百九十五章 大衍神君</a></li><li><a href="4310193.html">第六卷 通天灵宝 第七百九十六章 寄神术</a></li><li><a href="4310194.html">第六卷 通天灵宝 第七百九十七章 上古魔界</a></li><li><a href="4310195.html">第六卷 通天灵宝 第七百九十八章 陈巧天</a></li><li><a href="4310196.html">第六卷 通天灵宝 第七百九十九章 结丹级傀儡</a></li><li><a href="4310197.html">第六卷 通天灵宝 第八百章 寻觅</a></li><li><a href="4310198.html">第六卷 通天灵宝 第八百零一章 谷现</a></li><li><a href="4310199.html">第六卷 通天灵宝 第八百零二章 谷外群修</a></li><li><a href="4310200.html">第六卷 通天灵宝 第八百零三章 单向传送阵</a></li><li><a href="4310201.html">第六卷 通天灵宝 第八百零四章 入谷</a></li><li><a href="4310202.html">第六卷 通天灵宝 第八百零五章 谷中杀机</a></li><li><a href="4310203.html">第六卷 通天灵宝 第八百零六章 各行其事</a></li><li><a href="4310204.html">第六卷 通天灵宝 第八百零七章 内谷之路</a></li><li><a href="4310205.html">第六卷 通天灵宝 第八百零八章 灰雾</a></li><li><a href="4310206.html">第六卷 通天灵宝 第八百零九章 巨蟒古兽</a></li><li><a href="4310207.html">第六卷 通天灵宝 第八百一十章 斩杀蟒兽</a></li><li><a href="4310208.html">第六卷 通天灵宝 第八百一十一章 罡银沙</a></li><li><a href="4310209.html">第六卷 通天灵宝 第八百一十二章 北极元光</a></li><li><a href="4310210.html">第六卷 通天灵宝 第八百一十三章 内谷之地</a></li><li><a href="4310211.html">第六卷 通天灵宝 第八百一十四章 十绝毒</a></li><li><a href="4310213.html">第六卷 通天灵宝 第八百一十五章 熔岩之地</a></li><li><a href="4310214.html">第六卷 通天灵宝 第八百一十六章 诱伏</a></li><li><a href="4310216.html">第六卷 通天灵宝 第八百一十七章 斩兽</a></li><li><a href="4310218.html">今天第二章更新前，忘语有些话和书友说说。</a></li><li><a href="4310219.html">第六卷 通天灵宝 第八百一十八章 古修遗骸</a></li><li><a href="4310220.html">第六卷 通天灵宝 第八百一十九章 七焰扇</a></li><li><a href="4310221.html">第六卷 通天灵宝 第八百二十章 血咒之门</a></li><li><a href="4310222.html">第六卷 通天灵宝 第八百二十一章 水潭与血咒之门</a></li><li><a href="4310223.html">第六卷 通天灵宝 第八百二十二章 灵缈园</a></li><li><a href="4310224.html">第六卷 通天灵宝 第八百二十三章 血咒解禁</a></li><li><a href="4310225.html">第六卷 通天灵宝 第八百二十四章 小须弥金刚阵</a></li><li><a href="4310226.html">第六卷 通天灵宝 第八百二十五章 汇合</a></li><li><a href="4310227.html">第六卷 通天灵宝 第八百二十六章 画轴</a></li><li><a href="4310228.html">第六卷 通天灵宝 第八百二十七章 神识化千</a></li><li><a href="4310229.html">第六卷 通天灵宝 第八百二十八章 幻化之峰</a></li><li><a href="4310230.html">第六卷 通天灵宝 第八百二十九章 魔动</a></li><li><a href="4310231.html">第六卷 通天灵宝 第八百三十章 吞婴</a></li><li><a href="4310232.html">第六卷 通天灵宝 第八百三十一章 异兽</a></li><li><a href="4310233.html">第六卷 通天灵宝 第八百三十二章 得果</a></li><li><a href="4310234.html">第六卷 通天灵宝 第八百三十三章 祭坛</a></li><li><a href="4310235.html">第六卷 通天灵宝 第八百三十四章 通道</a></li><li><a href="4310236.html">第六卷 通天灵宝 第八百三十五章 魔躯</a></li><li><a href="4310237.html">第六卷 通天灵宝 第八百三十六章 解体化形</a></li><li><a href="4310238.html">第六卷 通天灵宝 第八百三十七章 惊变</a></li><li><a href="4310239.html">第六卷 通天灵宝 第八百三十八章 魔影初现</a></li><li><a href="4310240.html">第六卷 通天灵宝 第八百三十九章 偷袭与现身</a></li><li><a href="4310241.html">第六卷 通天灵宝 第八百四十章 初斗魔魂</a></li><li><a href="4310242.html">第六卷 通天灵宝 第八百四十一章 联手抗魔</a></li><li><a href="4310243.html">第六卷 通天灵宝 第八百四十二章 双头四臂</a></li><li><a href="4310244.html">第六卷 通天灵宝 第八百四十三章 飞蛾扑火</a></li><li><a href="4310245.html">第六卷 通天灵宝 第八百四十四章 双魔会</a></li><li><a href="4310246.html">第六卷 通天灵宝 第八百四十五章 魔幕</a></li><li><a href="4310247.html">第六卷 通天灵宝 第八百四十六章 再战魔魂</a></li><li><a href="4310248.html">第六卷 通天灵宝 第八百四十七章 魔剑再现</a></li><li><a href="4310249.html">第六卷 通天灵宝 第八百四十八章 黑刃</a></li><li><a href="4310250.html">第六卷 通天灵宝 第八百四十九章 魔威肆虐</a></li><li><a href="4310251.html">第六卷 通天灵宝 第八百五十章 困魔</a></li><li><a href="4310252.html">第六卷 通天灵宝 第八百五十一章 意外惊变</a></li><li><a href="4310253.html">第六卷 通天灵宝 第八百五十二章 银焰</a></li><li><a href="4310254.html">第六卷 通天灵宝 第八百五十三章 绛云丹与雪魄丸</a></li><li><a href="4310255.html">第六卷 通天灵宝 第八百五十四章 滞留</a></li><li><a href="4310256.html">第六卷 通天灵宝 第八百五十五章 脱身</a></li><li><a href="4310257.html">第六卷 通天灵宝 第八百五十六章 天南魔影</a></li><li><a href="4310258.html">第六卷 通天灵宝 第八百五十七章 漩涡</a></li><li><a href="4310259.html">第六卷 通天灵宝 第八百五十八章 重返落云</a></li><li><a href="4310260.html">第六卷 通天灵宝 第八百五十九章 喂丹</a></li><li><a href="4310261.html">第六卷 通天灵宝 第八百六十章 坦言</a></li><li><a href="4310262.html">第六卷 通天灵宝 第八百六十一章 请函</a></li><li><a href="4310263.html">第六卷 通天灵宝 第八百六十二章 飞剑与傀儡</a></li><li><a href="4310264.html">第六卷 通天灵宝 第八百六十三章 乾坤塔</a></li><li><a href="4310265.html">第六卷 通天灵宝 第八百六十四章 观礼</a></li><li><a href="4310266.html">第六卷 通天灵宝 第八百六十五章 不速之客</a></li><li><a href="4310267.html">第六卷 通天灵宝 第八百六十六章 至阳的邀请</a></li><li><a href="4310268.html">第六卷 通天灵宝 第八百六十七章 胜负</a></li><li><a href="4310269.html">第六卷 通天灵宝 第八百六十八章 炼化</a></li><li><a href="4310270.html">第六卷 通天灵宝 第八百六十九章 通宝决</a></li><li><a href="4310271.html">第六卷 通天灵宝 第八百七十章 无边魔气</a></li><li><a href="4310272.html">第六卷 通天灵宝 第八百七十一章 探漩涡</a></li><li><a href="4310273.html">第六卷 通天灵宝 第八百七十二章 魔气之渊</a></li><li><a href="4310274.html">第六卷 通天灵宝 第八百七十三章 得灵岛</a></li><li><a href="4310275.html">第六卷 通天灵宝 第八百七十四章 石碑残片</a></li><li><a href="4310276.html">第六卷 通天灵宝 第八百七十五章 修幡</a></li><li><a href="4310277.html">第六卷 通天灵宝 第八百七十六章 远离</a></li><li><a href="4310278.html">第六卷 通天灵宝 第八百七十七章 苍鹭部</a></li><li><a href="4310279.html">第六卷 通天灵宝 第八百七十八章 五鬼锁神大法</a></li><li><a href="4310280.html">第六卷 通天灵宝 第八百七十九章 无妄之灾</a></li><li><a href="4310281.html">第六卷 通天灵宝 第八百八十章 各怀心思</a></li><li><a href="4310282.html">第六卷 通天灵宝 第八百八十一章 魔虫妖尸</a></li><li><a href="4310283.html">第六卷 通天灵宝 第八百八十二章 猿鹫</a></li><li><a href="4310284.html">第六卷 通天灵宝 第八百八十三章 冷漠</a></li><li><a href="4310285.html">第六卷 通天灵宝 第八百八十四章 驻地</a></li><li><a href="4310286.html">第六卷 通天灵宝 第八百八十五章 苦毒</a></li><li><a href="4310287.html">第六卷 通天灵宝 第八百八十六章 昊元丹</a></li><li><a href="4310288.html">第六卷 通天灵宝 第八百八十七章 冯家密窟</a></li><li><a href="4310289.html">第六卷 通天灵宝 第七百八十八章 危机</a></li><li><a href="4310290.html">第六卷 通天灵宝 第七百八十九章 巨幅</a></li><li><a href="4310291.html">第六卷 通天灵宝 第八百九十章 金焰石</a></li><li><a href="4310292.html">第六卷 通天灵宝 第八百九十一章 出手</a></li><li><a href="4310293.html">第六卷 通天灵宝 第八百九十二章 天澜圣女</a></li><li><a href="4310294.html">第六卷 通天灵宝 第八百九十三章 圣兽铸身</a></li><li><a href="4310295.html">第六卷 通天灵宝 第八百九十四章 诱敌</a></li><li><a href="4310296.html">第六卷 通天灵宝 第八百九十五章 锦帕银蚕</a></li><li><a href="4310297.html">第六卷 通天灵宝 第八百九十六章 双鼎</a></li><li><a href="4310298.html">第六卷 通天灵宝 第八百九十七章 惊转</a></li><li><a href="4310299.html">第六卷 通天灵宝 第八百九十八章 船上</a></li><li><a href="4310300.html">第六卷 通天灵宝 第八百九十九章 曹梦容</a></li><li><a href="4310301.html">第六卷 通天灵宝 第九百章 恶客</a></li><li><a href="4310302.html">第六卷 通天灵宝 第九百零一章 参王大会</a></li><li><a href="4310303.html">第六卷 通天灵宝 第九百零二章 棺中人</a></li><li><a href="4310304.html">第六卷 通天灵宝 第九百零三章 天机屋</a></li><li><a href="4310305.html">第六卷 通天灵宝 第九百零四章 上古巨墓</a></li><li><a href="4310306.html">第六卷 通天灵宝 第九百零五章 三尸</a></li><li><a href="4310307.html">单章求月票了！</a></li><li><a href="4310308.html">第六卷 通天灵宝 第九百零六章</a></li><li><a href="4310309.html">第六卷 通天灵宝 第九百零七章 火熔晶</a></li><li><a href="4310310.html">第六卷 通天灵宝 第九百零八章 晶化妖丹和飞针</a></li><li><a href="4310311.html">第六卷 通天灵宝 第九百零九章 小城客栈</a></li><li><a href="4310312.html">第六卷 通天灵宝 第九百一十章 杀机（祝大家国庆快乐哦！）</a></li><li><a href="4310313.html">第六卷 通天灵宝 第九百一十一章 入密窟</a></li><li><a href="4310314.html">第六卷 通天灵宝 第九百一十二章 明王决</a></li><li><a href="4310315.html">第六卷 通天灵宝 第九百一十三章 一触即发</a></li><li><a href="4310316.html">第六卷 通天灵宝 第九百一十四章 参战</a></li><li><a href="4310317.html">第六卷 通天灵宝 第九百一十五章 一战惊魔</a></li><li><a href="4310318.html">第六卷 通天灵宝 第九百一十六章 惊退</a></li><li><a href="4310319.html">第六卷 通天灵宝 第九百一十七章 双珠</a></li><li><a href="4310320.html">第六卷 通天灵宝 第九百一十八章 收宝</a></li><li><a href="4310321.html">第六卷 通天灵宝 第九百一十九章 甘家</a></li><li><a href="4310322.html">第六卷 通天灵宝 第九百二十章 白露书院</a></li><li><a href="4310323.html">第六卷 通天灵宝 第九百二十一章 道姑与皇清观</a></li><li><a href="4310324.html">第六卷 通天灵宝 第九百二十二章 噬真合元决</a></li><li><a href="4310325.html">第六卷 通天灵宝 第九百二十三章 炼器殿</a></li><li><a href="4310326.html">第六卷 通天灵宝 第九百二十四章 绿秀郡主</a></li><li><a href="4310327.html">第六卷 通天灵宝 第九百二十五章 大晋皇族</a></li><li><a href="4310328.html">第六卷 通天灵宝 第九百二十六章 乌风翎</a></li><li><a href="4310329.html">第六卷 通天灵宝 第九百二十七章 风起乍起</a></li><li><a href="4310330.html">第六卷 通天灵宝 第九百二十八章 岳阳宫</a></li><li><a href="4310331.html">第六卷 通天灵宝 第九百二十九章 昊阳鸟</a></li><li><a href="4310332.html">第六卷 通天灵宝 第九百三十章 得翎</a></li><li><a href="4310333.html">第六卷 通天灵宝 第九百三十一章 暗流</a></li><li><a href="4310334.html">第六卷 通天灵宝 第九百三十二章 意外遇故</a></li><li><a href="4310335.html">第六卷 通天灵宝 第九百三十三章 剑鸣</a></li><li><a href="4310336.html">第六卷 通天灵宝 第九百三十四章 跳梁小丑</a></li><li><a href="4310337.html">第六卷 通天灵宝 第九百三十五章 三尸之威</a></li><li><a href="4310338.html">第六卷 通天灵宝 第九百三十六章 天机阁</a></li><li><a href="4310339.html">第六卷 通天灵宝 第九百三十七章 天机府</a></li><li><a href="4310340.html">第六卷 通天灵宝 第九百三十八章 地下交易会</a></li><li><a href="4310341.html">第六卷 通天灵宝 第九百三十九章 芥子空间</a></li><li><a href="4310342.html">第六卷 通天灵宝 第九百四十章 不期而遇</a></li><li><a href="4310343.html">第六卷 通天灵宝 第九百四十一章 威胁</a></li><li><a href="4310344.html">第六卷 通天灵宝 第九百四十二章 玉佩</a></li><li><a href="4310345.html">第六卷 通天灵宝 第九百四十三章 敲诈</a></li><li><a href="4310346.html">第六卷 通天灵宝 第九百四十四章 寒髓</a></li><li><a href="4310347.html">第六卷 通天灵宝 第九百四十五章 回阳水与太阳精火</a></li><li><a href="4310348.html">第六卷 通天灵宝 第九百四十六章 韩长老</a></li><li><a href="4310349.html">第六卷 通天灵宝 第九百四十七章 大拍卖会</a></li><li><a href="4310350.html">第六卷 通天灵宝 第九百四十八章 墨金</a></li><li><a href="4310351.html">第六卷 通天灵宝 第九百四十九章 妙音宝镜</a></li><li><a href="4310352.html">第六卷 通天灵宝 第九百五十章 九幽宗</a></li><li><a href="4310353.html">第六卷 通天灵宝 第九百五十一章 符箓与法阵</a></li><li><a href="4310354.html">第六卷 通天灵宝 第九百五十二章 骚动</a></li><li><a href="4310355.html">第六卷 通天灵宝 第九百五十三章 意外收获</a></li><li><a href="4310356.html">第六卷 通天灵宝 第九百五十四章 平山印</a></li><li><a href="4310357.html">第六卷 通天灵宝 第九百五十五章 再遇古魔</a></li><li><a href="4310358.html">第六卷 通天灵宝 第九百五十六章 魔焰滔滔</a></li><li><a href="4310359.html">第六卷 通天灵宝 第九百五十七章 天符门</a></li><li><a href="4310360.html">第六卷 通天灵宝 第九百五十八章 李师侄</a></li><li><a href="4310361.html">第六卷 通天灵宝 第九百五十九章 化神传闻</a></li><li><a href="4310362.html">第六卷 通天灵宝 第九百六十章 密符和八级恶蛟</a></li><li><a href="4310363.html">更新通知</a></li><li><a href="4310364.html">第六卷 通天灵宝 第九百六十一章 恶蛟</a></li><li><a href="4310365.html">第六卷 通天灵宝 第九百六十二章 斗蛟</a></li><li><a href="4310366.html">第六卷 通天灵宝 第九百六十三章 灭蛟</a></li><li><a href="4310367.html">第六卷 通天灵宝 第九百六十四章 裂魂</a></li><li><a href="4310368.html">第六卷 通天灵宝 第九百六十五章 傀儡大成</a></li><li><a href="4310369.html">第六卷 通天灵宝 第九百六十六章 苦竹岛</a></li><li><a href="4310370.html">第六卷 通天灵宝 第九百六十七章 苦竹老人</a></li><li><a href="4310371.html">第六卷 通天灵宝 第九百六十八章 雷火弓</a></li><li><a href="4310372.html">第六卷 通天灵宝 第九百六十九章 降兽</a></li><li><a href="4310373.html">第六卷 通天灵宝 第九百七十章 双蝎山</a></li><li><a href="4310374.html">第六卷 通天灵宝 第九百七十一章 来客</a></li><li><a href="4310375.html">第六卷 通天灵宝 第九百七十二章 培婴丹与阴芝马</a></li><li><a href="4310376.html">第六卷 通天灵宝 第九百七十三章 冥河之页</a></li><li><a href="4310377.html">第六卷 通天灵宝 第九百七十四章 怪人</a></li><li><a href="4310378.html">第六卷 通天灵宝 第九百七十五章 半年</a></li><li><a href="4310379.html">第六卷 通天灵宝 第九百七十六章 灵山昆吾</a></li><li><a href="4310380.html">第六卷 通天灵宝 第九百七十七章 分头行事</a></li><li><a href="4310381.html">第六卷 通天灵宝 第九百七十八章 孽猿</a></li><li><a href="4310382.html">第六卷 通天灵宝 第九百七十九章 五子同心魔</a></li><li><a href="4310383.html">第六卷 通天灵宝 第九百八十章 黑晶</a></li><li><a href="4310384.html">第六卷 通天灵宝 第九百八十一章 尸狼</a></li><li><a href="4310385.html">第六卷 通天灵宝 第九百八十二章 煞魂丝</a></li><li><a href="4310386.html">第六卷 通天灵宝 第九百八十三章 银翅夜叉</a></li><li><a href="4310387.html">第六卷 通天灵宝 第九百八十四章 银瞳幻术</a></li><li><a href="4310388.html">第六卷 通天灵宝 第九百八十四章 邪月幻镜</a></li><li><a href="4310389.html">第六卷 通天灵宝 第九百八十五章 破法一击</a></li><li><a href="4310390.html">第六卷 通天灵宝 随风掩形</a></li><li><a href="4310391.html">第六卷 通天灵宝 第九百八十七章 金遁与冰焰之精</a></li><li><a href="4310392.html">第六卷 通天灵宝 第九百八十八章 灵扇之威</a></li><li><a href="4310393.html">第六卷 通天灵宝 第九百八十九章 天象巨变</a></li><li><a href="4310394.html">第六卷 通天灵宝 第九百九十章 擎天巨山</a></li><li><a href="4310395.html">第六卷 通天灵宝 第九百九十一章 紫雾</a></li><li><a href="4310396.html">第六卷 通天灵宝 第九百九十二章 毒圣门</a></li><li><a href="4310397.html">第六卷 通天灵宝 第九百九十三章 分丹</a></li><li><a href="4310398.html">第六卷 通天灵宝 第九百九十四章 石碑</a></li><li><a href="4310399.html">第六卷 通天灵宝 第九百九十五章 晶碑</a></li><li><a href="4310400.html">第六卷 通天灵宝 第九百九十六章 幻妙天象</a></li><li><a href="4310401.html">第六卷 通天灵宝 第九百九十七章 四散真人</a></li><li><a href="4310402.html">第六卷 通天灵宝 第九百九十八章 不期而遇</a></li><li><a href="4310403.html">第六卷 通天灵宝 第九百九十九章 杀心大起</a></li><li><a href="4310404.html">第六卷 通天灵宝 第一千章 石傀儡</a></li><li><a href="4310405.html">第六卷 通天灵宝 第一千零一章 昆吾殿、灵宝阁、镇魔塔</a></li><li><a href="4310406.html">第六卷 通天灵宝 第一千零二章 妇人</a></li><li><a href="4310407.html">第六卷 通天灵宝 第一千零三章 群魔隐现</a></li><li><a href="4310408.html">第六卷 通天灵宝 第一千零四章 玄青子</a></li><li><a href="4310409.html">第六卷 通天灵宝 第一千零五章 巨物、宫殿与破阵</a></li><li><a href="4310410.html">第六卷 通天灵宝 第一千零六章 铸灵堂</a></li><li><a href="4310411.html">第六卷 通天灵宝 第一千零七章 巨鼎</a></li><li><a href="4310412.html">第六卷 通天灵宝 第一千零八章 太阴真火</a></li><li><a href="4310413.html">第六卷 通天灵宝 第一千零九章 阴魄凝形</a></li><li><a href="4310414.html">第六卷 通天灵宝 第一千一十章 须弥五行壁</a></li><li><a href="4310415.html">第六卷 通天灵宝 第一千一十一章 一扇惊敌</a></li><li><a href="4310416.html">第六卷 通天灵宝 第一千一十二章 青铜狮</a></li><li><a href="4310417.html">第六卷 通天灵宝 第一千一十三章 万斤压身</a></li><li><a href="4310418.html">第六卷 通天灵宝 第一千一十四章 化仙二女</a></li><li><a href="4310419.html">第六卷 通天灵宝 第一千一十五章 金磁灵木</a></li><li><a href="4310420.html">第六卷 通天灵宝 第一千一十六章 元刹圣祖</a></li><li><a href="4310421.html">第六卷 通天灵宝 第一千一十七章 融魂</a></li><li><a href="4310422.html">第六卷 通天灵宝 第一千一十八章 再见元光</a></li><li><a href="4310423.html">第六卷 通天灵宝 第一千一十九章 偷袭</a></li><li><a href="4310424.html">第六卷 通天灵宝 第一千二十章 夺宝</a></li><li><a href="4310425.html">第六卷 通天灵宝 第一千二十一章 阳环之威</a></li><li><a href="4310426.html">第六卷 通天灵宝 第一千二十二章 降伏</a></li><li><a href="4310427.html">第六卷 通天灵宝 第一千二十三章 劫杀老魔</a></li><li><a href="4310428.html">第六卷 通天灵宝 第一千二十四章 五魔合体</a></li><li><a href="4310429.html">第六卷 通天灵宝 第一千二十五章 血魔珠</a></li><li><a href="4310430.html">第六卷 通天灵宝 第一千二十六章 破珠</a></li><li><a href="4310431.html">第六卷 通天灵宝 第一千二十七章 反噬</a></li><li><a href="4310432.html">第六卷 通天灵宝 第一千二十八章 灵宝现世</a></li><li><a href="4310433.html">第六卷 通天灵宝 第一千二十九章 魔刃疑云</a></li><li><a href="4310434.html">第六卷 通天灵宝 第一千三十章 血刀</a></li><li><a href="4310435.html">第六卷 通天灵宝 第一千三十一章 八灵尺</a></li><li><a href="4310436.html">第六卷 通天灵宝 第一千三十二章 联手</a></li><li><a href="4310437.html">第六卷 通天灵宝 第一千三十三章 破阵与脱困</a></li><li><a href="4310438.html">第六卷 通天灵宝 第一千三十四章 禁魔环、冰魂谷</a></li><li><a href="4310439.html">第六卷 通天灵宝 第一千三十五章 化神修士</a></li><li><a href="4310440.html">第六卷 通天灵宝 第一千三十六章 银月、雪玲、珑梦</a></li><li><a href="4310441.html">第六卷 通天灵宝 第一千三十七章 九真伏魔阵</a></li><li><a href="4310442.html">第六卷 通天灵宝 第一千三十八章 魔现</a></li><li><a href="4310443.html">第六卷 通天灵宝 第一千三十九章 黑风旗</a></li><li><a href="4310444.html">第六卷 通天灵宝 第一千四十章 保身</a></li><li><a href="4310445.html">第六卷 通天灵宝 第一千四十一章 偷袭</a></li><li><a href="4310446.html">第六卷 通天灵宝 第一千四十二章 斩魔</a></li><li><a href="4310447.html">第六卷 通天灵宝 第一千四十三章 重获旧宝</a></li><li><a href="4310448.html">第六卷 通天灵宝 第一千四十四章 反目</a></li><li><a href="4310449.html">第六卷 通天灵宝 第一千四十五章 吞婴</a></li><li><a href="4310450.html">第六卷 通天灵宝 第一千四十六章 血刃再现</a></li><li><a href="4310451.html">第六卷 通天灵宝 第一千四十五章 破壁突变</a></li><li><a href="4310452.html">第六卷 通天灵宝 第一千四十八章 条件</a></li><li><a href="4310453.html">第六卷 通天灵宝 第一千四十九章 灵禽与元婴</a></li><li><a href="4310454.html">第六卷 通天灵宝 第一千五十章 圣兽之印</a></li><li><a href="4310455.html">第六卷 通天灵宝 第一千五十一章 叱念真雷</a></li><li><a href="4310456.html">第六卷 通天灵宝 第一千五十二章 空间碎裂</a></li><li><a href="4310457.html">第六卷 通天灵宝 第一千五十三章 第九层</a></li><li><a href="4310458.html">第六卷 通天灵宝 第一千五十四章 禁魔</a></li><li><a href="4310459.html">第六卷 通天灵宝 第一千五十五章 赤鸣鼓</a></li><li><a href="4310460.html">第六卷 通天灵宝 第一千五十六章 真魔之气</a></li><li><a href="4310461.html">第六卷 通天灵宝 第一千五十七章 三宝联手</a></li><li><a href="4310462.html">第六卷 通天灵宝 第一千五十八章 魔像</a></li><li><a href="4310463.html">第六卷 通天灵宝 第一千五十九章 魔威无双</a></li><li><a href="4310464.html">第六卷 通天灵宝 第一千六十章 敖啸老祖</a></li><li><a href="4310465.html">第六卷 通天灵宝 第一千六十一章 大战再起</a></li><li><a href="4310466.html">第六卷 通天灵宝 第一千六十二章 珈轮战魔</a></li><li><a href="4310467.html">第六卷 通天灵宝 第一千六十三章 漩涡</a></li><li><a href="4310468.html">第六卷 通天灵宝 第一千六十四章 黑洞</a></li><li><a href="4310469.html">第六卷 通天灵宝 第一千六十五章 逃脱</a></li><li><a href="4310470.html">第六卷 通天灵宝 第一千六十六章 逆灵通道</a></li><li><a href="4310471.html">第六卷 通天灵宝 第一千六十七章 封灵大法</a></li><li><a href="4310472.html">第六卷 通天灵宝 第一千六十八章 封印</a></li><li><a href="4310473.html">第六卷 通天灵宝 第一千六十九章 灵魂吞噬</a></li><li><a href="4310474.html">第六卷 通天灵宝 第一千七十章 脱困</a></li><li><a href="4310475.html">第六卷 通天灵宝 第一千七十一章 冰寒之地</a></li><li><a href="4310476.html">第六卷 通天灵宝 第一千七十二章 化丹</a></li><li><a href="4310477.html">第六卷 通天灵宝 第一千七十三章 密室诸宝</a></li><li><a href="4310478.html">第六卷 通天灵宝 第一千七十四章 收魔</a></li><li><a href="4310479.html">第六卷 通天灵宝 第一千七十五章 北冥岛</a></li><li><a href="4310480.html">第六卷 通天灵宝 第一千七十六章 冰城</a></li><li><a href="4310481.html">第六卷 通天灵宝 第一千七十七章 雪猿、冰壁、宫殿</a></li><li><a href="4310482.html">第六卷 通天灵宝 第一千七十八章 冰灵果</a></li><li><a href="4310483.html">第六卷 通天灵宝 第一千七十九章 金风狸</a></li><li><a href="4310484.html">第六卷 通天灵宝 第一千八十章 寒骊上人</a></li><li><a href="4310485.html">第六卷 通天灵宝 第一千八十一章 三大寒焰</a></li><li><a href="4310486.html">第六卷 通天灵宝 第一千八十二章 冰海妖兽</a></li><li><a href="4310487.html">第六卷 通天灵宝 第一千八十三章 冰狞兽</a></li><li><a href="4310488.html">第六卷 通天灵宝 第一千八十四章 二妖</a></li><li><a href="4310489.html">六卷 通天灵宝 第一千八十五章 冰海妖影</a></li><li><a href="4310490.html">第六卷 通天灵宝 第一千八十六章 寒焰修士</a></li><li><a href="4310491.html">第六卷 通天灵宝 第一千八十七章 虚灵殿</a></li><li><a href="4310492.html">第六卷 通天灵宝 第一千八十八章 冰魄寒烈阵</a></li><li><a href="4310493.html">第六卷 通天灵宝 第一千八十九章 玄玉洞</a></li><li><a href="4310494.html">第六卷 通天灵宝 第一千九十章 阴灵水、太阳精石</a></li><li><a href="4310495.html">第六卷 通天灵宝 第一千九十一章 群妖压境</a></li><li><a href="4310496.html">第六卷 通天灵宝 第一千九十二章 三大妖修</a></li><li><a href="4310497.html">第六卷 通天灵宝 第一千九十三章 镇海钟</a></li><li><a href="4310498.html">第六卷 通天灵宝 第一千九十四章 寒焰洗髓</a></li><li><a href="4310499.html">第六卷 通天灵宝 第一千九十五章 猜忌</a></li><li><a href="4310500.html">第六卷 通天灵宝 第一千九十六章 妖魂</a></li><li><a href="4310501.html">第六卷 通天灵宝 第一千九十七章 魔高一丈</a></li><li><a href="4310502.html">第六卷 通天灵宝 冲阶化神</a></li><li><a href="4310503.html">第六卷 通天灵宝 第一千九十九章 反目</a></li><li><a href="4310504.html">第六卷 通天灵宝 第一千一百章 战起</a></li><li><a href="4310505.html">第六卷 通天灵宝 第一千一百零一章 洞下激战（上）</a></li><li><a href="4310506.html">第六卷 通天灵宝 第一千一百零二章 双尾人面蝎</a></li><li><a href="4310507.html">第六卷 通天灵宝 第一千一百零三章 力压双修</a></li><li><a href="4310508.html">第六卷 通天灵宝 第一千一百零四章 傀儡克敌</a></li><li><a href="4310509.html">第六卷 通天灵宝 第一千一百零五章 禁婴</a></li><li><a href="4310510.html">第六卷 通天灵宝 第一千一百零六章 收焰</a></li><li><a href="4310511.html">第六卷 通天灵宝 第一千一百零七章 剑阵重现</a></li><li><a href="4310512.html">第六卷 通天灵宝 第一千一百零八章 夺宝</a></li><li><a href="4310513.html">第六卷 通天灵宝 第一千一百零九章 沉水与玄玉</a></li><li><a href="4310514.html">第六卷 通天灵宝 第一千一百一十章 再遇妖兽</a></li><li><a href="4310515.html">第六卷 通天灵宝 第一千一百一十一章 妖兽入侵</a></li><li><a href="4310516.html">第六卷 通天灵宝 第一千一百一十二章 三目妖兽</a></li><li><a href="4310517.html">第六卷 通天灵宝 第一千一百一十三章 妖气冲天</a></li><li><a href="4310518.html">第六卷 通天灵宝 第一千一百一十四章 万妖幡与车老妖</a></li><li><a href="4310519.html">第六卷 通天灵宝 第一千一百一十五章 各现神通</a></li><li><a href="4310520.html">第六卷 通天灵宝 第一千一百一十六章 旗鼓相当</a></li><li><a href="4310521.html">第六卷 通天灵宝 第一千一百一十七章 冰凤之威</a></li><li><a href="4310522.html">第六卷 通天灵宝 第一千一百一十八章 空间神通</a></li><li><a href="4310523.html">第六卷 通天灵宝 第一千一百一十九章 黄泉鬼母</a></li><li><a href="4310524.html">第六卷 通天灵宝 第一千一百二十章 传送之战</a></li><li><a href="4310525.html">第七卷 纵横人界 第一千一百二十一章 重返故地</a></li><li><a href="4310526.html">第七卷 纵横人界 第一千一百二十二章 联手</a></li><li><a href="4310527.html">第七卷 纵横人界 第一千一百二十三章 困地潜修</a></li><li><a href="4310528.html">第七卷 纵横人界 第一千一百二十四章 天兆</a></li><li><a href="4310529.html">第七卷 纵横人 第一千一百二十五章 后期初成</a></li><li><a href="4310530.html">第七卷 纵横人界 第一千一百二十六章 黄沙门</a></li><li><a href="4310531.html">第七卷 纵横人界 第一千一百二十七章 谣言（求月票）</a></li><li><a href="4310532.html">第七卷 纵横人界 第一千一百二十八章 密语</a></li><li><a href="4310533.html">第七卷 纵横人界 第一千一百二十九章 元磁神光</a></li><li><a href="4310534.html">第七卷 纵横人界 第一千一百三十章 拦截</a></li><li><a href="4310535.html">第七卷 纵横人界 第一千一百三十一章 忌惮</a></li><li><a href="4310536.html">第七卷 纵横人界 第一千一百三十二章 援手</a></li><li><a href="4310537.html">第七卷 纵横人界 第一千一百三十三章 似曾相识</a></li><li><a href="4310538.html">第七卷 纵横人界 第一千一百三十四章 轮回之惑</a></li><li><a href="4310539.html">第七卷 纵横人界 第一千一百三十五章 约定</a></li><li><a href="4310540.html">第七卷 纵横人界 第一千一百三十六章 巨禽</a></li><li><a href="4310541.html">第七卷 纵横人界 第一千一百三十七章 青羽</a></li><li><a href="4310542.html">第七卷 纵横人界 第一千一百三十八章 雷空岛</a></li><li><a href="4310543.html">第七卷 纵横人界 第一千一百三十九章 神念附灵</a></li><li><a href="4310544.html">第七卷 纵横人界 第一千一百四十章 守株待兔</a></li><li><a href="4310545.html">第七卷 纵横人界 第一千一百四十一章 截杀</a></li><li><a href="4310546.html">第七卷 纵横人界 第一千一百四十二章 极阴之讯</a></li><li><a href="4310547.html">第七卷 纵横人界 第一千一百四十三章 阴煞血尸</a></li><li><a href="4310548.html">第七卷 纵横人界 第一千一百四十四章 再见极阴</a></li><li><a href="4310549.html">第七卷 纵横人界 第一千一百四十五章 擒魔</a></li><li><a href="4310550.html">第七卷 纵横人界 第一千一百四十六章 交换</a></li><li><a href="4310551.html">第七卷 纵横人界 第一千一百四十七章 乱起</a></li><li><a href="4310552.html">第七卷 纵横人界 第一千一百四十八章 金蛟王</a></li><li><a href="4310553.html">第七卷 纵横人界 第一千一百四十九章 金蛟凶焰</a></li><li><a href="4310554.html">第七卷 纵横人界 第一千一百五十章 夺宝</a></li><li><a href="4310555.html">第七卷 纵横人界 第一千一百五十一章 极品灵石</a></li><li><a href="4310556.html">第七卷 纵横人界 第一千一百五十二章 返回银鲨</a></li><li><a href="4310557.html">第七卷 纵横人界 第一千一百五十三章 双修之议</a></li><li><a href="4310558.html">第七卷 纵横人界 第一千一百五十四章 双圣条件</a></li><li><a href="4310559.html">第七卷 纵横人界 第一千一百五十五章 妖兽之乱</a></li><li><a href="4310560.html">第七卷 纵横人界 第一千一百五十六章 魔湖岛</a></li><li><a href="4310561.html">第七卷 纵横人界 第一千一百五十七章 金花老祖</a></li><li><a href="4310562.html">第七卷 纵横人界 第一千一百五十八章 金花、鬼鸠</a></li><li><a href="4310563.html">第七卷 纵横人界 第一千一百五十八章 灭杀</a></li><li><a href="4310564.html">第七卷 纵横人界 第一千一百六十章 银蝌文</a></li><li><a href="4310565.html">第七卷 纵横人界 第一千一百六十一章 鲲鹏之羽</a></li><li><a href="4310566.html">第七卷 纵横人界 第一千一百六十二章 金阙玉书</a></li><li><a href="4310567.html">第七卷 纵横人界 第一千一百六十三章 重临故地</a></li><li><a href="4310568.html">第七卷 纵横人界 第一千一百六十四章 回归天南</a></li><li><a href="4310569.html">第七卷 纵横人界 第一千一百六十五章 盘问</a></li><li><a href="4310570.html">第七卷 纵横人界 第一千一百六十六章 化羽门</a></li><li><a href="4310571.html">第七卷 纵横人界 第一千一百六十七章 前世今生</a></li><li><a href="4310572.html">第七卷 纵横人界 第一千一百六十八章 回宗</a></li><li><a href="4310573.html">第七卷 纵横人界 第一千一百六十九章 坠魔异变</a></li><li><a href="4310574.html">第七卷 纵横人界 第一千一百七十章 安排</a></li><li><a href="4310575.html">第七卷 纵横人界 第一千一百七十一章 压服两宗</a></li><li><a href="4310576.html">第七卷 纵横人界 第一千一百七十二章 被擒</a></li><li><a href="4310577.html">第七卷 纵横人界 第一千一百七十三章 第二元婴与天煞魔尸</a></li><li><a href="4310578.html">第七卷 纵横人界 第一千一百七十四章 威震天南</a></li><li><a href="4310579.html">第七卷 纵横人界 第一千一百七十五章 炼翅</a></li><li><a href="4310580.html">第七卷 纵横人界 第一千一百七十六章 火灵丝与破灭法目</a></li><li><a href="4310581.html">第七卷 纵横人界 第一千一百七十七章 踪讯</a></li><li><a href="4310582.html">第七卷 纵横人界 第一千一百七十八章 重返坠魔</a></li><li><a href="4310583.html">第七卷 纵横人界 第一千一百七十九章 血月觅灵</a></li><li><a href="4310584.html">第七卷 纵横人界 第一千一百八十章 解救</a></li><li><a href="4310585.html">第七卷 纵横人界 第一千一百八十一章 重临七灵</a></li><li><a href="4310586.html">第七卷 纵横人界 第一千一百八十二章 入渊</a></li><li><a href="4310587.html">第七卷 纵横人界 第一千一百八十三章 魔化</a></li><li><a href="4310588.html">第七卷 纵横人界 第一千一百八十四章 收婴</a></li><li><a href="4310589.html">第七卷 纵横人界 第一千一百八十五章 府中</a></li><li><a href="4310590.html">第七卷 纵横人界 第一千一百八十六章 同化</a></li><li><a href="4310591.html">第七卷 纵横人界 第一千一百八十七章 度劫</a></li><li><a href="4310592.html">第七卷 纵横人界 第一千一百八十八章 连环天雷</a></li><li><a href="4310593.html">第七卷 纵横人界 第一千一百八十八章 怪异金角</a></li><li><a href="4310594.html">第七卷 纵横人界 第一千一百八十九章 取液</a></li><li><a href="4310595.html">第七卷 纵横人界 第一千一百九十章 化界珠和疾风九变</a></li><li><a href="4310596.html">第七卷 纵横人界 第一千一百九十一章 金刚决和帝流浆</a></li><li><a href="4310597.html">第七卷 纵横人界 第一千一百九十二章 终成眷属</a></li><li><a href="4310598.html">第七卷 纵横人界 第一千一百九十三章 聚灵珠</a></li><li><a href="4310599.html">第七卷 纵横人界 第一千一百九十四章 暗谋</a></li><li><a href="4310600.html">第七卷 纵横人界 第一千一百九十五章 木生珠</a></li><li><a href="4310601.html">第七卷 纵横人界 第一千一百九十六章 二女</a></li><li><a href="4310602.html">第七卷 纵横人界 第一千一百九十七章 闭关</a></li><li><a href="4310603.html">第七卷 纵横人界 第一千一百九十八章 星宫来讯</a></li><li><a href="4310604.html">第七卷 纵横人界 第一千一百九十九章 星海之乱</a></li><li><a href="4310605.html">第七卷 纵横人界 第一千二百章 星宫之战（一）</a></li><li><a href="4310606.html">第七卷 纵横人界 第一千二百零一章 星宫之战（二）</a></li><li><a href="4310607.html">第七卷 纵横人界 第一千二百零二章 星宫之战（三）</a></li><li><a href="4310608.html">第七卷 纵横人界 第一千二百零三章 星宫之战（四）</a></li><li><a href="4310609.html">第七卷 纵横人界 第一千二百零四章 星宫之战（五）</a></li><li><a href="4310610.html">第七卷 纵横人界 第一千二百零五章 星宫之战（六）</a></li><li><a href="4310611.html">第七卷 纵横人界 第一千二百零六章 星宫之战（七）</a></li><li><a href="4310612.html">第七卷 纵横人界 第一千二百零七章 星宫之战（八）</a></li><li><a href="4310613.html">第七卷 纵横人界 第一千二百零八章 星宫之战（九）</a></li><li><a href="4310614.html">第七卷 纵横人界 第一千二百零九章 星宫之战（十）</a></li><li><a href="4310615.html">第七卷 纵横人界 第一千二百一十章 星宫之战（十一）</a></li><li><a href="4310616.html">第七卷 纵横人界 第一千二百一十一章 星宫之战（十二）</a></li><li><a href="4310617.html">第七卷 纵横人界 第一千二百一十三章 星宫之战（十三）</a></li><li><a href="4310618.html">第七卷 纵横人界 第一千二百一十四章 星宫之战（十四）</a></li><li><a href="4310619.html">第七卷 纵横人界 第一千二百一十五章 灵根与五行合一</a></li><li><a href="4310620.html">第七卷 纵横人界 第一千二百一十六章 破阵</a></li><li><a href="4310621.html">第七卷 纵横人界 第一千二百一十七章 元磁山</a></li><li><a href="4310622.html">第七卷 纵横人界 第一千二百一十八章 五行之力</a></li><li><a href="4310623.html">第七卷 纵横人界 第一千二百一十九章 赤魂幡</a></li><li><a href="4310624.html">第七卷 纵横人界 第一千二百二十章 冲击化神</a></li><li><a href="4310625.html">第七卷 纵横人界 第一千二百二十一章 再度远游</a></li><li><a href="4310626.html">第七卷 纵横人界 第一千二百二十二章 天机殿</a></li><li><a href="4310627.html">第七卷 纵横人界 第一千二百二十三章 意外来客</a></li><li><a href="4310628.html">第七卷 纵横人界 第一千二百二十四章 佛宗高人</a></li><li><a href="4310629.html">第七卷 纵横人界 第一千二百二十五章 交手</a></li><li><a href="4310630.html">第七卷 纵横人界 第一千二百二十六章 金刚</a></li><li><a href="4310631.html">第七卷 纵横人界</a></li><li><a href="4310632.html">第七卷 纵横人界 第一千二百二十八章 半途截杀</a></li><li><a href="4310633.html">第七卷 纵横人界 第一千二百二十九章 斩杀大修</a></li><li><a href="4310634.html">第七卷 纵横人界 第一千二百三十章 图谋阴罗</a></li><li><a href="4310635.html">第七卷 纵横人界 第一千二百三十一章 雷震子与灭仙珠</a></li><li><a href="4310636.html">第七卷 纵横人界 第一千二百三十二章 意外</a></li><li><a href="4310637.html">第七卷 纵横人界 第一千二百三十三章 再见向之礼</a></li><li><a href="4310638.html">第七卷 纵横人界 第一千二百三十四章 合作</a></li><li><a href="4310639.html">第七卷 纵横人界 第一千二百三十五章 魔陀山</a></li><li><a href="4310640.html">第七卷 纵横人界 第一千二百三十六章 魔宫来客</a></li><li><a href="4310641.html">第七卷 纵横人界 第一千二百三十七章 侍妾</a></li><li><a href="4310642.html">第七卷 纵横人界 第一千二百三十八章 援手</a></li><li><a href="4310643.html">第七卷 纵横人界 第一千二百三十九章 韩立的交换</a></li><li><a href="4310644.html">第七卷 纵横人界 第一千二百四十章 一击</a></li><li><a href="4310645.html">第七卷 纵横人界 第一千二百四十一章 翠峰</a></li><li><a href="4310646.html">第七卷 纵横人界 第一千二百四十二章 八灵尺与啼魂</a></li><li><a href="4310647.html">第七卷 纵横人界 第一千二百四十三章 火狱</a></li><li><a href="4310648.html">第七卷 纵横人界 第一千二百四十四章 法阵、祭坛、巨鼎</a></li><li><a href="4310649.html">第七卷 纵横人界 第一千二百四十五章 精火现</a></li><li><a href="4310650.html">第七卷 纵横人界 第一千二百四十六章 捕捉精火</a></li><li><a href="4310651.html">第七卷 纵横人界 第一千二百四十七章 仙藤复生</a></li><li><a href="4310652.html">第七卷 纵横人界 第一千二百四十八章 玄天之宝</a></li><li><a href="4310653.html">第七卷 纵横人界 第一千二百四十九章 荒岛设伏</a></li><li><a href="4310654.html">第七卷 纵横人界 第一千二百五十章 龙鳞果</a></li><li><a href="4310655.html">第七卷 纵横人界 第一千二百五十一章 力压二妖</a></li><li><a href="4310656.html">第七卷 纵横人界 第一千二百五十二章 淬骨决</a></li><li><a href="4310657.html">第七卷 纵横人界 第一千二百五十三章 进阶化神</a></li><li><a href="4310658.html">第七卷 纵横人界 第一千二百五十四章 五龙海</a></li><li><a href="4310659.html">第七卷 纵横人界 第一千二百五十五章 海雾</a></li><li><a href="4310660.html">第七卷 纵横人界 第一千二百五十六章 空间节点</a></li><li><a href="4310661.html">第七卷 纵横人界 第一千二百五十七章 联手之仪</a></li><li><a href="4310662.html">第七卷 纵横人界 第一千二百五十八章 纵掠天下</a></li><li><a href="4310663.html">第七卷 纵横人界 第一千二百五十九章 回岛</a></li><li><a href="4310664.html">第七卷 纵横人界 第一千二百六十章 六丁天甲符</a></li><li><a href="4310665.html">第七卷 纵横人界 第一千二百六十一章 进入节点</a></li><li><a href="4310666.html">第八卷 初入灵界 第一千二百六十二章 陌生之地</a></li><li><a href="4310667.html">第八卷 初入灵界 第一千二百六十三章 血咒文书与灵具</a></li><li><a href="4310668.html">第八卷 初入灵界 第一千二百六十四章 天东商号</a></li><li><a href="4310669.html">第八卷 初入灵界 第一千二百六十五章 南歧子与符老</a></li><li><a href="4310670.html">第八卷 初入灵界 第一千二百六十六章 沙虫兽</a></li><li><a href="4310671.html">第八卷 初入灵界 第一千二百六十七章 巨虫来袭</a></li><li><a href="4310672.html">第八卷 初入灵界 第一千二百六十八章 蛇妖</a></li><li><a href="4310673.html">第八卷 初入灵界 第一千二百六十九章 安远城</a></li><li><a href="4310674.html">第八卷 初入灵界 第一千二百七十章 暂别</a></li><li><a href="4310675.html">第八卷 初入灵界 第一千二百七十一章 地蛟筋</a></li><li><a href="4310676.html">第八卷 初入灵界 第一千二百七十二章 兽潮</a></li><li><a href="4310677.html">第八卷 初入灵界 第一千二百七十三章 天劫之危</a></li><li><a href="4310678.html">第八卷 初入灵界 第一千二百七十四章 金玉宗</a></li><li><a href="4310679.html">第八卷 初入灵界 第一千二百七十五章 青狼、赤蟒、豹禽</a></li><li><a href="4310680.html">第八卷 初入灵界 第一千二百七十六章 狂兽之潮（一）</a></li><li><a href="4310681.html">第八卷 初入灵界 第一千二百七十七章 狂兽之潮（二）</a></li><li><a href="4310682.html">第八卷 初入灵界 第一千二百七十八章 狂兽之潮（三）</a></li><li><a href="4310683.html">第八卷 初入灵界 第一千二百七十九章 狂兽之潮（四）</a></li><li><a href="4310684.html">第八卷 初入灵界 第一千二百八十章 狂兽之潮（五）</a></li><li><a href="4310685.html">第八卷 初入灵界 第一千二百八十一章 狂兽之潮（六）</a></li><li><a href="4310686.html">第八卷 初入灵界 第一千二百八十二章 女童</a></li><li><a href="4310687.html">第八卷 初入灵界 第一千二百八十三章 追杀</a></li><li><a href="4310688.html">第八卷 初入灵界 第一千二百八十四章 黑凤族</a></li><li><a href="4310689.html">第八卷 初入灵界 第一千二百八十五章 九玄明玉潭</a></li><li><a href="4310690.html">第八卷 初入灵界 第一千二百八十六章 斩杀三妖</a></li><li><a href="4310691.html">第八卷 初入灵界 第一千二百八十七章 传承珠</a></li><li><a href="4310692.html">第八卷 初入灵界 第一千二百八十八章 虞阳城</a></li><li><a href="4310693.html">第八卷 初入灵界 第一千二百八十九章 飞蝎</a></li><li><a href="4310694.html">第八卷 初入灵界 第一千二百九十章 重得宝物</a></li><li><a href="4310695.html">第八卷 初入灵界 第一千二百九十一章 天元武具</a></li><li><a href="4310696.html">第八卷 初入灵界 第一千二百九十二章 黄粱灵君</a></li><li><a href="4310697.html">第八卷 初入灵界 第一千二百九十三章 银芯石与天心丹</a></li><li><a href="4310698.html">第八卷 初入灵界 第一千二百九十四章 灵族浮现</a></li><li><a href="4310699.html">第八卷 初入灵界 第一千二百九十五章 飞蛾</a></li><li><a href="4310700.html">第八卷 初入灵界 第一千二百九十六章 怪蛇、水箭、银手</a></li><li><a href="4310701.html">第八卷 初入灵界 第一千二百九十七章 灵族援军</a></li><li><a href="4310702.html">第八卷 初入灵界 第一千二百九十八章 再见小兽</a></li><li><a href="4310703.html">第八卷 初入灵界 第一千二百九十九章 噬炎</a></li><li><a href="4310704.html">第八卷 初入灵界 第一千三百章 三族齐聚</a></li><li><a href="4310705.html">第八卷 初入灵界 第一千三百零一章 各现神通</a></li><li><a href="4310706.html">第八卷 初入灵界 第一千三百零二章 太一化清符</a></li><li><a href="4310707.html">第八卷 初入灵界 第一千三百零三章 炙光潭</a></li><li><a href="4310708.html">第八卷 初入灵界 第一千三百零四章 上古巨人</a></li><li><a href="4310709.html">第八卷 初入灵界 第一千三百零五章 巨人之战</a></li><li><a href="4310710.html">第八卷 初入灵界 第一千三百零六章 神血之争</a></li><li><a href="4310711.html">第八卷 初入灵界 第一千三百零七章 初战炼虚</a></li><li><a href="4310712.html">第八卷 初入灵界 第一千三百零八章 噬灵之威</a></li><li><a href="4310713.html">第八卷 初入灵界 第一千三百零九章 天劫降临</a></li><li><a href="4310714.html">第八卷 初入灵界 第一千三百一十章 两色雷劫</a></li><li><a href="4310715.html">第八卷 初入灵界 第一千三百一十一章 金庭舟与天渊卫</a></li><li><a href="4310716.html">第八卷 初入灵界 第一千三百一十二章 青冥卫</a></li><li><a href="4310717.html">第八卷 初入灵界 第一千三百一十三章 飞升修士与天渊城</a></li><li><a href="4310718.html">第八卷 初入灵界 第一千三百一十四章 赵无归</a></li><li><a href="4310719.html">第八卷 初入灵界 第一千三百一十五章 玉阙阁</a></li><li><a href="4310720.html">第八卷 初入灵界 第一千三百一十六章 灵地之争</a></li><li><a href="4310721.html">第八卷 初入灵界 第一千三百一十七章 莫名麻烦</a></li><li><a href="4310722.html">第八卷 初入灵界 第一千三百一十八章 豹麟兽</a></li><li><a href="4310723.html">第八卷 初入灵界 第一千三百一十九章 千魂铃</a></li><li><a href="4310724.html">第八卷 初入灵界 第一千三百二十章 炼体之威</a></li><li><a href="4310725.html">第八卷 初入灵界 第一千三百二十一章 夺得灵地</a></li><li><a href="4310726.html">第八卷 初入灵界 第一千三百二十二章 洞府</a></li><li><a href="4310727.html">第八卷 初入灵界 第一千三百二十三章 玄天果实</a></li><li><a href="4310728.html">第八卷 初入灵界 第一千三百二十四章 混沌万灵榜</a></li><li><a href="4310729.html">第八卷 初入灵界 第一千三百二十五章 手下</a></li><li><a href="4310730.html">第八卷 初入灵界 第一千三百二十六章 浮黎沼泽</a></li><li><a href="4310731.html">第八卷 初入灵界 第一千三百二十七章 巨兽、怪人</a></li><li><a href="4310732.html">第八卷 初入灵界 第一千三百二十八章 蛮兽人</a></li><li><a href="4310733.html">第八卷 初入灵界 第一千三百二十九章 天渊坊市</a></li><li><a href="4310734.html">第八卷 初入灵界 第一千三百三十章 真蟾液与玉清丹</a></li><li><a href="4310735.html">第八卷 初入灵界 第一千三百三十一章 天雷成木</a></li><li><a href="4310736.html">第八卷 初入灵界 第一千三百三十二章 神秘雷纹</a></li><li><a href="4310737.html">第八卷 初入灵界 第一千三百三十三章 恶客</a></li><li><a href="4310738.html">第八卷 初入灵界 第一千三百三十四章 心寒入体</a></li><li><a href="4310739.html">第八卷 初入灵界 第一千三百三十五章 意外的拍卖物</a></li><li><a href="4310740.html">第八卷 初入灵界 第一千三百三十六章 拍卖</a></li><li><a href="4310741.html">第八卷 初入灵界 第一千三百三十七章 真灵鳞片</a></li><li><a href="4310742.html">第八卷 初入灵界 第一千三百三十八章 拍下</a></li><li><a href="4310743.html">第八卷 初入灵界 第一千三百三十九章 真灵世家</a></li><li><a href="4310744.html">第八卷 初入灵界 第一千三百四十章 千宝上人和万珑珠</a></li><li><a href="4310745.html">第八卷 初入灵界 第一千三百四十一章 雷袍现世</a></li><li><a href="4310746.html">第八卷 初入灵界 第一千三百四十二章 探查</a></li><li><a href="4310747.html">第八卷 初入灵界 第一千三百四十四章 玉骨人魔</a></li><li><a href="4310748.html">第八卷 初入灵界 第一千三百四十五章 空间风暴</a></li><li><a href="4310749.html">第八卷 初入灵界 第一千三百四十六章 骨手</a></li><li><a href="4310750.html">第八卷 初入灵界 第一千三百四十七章 百脉炼宝决</a></li><li><a href="4310751.html">第八卷 初入灵界 第一千三百四十八章 绿影</a></li><li><a href="4310752.html">第八卷 初入灵界 第一千三百四十九章 异族疑云</a></li><li><a href="4310753.html">第八卷 初入灵界 第一千三百五十章 天广殿</a></li><li><a href="4310754.html">第八卷 初入灵界 第一千三百五十一章 聚会</a></li><li><a href="4310755.html">第八卷 初入灵界 第一千三百五十二章 飞升修士</a></li><li><a href="4310756.html">第八卷 初入灵界 第一千三百五十三章 灵虫大成</a></li><li><a href="4310757.html">第九卷 灵界百族 第一千三百五十四章 任务</a></li><li><a href="4310758.html">第九卷 灵界百族 第一千三百五十五章 暗流</a></li><li><a href="4310759.html">第九卷 灵界百族 第一千三百五十六章 紫影、圣皇</a></li><li><a href="4310760.html">第九卷 灵界百族 第一千三百五十七章 诧灵琵琶</a></li><li><a href="4310761.html">第九卷 灵界百族 第一千三百五十九章 雷龟</a></li><li><a href="4310762.html">第九卷 灵界百族 第一千三百五十九章 双皇现</a></li><li><a href="4310763.html">第九卷 灵界百族 第一千三百六十章 芝龙果</a></li><li><a href="4310764.html">第九卷 灵界百族 第一千三百六十一章 挑拨</a></li><li><a href="4310765.html">第九卷 灵界百族 第一千三百六十二章 抢果</a></li><li><a href="4310766.html">第九卷 灵界百族 第一千三百六十三章 分果</a></li><li><a href="4310767.html">第九卷 灵界百族 第一千三百六十四章 小城</a></li><li><a href="4310768.html">第九卷 灵界百族 第一千三百六十五章 魔影再现</a></li><li><a href="4310769.html">第九卷 灵界百族 第一千三百六十六章 蜃兽</a></li><li><a href="4310770.html">第九卷 灵界百族 第一千三百六十七章 沙漠激战</a></li><li><a href="4310771.html">第九卷 灵界百族 第一千三百六十八章 虫威</a></li><li><a href="4310772.html">第九卷 灵界百族 第一千三百六十九章 汇合</a></li><li><a href="4310773.html">第九卷 灵界百族 第一千三百七十章 灵树梦罗</a></li><li><a href="4310774.html">第九卷 灵界百族 第一千三百七十一章 黑叶森林</a></li><li><a href="4310775.html">第九卷 灵界百族 第一千三百七十二章 木族</a></li><li><a href="4310776.html">第九卷 灵界百族 第一千三百七十三章 六臂初现</a></li><li><a href="4310777.html">第九卷 灵界百族 第一千三百七十四章 退敌</a></li><li><a href="4310778.html">第九卷 灵界百族 第一千三百七十五章 木凤</a></li><li><a href="4310779.html">第九卷 灵界百族 第一千三百七十六章 任务完成</a></li><li><a href="4310780.html">第九卷 灵界百族 第一千三百七十七章 真灵之魄</a></li><li><a href="4310781.html">第九卷 灵界百族 第一千三百七十八章 血晶摩诃剑</a></li><li><a href="4310782.html">第九卷 灵界百族 第一千三百七十九章 赤鬼</a></li><li><a href="4310783.html">第九卷 灵界百族 第一千三百八十章 力压黑凤</a></li><li><a href="4310784.html">第九卷 灵界百族 第一千三百八十一章 啼魂变身</a></li><li><a href="4310785.html">第九卷 灵界百族 第一千三百八十二章 剑阵与血剑</a></li><li><a href="4310786.html">第九卷 灵界百族 第一千三百八十三章 天凤之翎</a></li><li><a href="4310787.html">第九卷 灵界百族 第一千三百八十四章 暗手</a></li><li><a href="4310788.html">第九卷 灵界百族 第一千三百八十五章 木灵之战</a></li><li><a href="4310789.html">第九卷 灵界百族 第一千三百八十六章 人树合一</a></li><li><a href="4310790.html">第九卷 灵界百族 第一千三百八十七章 脱身</a></li><li><a href="4310791.html">第九卷 灵界百族 第一千三百八十八章 三炼风雷翅</a></li><li><a href="4310792.html">第九卷 灵界百族 第一千三百八十九章 聚集</a></li><li><a href="4310793.html">第九卷 灵界百族 第一千三百九十章 图谋真蟾</a></li><li><a href="4310794.html">第九卷 灵界百族 第一千三百九十一章 檀鹤香和黑血蚁</a></li><li><a href="4310795.html">第九卷 灵界百族 第一千三百五十五章 玄涡兽</a></li><li><a href="4310796.html">第九卷 灵界百族 第一千三百九十三章 惊变</a></li><li><a href="4310797.html">第九卷 灵界百族 第一千三百九十四章 斩山之威</a></li><li><a href="4310798.html">第九卷 灵界百族 第一千三百九十五章 夜叉王</a></li><li><a href="4310799.html">第九卷 灵界百族 第一千三百九十六章 猖奴</a></li><li><a href="4310800.html">第九卷 灵界百族 第一千三百九十七章 设伏</a></li><li><a href="4310801.html">第九卷 灵界百族 第一千三百九十八章 光阵</a></li><li><a href="4310802.html">第九卷 灵界百族 第一千三百九十九章 猪妖与幼兽</a></li><li><a href="4310803.html">第九卷 灵界百族 第一千四百章 海边</a></li><li><a href="4310804.html">第九卷 灵界百族 第一千四百零一章 黑色雾海</a></li><li><a href="4310805.html">第九卷 灵界百族 第一千四百零二章 苦修</a></li><li><a href="4310806.html">第九卷 灵界百族 第一千四百零三章 天鹏族与供奉</a></li><li><a href="4310807.html">第九卷 灵界百族 第一千四百零四章 金髓晶虫与金母珊瑚沙</a></li><li><a href="4310808.html">第九卷 灵界百族 第一千四百零五章 石墩</a></li><li><a href="4310809.html">第九卷 灵界百族 第一千四百零六章 变异</a></li><li><a href="4310810.html">第九卷 灵界百族 第一千四百零七章 金髓炼体</a></li><li><a href="4310811.html">第九卷 灵界百族 第一千四百零八章 天鹏人</a></li><li><a href="4310812.html">第九卷 灵界百族 第一千四百零九章 赤融族</a></li><li><a href="4310813.html">第九卷 灵界百族 第一千四百一十章 暴露</a></li><li><a href="4310814.html">第九卷 灵界百族 第一千四百一十一章 力退赤融</a></li><li><a href="4310815.html">第九卷 灵界百族 第一千四百一十二章 天鹏圣地</a></li><li><a href="4310816.html">第九卷 灵界百族 第一千四百一十三章 封灵塔</a></li><li><a href="4310817.html">第九卷 灵界百族 第一千四百一十四章 天鹏圣子与鲲鹏真血</a></li><li><a href="4310818.html">第九卷 灵界百族 第一千四百一十五章 大长老</a></li><li><a href="4310819.html">第九卷 灵界百族 第一千四百一十六章 交易大殿</a></li><li><a href="4310820.html">第九卷 灵界百族 第一千四百一十七章 青罗果</a></li><li><a href="4310821.html">第九卷 灵界百族 第一千四百一十八章 三个选择</a></li><li><a href="4310822.html">第九卷 灵界百族 第一千四百一十九章 鲲鹏舍利与天鹏之誓</a></li><li><a href="4310823.html">第九卷 灵界百族 第一千四百二十章 真血入体</a></li><li><a href="4310824.html">第九卷 灵界百族 第一千四百二十一章 惊蛰十二变</a></li><li><a href="4310825.html">第九卷 灵界百族 第一千四百二十二章 须弥洞天图</a></li><li><a href="4310826.html">第九卷 灵界百族 第一千四百二十三章 雷兽</a></li><li><a href="4310827.html">第九卷 灵界百族 第一千四百二十四章 五色天雷</a></li><li><a href="4310828.html">第九卷 灵界百族 第一千四百二十五章 降兽</a></li><li><a href="4310829.html">第九卷 灵界百族 第一千四百二十六章 引雷珠</a></li><li><a href="4310830.html">第九卷 灵界百族 第一千四百二十七章 忌惮</a></li><li><a href="4310831.html">第九卷 灵界百族 第一千四百二十八章 天鹏圣子</a></li><li><a href="4310832.html">第九卷 灵界百族 第一千四百二十九章 飞灵诸族</a></li><li><a href="4310833.html">第九卷 灵界百族 第一千四百三十章 玉皇顶</a></li><li><a href="4310834.html">第九卷 灵界百族 第一千四百三十一章 祝音子</a></li><li><a href="4310835.html">第九卷 灵界百族 第一千四百三十二章 较技场</a></li><li><a href="4310836.html">第九卷 灵界百族 第一千四百三十三章 试探</a></li><li><a href="4310837.html">第九卷 灵界百族 第一千四百三十四章 地渊守卫</a></li><li><a href="4310838.html">第九卷 灵界百族 第一千四百三十五章 四煞化甲术</a></li><li><a href="4310839.html">第九卷 灵界百族</a></li><li><a href="4310840.html">第九卷 灵界百族 第一千四百三十七章 地渊一层</a></li><li><a href="4310841.html">第九卷 灵界百族 第一千四百三十八章 阴蛛蜂</a></li><li><a href="4310842.html">第九卷 灵界百族</a></li><li><a href="4310843.html">第九卷 灵界百族 第一千四百四十章 妖猿</a></li><li><a href="4310844.html">第九卷 灵界百族 第一千四百四十一章 神秘山脉</a></li><li><a href="4310845.html">第九卷 灵界百族 第一千四百四十二章 绿影</a></li><li><a href="4310846.html">第九卷 灵界百族 第一千四百四十三章 危机</a></li><li><a href="4310847.html">第九卷 灵界百族 第一千四百四十四章 地渊深层</a></li><li><a href="4310848.html">第九卷 灵界百族 第一千四百四十五章 霹雳灭敌</a></li><li><a href="4310849.html">第九卷 灵界百族 第一千四百四十六章 冰煞之地与万藤道</a></li><li><a href="4310850.html">第九卷 灵界百族 第一千四百四十七章 小兽与冰煞</a></li><li><a href="4310851.html">第九卷 灵界百族 第一千四百四十八章 冰煞妖王</a></li><li><a href="4310852.html">第九卷 灵界百族 第一千四百四十九章 进阶</a></li><li><a href="4310853.html">第九卷 灵界百族 第一千四百五十章 碧木妖</a></li><li><a href="4310854.html">第九卷 灵界百族 第一千四百五十一章 血傀儡</a></li><li><a href="4310855.html">第九卷 灵界百族 第一千四百五十二章 木青与血蛟</a></li><li><a href="4310856.html">第九卷 灵界百族 第一千四百五十三章 天罡血雷、金乌灵火</a></li><li><a href="4310857.html">第九卷 灵界百族 第一千四百五十四章 腐叶林与冥焰果</a></li><li><a href="4310858.html">第九卷 灵界百族 第一千四百五十五章 血河冥针</a></li><li><a href="4310859.html">第九卷 灵界百族 第一千四百五十六章 天罡血雷</a></li><li><a href="4310860.html">第九卷 灵界百族 第一千四百五十七章 逃遁</a></li><li><a href="4310861.html">第九卷 灵界百族 第一千四百五十八章 图谋</a></li><li><a href="4310862.html">第九卷 灵界百族 第一千四百五十九章 神雷之谜</a></li><li><a href="4310863.html">第九卷 灵界百族 第一千四百六十章 再见元瑶</a></li><li><a href="4310864.html">第九卷 灵界百族 第一千四百六十一章 四大妖王</a></li><li><a href="4310865.html">第九卷 灵界百族 第一千四百六十二章 邪龙族</a></li><li><a href="4310866.html">第九卷 灵界百族 第一千四百六十三章 木精洞</a></li><li><a href="4310867.html">第九卷 灵界百族 第一千四百六十三章 收雷</a></li><li><a href="4310868.html">第九卷 灵界百族 第一千四百六十四章 血焰山</a></li><li><a href="4310869.html">第九卷 灵界百族 第一千四百六十五章 灵侍</a></li><li><a href="4310870.html">第九卷 灵界百族 第一千四百六十六章 紫血傀儡</a></li><li><a href="4310871.html">第九卷 灵界百族 第一千四百六十七章 两种符箓</a></li><li><a href="4310872.html">第九卷 灵界百族 第一千四百六十八章 祭雷之术</a></li><li><a href="4310873.html">第九卷 灵界百族 第一千四百六十九章 冥河之地</a></li><li><a href="4310874.html">第九卷 灵界百族 第一千四百七十章 黑木与金猿</a></li><li><a href="4310875.html">第九卷 灵界百族 第一千四百七十一章 心机难测</a></li><li><a href="4310876.html">第九卷 灵界百族 第一千四百七十二章 二女来访</a></li><li><a href="4310877.html">第九卷 灵界百族 第一千四百七十三章 血食</a></li><li><a href="4310878.html">第九卷 灵界百族 第一千四百七十四章 惊空魔</a></li><li><a href="4310879.html">第九卷 灵界百族 第一千四百七十五章 冥河禁制和八门引雷阵</a></li><li><a href="4310880.html">第九卷 灵界百族 第一千四百七十六章 联手破禁</a></li><li><a href="4310881.html">第九卷 灵界百族 第一千四百七十七章 冥灵之晶</a></li><li><a href="4310883.html">第九卷 灵界百族 第一千四百七十八章 遭遇激战</a></li><li><a href="4310885.html">第九卷 灵界百族 第一千四百七十九章 脱逃之机</a></li><li><a href="4310886.html">第九卷 灵界百族 第一千四百八十章 白影</a></li><li><a href="4310887.html">第九卷 灵界百族 第一千四百八十一章 鬼女</a></li><li><a href="4310888.html">第九卷 灵界百族 第一千四百八十二章 蜉蝣族</a></li><li><a href="4310889.html">第九卷 灵界百族 第一千四百八十三章 重聚</a></li><li><a href="4310890.html">第九卷 灵界百族 第一千四百八十四章 虫影</a></li><li><a href="4310891.html">第九卷 灵界百族 第一千四百八十五章 蜉蝣族与虫海</a></li><li><a href="4310892.html">第九卷 灵界百族 第一千四百八十六章 阴水葵精与五龙铡</a></li><li><a href="4310893.html">第九卷 灵界百族 第一千四百八十七章 控制</a></li><li><a href="4310894.html">第九卷 灵界百族 第一千四百八十八章 乾坤幡与冥雷兽</a></li><li><a href="4310895.html">第九卷 灵界百族 第一千四百八十九章 诱饵</a></li><li><a href="4310896.html">第九卷 灵界百族 第一千四百九十章 五龙铡</a></li><li><a href="4310897.html">第九卷 灵界百族 第一千四百九十一章 脱身之计</a></li><li><a href="4310898.html">第九卷 灵界百族 第一千四百九十二章 大战冥雷兽</a></li><li><a href="4310899.html">第九卷 灵界百族 第一千四百九十三章 九宫天乾符</a></li><li><a href="4310900.html">第九卷 灵界百族 第一千四百九十四章 甲元符</a></li><li><a href="4310901.html">第九卷 灵界百族 第一千四百九十五章 冥河神乳（求月票）</a></li><li><a href="4310902.html">第九卷 灵界百族 第一千四百九十六章 良机</a></li><li><a href="4310903.html">第九卷 灵界百族 第一千四百九十七章 黄雀</a></li><li><a href="4310904.html">第九卷 灵界百族 第一千四百九十八章 出手</a></li><li><a href="4310905.html">第九卷 灵界百族 第一千四百九十九章 混战</a></li><li><a href="4310906.html">第九卷 灵界百族 第一千五百章 意外迭起</a></li><li><a href="4310907.html">第九卷 灵界百族 第一千五百零一章 困敌脱身</a></li><li><a href="4310908.html">第九卷 灵界百族 第一千五百零二章 转轮聚阴阵</a></li><li><a href="4310909.html">第九卷 灵界百族 第一千五百零三章 施法除患</a></li><li><a href="4310910.html">第九卷 灵界百族 第一千五百零四章 淬晶砖</a></li><li><a href="4310911.html">第九卷 灵界百族 第一千五百零五章 韩立实力</a></li><li><a href="4310912.html">第九卷 灵界百族 第一千五百零六章 子午石</a></li><li><a href="4310913.html">第九卷 灵界百族 第一千五百零七章 风云再起</a></li><li><a href="4310914.html">第九卷 灵界百族 第一千五百零八章 木之领域</a></li><li><a href="4310915.html">第九卷 灵界百族 第一千五百零九章 鬼雾再现</a></li><li><a href="4310916.html">第九卷 灵界百族 第一千五百一十章 罗睺之谜</a></li><li><a href="4310917.html">第九卷 灵界百族 第一千五百一十一章 玉台</a></li><li><a href="4310918.html">第九卷 灵界百族 第一千五百一十二章 青元子</a></li><li><a href="4310919.html">第九卷 灵界百族 第一千五百一十三章 天阴之体</a></li><li><a href="4310920.html">第九卷 灵界百族 第一千五百一十四章 分歧</a></li><li><a href="4310921.html">第九卷 灵界百族 第一千五百一十五章 新青元剑诀</a></li><li><a href="4310922.html">第九卷 灵界百族 第一千五百一十六章 竹叶</a></li><li><a href="4310923.html">第九卷 灵界百族 第一千五百一十七章 离开</a></li><li><a href="4310924.html">第九卷 灵界百族 第一千五百一十八章 雾中</a></li><li><a href="4310925.html">第九卷 灵界百族 第一千五百一十九章 春黎、青蟠</a></li><li><a href="4310926.html">第九卷 灵界百族 第一千五百二十章 回府</a></li><li><a href="4310927.html">第九卷 灵界百族 第一千五百二十一章 重炼神山</a></li><li><a href="4310928.html">第九卷 灵界百族 第一千五百二十二章 种剑</a></li><li><a href="4310929.html">第九卷 灵界百族 第一千五百二十四章 祭炼</a></li><li><a href="4310930.html">第九卷 灵界百族 第一千五百二十三章 进阶炼虚</a></li><li><a href="4310932.html">第九卷 灵界百族 第一千五百二十五章 血杏与奴痕</a></li><li><a href="4310933.html">第九卷 灵界百族 第一千五百二十六章 腾龙丹</a></li><li><a href="4310934.html">第九卷 灵界百族 第一千五百二十七章 角蚩族和海王族</a></li><li><a href="4310935.html">第九卷 灵界百族 第一千五百二十八章 九幽冥尸</a></li><li><a href="4310936.html">第九卷 灵界百族 第一千五百二十九章 离意</a></li><li><a href="4310937.html">第九卷 灵界百族 第一千五百三十章 新飞剑</a></li><li><a href="4310938.html">第九卷 灵界百族 第一千五百三十一章 血云</a></li><li><a href="4310939.html">第九卷 灵界百族 第一千五百三十二章 玄天之争</a></li><li><a href="4310940.html">第九卷 灵界百族 第一千五百三十三章 灵剑现世</a></li><li><a href="4310941.html">第九卷 灵界百族 第一千五百三十四章 大难逃脱</a></li><li><a href="4310942.html">第九卷 灵界百族 第一千五百三十五章 蛇人</a></li><li><a href="4310943.html">第九卷 灵界百族 第一千五百三十六章 火阳族</a></li><li><a href="4310944.html">第九卷 灵界百族 第一千五百三十七章 大祭司</a></li><li><a href="4310945.html">第九卷 灵界百族 第一千五百三十八章 烈阳神丹</a></li><li><a href="4310946.html">第九卷 灵界百族 第一千五百三十九章 珠儿与乌罗族</a></li><li><a href="4310947.html">第九卷 灵界百族 第一千五百四十章 玄剑附臂</a></li><li><a href="4310948.html">第九卷 灵界百族 第一千五百四十一章 以火化丹</a></li><li><a href="4310950.html">第九卷 灵界百族 第一千五百四十二章 乌甲兽</a></li><li><a href="4310952.html">第九卷 灵界百族 第一千五百四十三章 敌现</a></li><li><a href="4310953.html">第九卷 灵界百族 第一千五百四十四章 灵漩邪光</a></li><li><a href="4310954.html">第九卷 灵界百族 第一千五百四十五章 斩杀</a></li><li><a href="4310955.html">第九卷 灵界百族 第一千五百四十六章 黑纱</a></li><li><a href="4310956.html">第九卷 灵界百族 第一千五百四十七章 空云晶</a></li><li><a href="4310957.html">第九卷 灵界百族 第一千五百四十八章 蓝湖岛</a></li><li><a href="4310958.html">第九卷 灵界百族 第一千五百四十八章 怪蛾</a></li><li><a href="4310959.html">第九卷 灵界百族 第一千五百四十九章 激战</a></li><li><a href="4310960.html">第九卷 灵界百族 第一千五百五十章 巨力</a></li><li><a href="4310961.html">第九卷 灵界百族 第一千五百五十一章 奇毒</a></li><li><a href="4310962.html">第九卷 灵界百族 第一千五百五十二章 深海古灯</a></li><li><a href="4310963.html">第九卷 灵界百族 第一千五百五十三章 寒精族</a></li><li><a href="4310964.html">第九卷 灵界百族 第一千五百五十四章 二兽</a></li><li><a href="4310966.html">第九卷 灵界百族 第一千五百五十五章 修复法阵</a></li><li><a href="4310967.html">第九卷 灵界百族 第一千五百五十六章 困境</a></li><li><a href="4310968.html">第九卷 灵界百族 第一千五百五十七章 战舟</a></li><li><a href="4310969.html">第九卷 灵界百族 第一千五百五十八章 追兵</a></li><li><a href="4310970.html">第九卷 灵界百族 第一千五百五十九章 匣中物</a></li><li><a href="4310971.html">第九卷 灵界百族 第一千五百六十章 幻术之威</a></li><li><a href="4310972.html">第九卷 灵界百族 第一千五百六十一章 大敌</a></li><li><a href="4310973.html">第九卷 灵界百族 第一千五百六十二章 天玄罗盘</a></li><li><a href="4310974.html">第九卷 灵界百族 第一千五百六十三章 化血</a></li><li><a href="4310975.html">第九卷 灵界百族 第一千五百六十四章 追至</a></li><li><a href="4310976.html">第九卷 灵界百族 第一千五百六十五章 力压合体</a></li><li><a href="4310977.html">第九卷 灵界百族 第一千五百六十六章 火木相克</a></li><li><a href="4310978.html">第九卷 灵界百族 第一千五百六十七章 混天袋与葫芦</a></li><li><a href="4310979.html">第九卷 灵界百族 第一千五百六十八章 元气之剑</a></li><li><a href="4310980.html">第九卷 灵界百族 第一千五百六十九章 退走</a></li><li><a href="4310981.html">第九卷 灵界百族 第一千五百七十章 路遇</a></li><li><a href="4310982.html">第九卷 灵界百族 第一千五百七十一章 殃及池鱼</a></li><li><a href="4310983.html">第九卷 灵界百族 第一千五百七十二章 敌影再现</a></li><li><a href="4310984.html">第九卷 灵界百族 第一千五百七十三章 鹏变</a></li><li><a href="4310985.html">第九卷 灵界百族 第一千五百七十四章 连灭同阶</a></li><li><a href="4310986.html">第九卷 灵界百族 第一千五百七十四章 蕴念珠</a></li><li><a href="4310988.html">第九卷 灵界百族 第一千五百七十五章 邀请</a></li><li><a href="4310989.html">第九卷 灵界百族 第一千五百七十六章 云城（祝诸位书友圣诞快乐）</a></li><li><a href="4310990.html">第九卷 灵界百族 第一千五百七十七章 天云诸族</a></li><li><a href="4310991.html">第九卷 灵界百族 第一千五百七十八章 再遇旧识</a></li><li><a href="4310992.html">第九卷 灵界百族 第一千五百七十九章 晶族</a></li><li><a href="4310993.html">第九卷 灵界百族 第一千五百八十章 天外魔甲</a></li><li><a href="4310994.html">第九卷 灵界百族 第一千五百八十一章 魔金山脉</a></li><li><a href="4310995.html">第九卷 灵界百族 第一千五百八十二章 通灵傀儡</a></li><li><a href="4310996.html">第九卷 灵界百族 第一千五百八十三章 新傀儡（双倍月票了，求下月票！）</a></li><li><a href="4310997.html">第九卷 灵界百族 第一千五百八十四章 娃娃</a></li><li><a href="4310998.html">第九卷 灵界百族 第一千五百八十五章 广寒令</a></li><li><a href="4310999.html">第九卷 灵界百族 第一千五百八十六章 千机子</a></li><li><a href="4311000.html">第九卷 灵界百族 第一千五百八十七章 广寒界</a></li><li><a href="4311001.html">第九卷 灵界百族 第一千五百八十八章 邀请</a></li><li><a href="4311002.html">第九卷 灵界百族 第一千五百八十九章 交换和后手</a></li><li><a href="4311003.html">第九卷 灵界百族 第一千五百九十章 四族拍卖</a></li><li><a href="4311004.html">第九卷 灵界百族 第一千五百九十一章 相遇</a></li><li><a href="4311005.html">第九卷 灵界百族 第一千五百九十二章 怪人</a></li><li><a href="4311006.html">第九卷 灵界百族 第一千五百九十三章 九香灵酒</a></li><li><a href="4311007.html">第九卷 灵界百族 第一千五百九十四章 元磁之体</a></li><li><a href="4311008.html">第九卷 灵界百族 第一千五百九十五章 彩流罂</a></li><li><a href="4311009.html">第九卷 灵界百族 第一千五百九十六章 鉴定</a></li><li><a href="4311010.html">第九卷 灵界百族 第一千五百九十七章 琉璃天火液</a></li><li><a href="4311011.html">第九卷 灵界百族 第一千五百九十八章 瑕疵品</a></li><li><a href="4311012.html">第九卷 灵界百族 第一千五百九十九章 异兽</a></li><li><a href="4311014.html">第九卷 灵界百族 第一千六百章 惊变</a></li><li><a href="4311015.html">第九卷 灵界百族 第一千六百零一章 人面蛟</a></li><li><a href="4311016.html">第九卷 灵界百族 第一千六百零二章 误会</a></li><li><a href="4311017.html">第九卷 灵界百族 第一千六百零三章 地灵族和地幽战车</a></li><li><a href="4311018.html">第九卷 灵界百族 噬灵火鸟和琉璃天火</a></li><li><a href="4311019.html">第九卷 灵界百族 第一千六百零五章 越宗</a></li><li><a href="4311020.html">第九卷 灵界百族 第一千六百零六章 麒麟</a></li><li><a href="4311021.html">第九卷 灵界百族 第一千六百零七章 麒影</a></li><li><a href="4311022.html">第九卷 灵界百族 第一千六百零七章 芝仙</a></li><li><a href="4311023.html">第九卷 灵界百族 第一千六百零八章 挑拨 (月中了，求下月票）</a></li><li><a href="4311024.html">九卷 灵界百族 第一千六百零九章 出手</a></li><li><a href="4311025.html">九卷 灵界百族 第一千六百一十章 力压九阶</a></li><li><a href="4311026.html">九卷 灵界百族 第一千六百一十一章 初入魔金</a></li><li><a href="4311027.html">第九卷 灵界百族 第一千六百一十二章 魔鸦现</a></li><li><a href="4311028.html">第九卷 灵界百族 第一千六百一十三章 多眼魔</a></li><li><a href="4311029.html">第九卷 灵界百族 第一千六百一十四章 魔影肆虐</a></li><li><a href="4311030.html">第九卷 灵界百族 第一千六百一十五章 银蛟、怪虫</a></li><li><a href="4311031.html">第九卷 灵界百族 第一千六百一十六章 人面鹫</a></li><li><a href="4311032.html">第九卷 灵界百族 第一千六百一十七章 金乌真火</a></li><li><a href="4311033.html">第九卷 灵界百族 第一千六百一十八章 奇毒再现</a></li><li><a href="4311034.html">第九卷 灵界百族 第一千六百一十九章 杀戮</a></li><li><a href="4311035.html">第九卷 灵界百族 第一千六百二十章 意外来客</a></li><li><a href="4311036.html">第九卷 灵界百族 第一千六百二十一章 各呈心机</a></li><li><a href="4311037.html">第九卷 灵界百族 第一千六百二十二章 偷袭</a></li><li><a href="4311038.html">第九卷 灵界百族 第一千六百一十七章 金乌真火</a></li><li><a href="4311039.html">第九卷 灵界百族 第一千六百二十四章 穴灵</a></li><li><a href="4311040.html">第九卷 灵界百族 第一千六百二十五章 魂体分元大法</a></li><li><a href="4311041.html">第九卷 灵界百族 第一千六百二十六章 妖猿灵目</a></li><li><a href="4311042.html">第九卷 灵界百族 第一千六百二十七章 剑阵困魔</a></li><li><a href="4311043.html">第九卷 灵界百族 第一千六百二十八章 山岳真灵</a></li><li><a href="4311044.html">第九卷 灵界百族 第一千六百二十九章 再现玄天</a></li><li><a href="4311045.html">第九卷 灵界百族 第一千六百三十章 灭猿</a></li><li><a href="4311046.html">第九卷 灵界百族 第一千六百三十一章 玄天炼器术</a></li><li><a href="4311047.html">第九卷 灵界百族 第一千六百三十二章 山崩</a></li><li><a href="4311048.html">第九卷 灵界百族 第一千六百三十三章 真麟本源</a></li><li><a href="4311049.html">第九卷 灵界百族 第一千六百三十四章 灵种魔威</a></li><li><a href="4311050.html">第九卷 灵界百族 第一千六百三十五章 幻化百千</a></li><li><a href="4311051.html">第九卷 灵界百族 第一千六百三十六章 刑兽</a></li><li><a href="4311052.html">第九卷 灵界百族 第一千六百三十七章 徒劳无功</a></li><li><a href="4311053.html">第九卷 灵界百族 第一千六百三十八章 发现</a></li><li><a href="4311054.html">第九卷 灵界百族 第一千六百三十九章 堵截</a></li><li><a href="4311055.html">第九卷 灵界百族 第一千六百四十章 夺路</a></li><li><a href="4311056.html">第九卷 灵界百族 第一千六百四十一章 千蜂</a></li><li><a href="4311057.html">第九卷 灵界百族 第一千六百四十二章 瞬杀</a></li><li><a href="4311058.html">第九卷 灵界百族 第一千六百四十三章 得镜</a></li><li><a href="4311059.html">第九卷 灵界百族 第一千六百四十四章 巧获</a></li><li><a href="4311060.html">第九卷 灵界百族 第一千六百四十五章 大大出</a></li><li><a href="4311061.html">第九卷 灵界百族 第一千六百四十六章 击杀绿发</a></li><li><a href="4311062.html">第九卷 灵界百族 第一千六百四十七章 大敌追至</a></li><li><a href="4311063.html">第九卷 灵界百族 第一千六百四十八章 元剑再现</a></li><li><a href="4311064.html">第九卷 灵界百族 第一千六百四十九章 三魔</a></li><li><a href="4311065.html">第九卷 灵界百族 第一千六百五十章 花树与圣祖</a></li><li><a href="4311066.html">第九卷 灵界百族 第一千六百五十一章 玄天如意刃</a></li><li><a href="4311067.html">第九卷 灵界百族 第一千六百五十二章 离山</a></li><li><a href="4311068.html">第九卷 灵界百族 第一千六百五十三章 尸体与真血</a></li><li><a href="4311069.html">第九卷 灵界百族 第一千六百五十四章 法相和残刃</a></li><li><a href="4311070.html">第九卷 灵界百族 第一千六百五十五章 璃水珠和元合五极山</a></li><li><a href="4311071.html">第九卷 灵界百族 第一千六百五十六章 错失机缘</a></li><li><a href="4311072.html">第九卷 灵界百族 第一千六百五十七章 许老怪</a></li><li><a href="4311073.html">第九卷 灵界百族 第一千六百五十八章 要挟</a></li><li><a href="4311074.html">第九卷 灵界百族 第一千六百五十九章 妥协</a></li><li><a href="4311075.html">第九卷 灵界百族第一千六百六十章 修甲</a></li><li><a href="4311076.html">第九卷 灵界百族 第一千六百六十一章 跨界魔念</a></li><li><a href="4311077.html">第九卷 灵界百族 第一千六百六十二章 云族</a></li><li><a href="4311078.html">第九卷 灵界百族 第一千六百六十三章 换取</a></li><li><a href="4311079.html">第九卷 灵界百族 第一千六百六十四章 炎金之精</a></li><li><a href="4311080.html">第九卷 灵界百族 第一千六百六十五章 沙老夫人</a></li><li><a href="4311081.html">第九卷 灵界百族 第一千六百六十六章 来客</a></li><li><a href="4311082.html">第九卷 灵界百族 第一千六百六十七章 合击秘术（求月票）</a></li><li><a href="4311083.html">第九卷 灵界百族 第一千六百六十八章 魔婴与灵躯</a></li><li><a href="4311084.html">第九卷 灵界百族 第一千六百六十八章 天罡印</a></li><li><a href="4311085.html">第九卷 灵界百族 第一千六百七十章 广寒仪</a></li><li><a href="4311086.html">第九卷 灵界百族 第一千六百七十一章 入界</a></li><li><a href="4311087.html">第九卷 灵界百族 第一千六百七十二章 小岛海兽</a></li><li><a href="4311088.html">第九卷 灵界百族 第一千六百七十三章 各现神通</a></li><li><a href="4311089.html">第九卷 灵界百族 第一千六百七十四章 切磋</a></li><li><a href="4311090.html">第九卷 灵界百族 第一千六百七十五章 镇海猿</a></li><li><a href="4311091.html">第九卷 灵界百族 第一千六百七十六章 暗兽森林</a></li><li><a href="4311092.html">第九卷 灵界百族 第一千六百七十八七章 界中诸族</a></li><li><a href="4311093.html">第九卷 灵界百族 第一千六百七十八章 暗兽初现</a></li><li><a href="4311094.html">第九卷 灵界百族 第一千六百七十九章 千变幻面</a></li><li><a href="4311095.html">第九卷 灵界百族 第一千六百八十章 猎兽</a></li><li><a href="4311096.html">第九卷 灵界百族 第一千六百八十一章 暗兽之王</a></li><li><a href="4311097.html">第九卷 灵界百族 第一千六百八十二章 两只</a></li><li><a href="4311098.html">第九卷 灵界百族 第一千六百八十三章 新元磁山</a></li><li><a href="4311099.html">第九卷 灵界百族 第一千六百八十四章 初展神通</a></li><li><a href="4311100.html">第九卷 灵界百族 第一千六百八十五章 合击秘术</a></li><li><a href="4311101.html">第九卷 灵界百族 第一千六百八十六章 追杀</a></li><li><a href="4311102.html">第九卷 灵界百族 第一千六百八十七章 不期而遇</a></li><li><a href="4311103.html">第九卷 灵界百族 第一千六百八十八章 玄天圣器</a></li><li><a href="4311104.html">第九卷 灵界百族 第一千六百八十九章 凶险</a></li><li><a href="4311105.html">第九卷 灵界百族 第一千六百九十章 凶虫之战</a></li><li><a href="4311106.html">第九卷 灵界百族 第一千六百九十一章 雷鹏傀儡</a></li><li><a href="4311107.html">第九卷 灵界百族 第一千六百九十二章 影晶</a></li><li><a href="4311108.html">第九卷 灵界百族 第一千六百九十三章 太乙青光</a></li><li><a href="4311109.html">第九卷 灵界百族 第一千六百九十四章 雪吼族</a></li><li><a href="4311110.html">第九卷 灵界百族 第一千六百九十五章 破禁</a></li><li><a href="4311111.html">第九卷 灵界百族 第一千六百九十六 收山</a></li><li><a href="4311112.html">第九卷 灵界百族 第一千六百九十七章 山峰、宫殿、石阶</a></li><li><a href="4311113.html">第九卷 灵界百 第一千六百九十八章 登山难</a></li><li><a href="4311114.html">第九卷 灵界百族第一千六百九十九章 新神通</a></li><li><a href="4311115.html">第九卷 灵界百族 第一千七百章 紫电</a></li><li><a href="4311116.html">第九卷 灵界百族 第一千七百零一章 蒲团、残香、神像</a></li><li><a href="4311117.html">第九卷 灵界百族 第一千七百零二章 金剑图</a></li><li><a href="4311118.html">第九卷 灵界百族 第一千七百零三章 药园</a></li><li><a href="4311119.html">第九卷 灵界百族 第一千七百零四章 掷山</a></li><li><a href="4311120.html">第九卷 灵界百族 第一千七百零五章 红罗仙酒、蚀毒草</a></li><li><a href="4311122.html">第九卷 灵界百族 第一千七百零六章 束手无策</a></li><li><a href="4311123.html">第九卷 灵界百族 第一千七百零七章 银色莲蓬</a></li><li><a href="4311124.html">第九卷 灵界百族 第一千七百零八章 平衡与破门</a></li><li><a href="4311125.html">第九卷 灵界百族 第一千七百零九章 屏风、金鼎</a></li><li><a href="4311126.html">第九卷 灵界百族 第一千七百一十章 鼎中取宝</a></li><li><a href="4311127.html">第九卷 灵界百族 第一千七百一十一章 金葫与化形灵药</a></li><li><a href="4311128.html">第九卷 灵界百族 第一千七百一十二章 屏中洞天</a></li><li><a href="4311129.html">第九卷 灵界百族 第一千七百一十三章 得丹</a></li><li><a href="4311130.html">第九卷 灵界百族 第一千七百一十四章 甲士</a></li><li><a href="4311131.html">第九卷 灵界百族 第一千七百一十五章 星空图与法决</a></li><li><a href="4311132.html">第九卷 灵界百族 第一千七百一十六章 光柱</a></li><li><a href="4311133.html">第九卷 灵界百族第一千七百一十七章进阶</a></li><li><a href="4311134.html">第九卷 灵界百族 第一千七百一十八章 爆体与黄金盘</a></li><li><a href="4311135.html">第九卷 灵界百族 第一千七百一十九章 收获</a></li><li><a href="4311136.html">第九卷 灵界百族 第一千七百二十章 塌陷</a></li><li><a href="4311137.html">第一千七百二十一章 追及</a></li><li><a href="4311138.html">第一千七百二十二章 银尺与金身</a></li><li><a href="4311139.html">第一千七百二十三章 颠倒乾坤</a></li><li><a href="4311140.html">第一千七百二十四章 巨猿凶威</a></li><li><a href="4311141.html">第九卷 灵界百族 第一千七百二十五章 角蚩图谋</a></li><li><a href="4311142.html">第九卷 灵界百族 第一千七百二十六章 飞虹鱼</a></li><li><a href="4311143.html">第九卷 灵界百族 第一千七百二十七章 真火克敌</a></li><li><a href="4311144.html">第九卷 灵界百族 第一千七百二十八章 混元尺</a></li><li><a href="4311145.html">第九卷 灵界百族 第一千七百二十九章 戎族</a></li><li><a href="4311146.html">第九卷 灵界百族 第一千七百三十章 洞漩金光</a></li><li><a href="4311147.html">第九卷 灵界百族 第一千七百三十一章 九焰草</a></li><li><a href="4311148.html">第一千七百三十二章 炼神术</a></li><li><a href="4311149.html">第九卷 灵界百族 第一千七百三十三章 密洞戎族</a></li><li><a href="4311151.html">第九卷 灵界百族 第一千七百三十四章 石壁灵文</a></li><li><a href="4311152.html">第九卷 灵界百族 第一千七百三十五章 激战强敌</a></li><li><a href="4311153.html">第一千七百三十六章 横扫众敌</a></li><li><a href="4311154.html">第九卷 灵界百族 第一千七百三十七章 习得灵文</a></li><li><a href="4311155.html">第九卷 灵界百族 第一千七百三十八章 再见暗兽</a></li><li><a href="4311156.html">第九卷 灵界百族 第一千七百三十九章 返回</a></li><li><a href="4311157.html">第九卷 灵界百族 第一千七百四十章 云城之乱</a></li><li><a href="4311158.html">第一千七百四十一章 虚灵宝鼎</a></li><li><a href="4311159.html">第九卷 灵界百族 第一千七百四十二章 偶遇</a></li><li><a href="4311160.html">第九卷 灵界百族 第一千七百四十三章 灵药与交换</a></li><li><a href="4311162.html">第九卷 灵界百族 第一千七百四十四章 各得其所</a></li><li><a href="4311163.html">第一千七百四十四章 忘语</a></li><li><a href="4311164.html">第九卷 灵界百族 第一千七百四十五章 巨灵符与血影</a></li><li><a href="4311165.html">第九卷 灵界百族 第一千七百四十六章 离开雷鸣</a></li><li><a href="4311166.html">第十卷 魔界之战 第一千七百四十七章 雷阵</a></li><li><a href="4311167.html">第十卷 魔界之战 第一千七百四十八章 雷云子与雷光法阵</a></li><li><a href="4311168.html">第十卷 魔界之战 第一千七百四十九章 重返天渊</a></li><li><a href="4311169.html">第十卷 魔界之战 第一千七百五十章 入城</a></li><li><a href="4311170.html">第十卷 魔界之战 第一千七百五十一章 驱逐</a></li><li><a href="4311171.html">第十卷 魔界之战 第一千七百五十二章 炼神一层</a></li><li><a href="4311172.html">第十卷 魔界之战 第一千七百五十三章 谷家</a></li><li><a href="4311173.html">第十卷 魔界之战 第一千七百五十四章 仙域与禁术</a></li><li><a href="4311174.html">第十卷 魔界之战 第一千七百五十五章 念剑诀</a></li><li><a href="4311175.html">第十卷 魔界之战 第一千七百五十六章 进阶合体（上）</a></li><li><a href="4311176.html">第十卷 魔界之战 第一千七百五十七章 进阶合体（下）</a></li><li><a href="4311177.html">第十卷 魔界之战 第一千七百五十八章 来客</a></li><li><a href="4311178.html">第十卷 魔界之战 第一千七百五十九章 邀请与灵皇大比</a></li><li><a href="4311181.html">第十卷 魔界之战 第一千七百六十章 真血隐忧</a></li><li><a href="4311182.html">第十卷 魔界之战 第一千七百六十二章 旧识</a></li><li><a href="4311183.html">第十卷 魔界之战 第一千七百六十三章 魔影再现</a></li><li><a href="4311184.html">第十卷 魔界之战 第一千七百六十四章 金越禅师</a></li><li><a href="4311185.html">第十卷 魔界之战 第一千七百六十五章 许家</a></li><li><a href="4311186.html">第十卷 魔界之战 第一千七百六十六章 两族大乘</a></li><li><a href="4311187.html">第十卷 魔界之战 第一千七百六十七章 许家</a></li><li><a href="4311188.html">第十卷 魔界之战 第一千七百六十八章 迷蜃幻境（第一更）</a></li><li><a href="4311189.html">第十卷 魔界之战 第一千七百七十章 寒焰与金符(第二更）</a></li><li><a href="4311190.html">第一千七百六十九章 寒焰与金符</a></li><li><a href="4311191.html">第十卷 魔界之战 第一千七百七十章 血魂(第一更）</a></li><li><a href="4311192.html">第十卷 魔界之战 第一千七百七十一章 许家宗庙</a></li><li><a href="4311193.html">第十卷 魔界之战 第一千七百七十二章 仪式</a></li><li><a href="4311194.html">第十卷 魔界之战 第一千七百七十三章 苏醒(第一更）</a></li><li><a href="4311195.html">第十卷 魔界之战 第一千七百七十四章 血灵（第二更）</a></li><li><a href="4311196.html">第十卷 魔界之战 第一千七百七十五章 还鼎</a></li><li><a href="4311198.html">第十卷 魔界之战 第一千七百五十六章 海大少与器灵子</a></li><li><a href="4311200.html">第十卷 魔界之战 第一千七百五十七章 九仙山</a></li><li><a href="4311201.html">第十卷 魔界之战 第一千七百五十八章 白果儿</a></li><li><a href="4311202.html">第十卷 魔界之战 第一千七百七十九章 三对三（第一更）</a></li><li><a href="4311203.html">第十卷 魔界之战 第一千七百八十章 寒毒</a></li><li><a href="4311204.html">第十卷 魔界之战 第一千七百八十一章 天元圣皇</a></li><li><a href="4311205.html">第十卷 魔界之战 第一千七百八十二章 酒皇?（第一更）</a></li><li><a href="4311206.html">第十卷 魔界之战 第一千七百八十三章 枯眼大法和望气之术</a></li><li><a href="4311207.html">第十卷 魔界之战 第一千七百八十四章 冰髓之体</a></li><li><a href="4311208.html">第十卷 魔界之战 第一千七百八十五章 记名弟子(第一更）</a></li><li><a href="4311209.html">第十卷 魔界之战 第一千七百八十六章 迎仙宫</a></li><li><a href="4311210.html">第十卷 魔界之战 第一千七百八十七章 万骨真人</a></li><li><a href="4311211.html">第十卷 魔界之战 第一千七百八十七章 万古真人</a></li><li><a href="4311212.html">第十卷 魔界之战 第一千七百八十八章 黑域交换会</a></li><li><a href="4311213.html">第十卷 魔界之战 第一千七百八十九章 天狐妖女</a></li><li><a href="4311214.html">第十卷 魔界之战 第一千七百九十章 仙酒与洞天鼠王</a></li><li><a href="4311215.html">第十卷 魔界之战 第一千七百九十一章 骖灵</a></li><li><a href="4311216.html">第十卷 魔界之战 第一千七百九十二章 劝诫</a></li><li><a href="4311217.html">第十卷 魔界之战 第一千七百九十三章 草魂丹和涅盘圣灵大法</a></li><li><a href="4311218.html">第十卷 魔界之战 第一千七百九十四章 忧心</a></li><li><a href="4311219.html">第十卷 魔界之战 第一千七百九十五章 隐灵根(第一更）</a></li><li><a href="4311220.html">第十卷 魔界之战 第一千七百九十六章 紫衫女子(第二更）</a></li><li><a href="4311221.html">第十卷 魔界之战 第一千七百九十七章 黛儿</a></li><li><a href="4311222.html">第十卷 魔界之战 第一千七百九十八章 泣灵血木</a></li><li><a href="4311223.html">第一千七百九十九章 狼王化身</a></li><li><a href="4311225.html">第一千八百章 万森法盘与擎天巨舟</a></li><li><a href="4311226.html">第十卷 魔界之战 第一千八百零一章 万骨之邀</a></li><li><a href="4311227.html">第十卷 魔界之战 第一千八百零二章 附心丝</a></li><li><a href="4311228.html">第十卷 魔界之战 第一千八百零三章 追敌</a></li><li><a href="4311229.html">第十卷 魔界之战 第一千八百零四章 侵入</a></li><li><a href="4311230.html">第十卷 魔界之战 一千八百零五章 一抓,一拳, 一掌</a></li><li><a href="4311231.html">第十卷 魔界之战 第一千八百零六章 巨猿战老祖</a></li><li><a href="4311232.html">第十卷 魔界之战 第一千八百零七章 圣岛</a></li><li><a href="4311233.html">第十卷 魔界之战 第一千百八零八章 迷天楼</a></li><li><a href="4311234.html">第十卷 魔界之战 第一千八百零九章 秦氏姐妹</a></li><li><a href="4311235.html">第十卷 魔界之战 第一千八百一十章 酷似</a></li><li><a href="4311236.html">第十卷 魔界之战 第一千八百一十一章 牵引使者与入口</a></li><li><a href="4311237.html">第十卷 魔界之战 第一千八百一十二章 黑纱侍女</a></li><li><a href="4311238.html">第十卷 魔界之战 第一千八百一十三章 黑锣</a></li><li><a href="4311239.html">第十卷 魔界之战 第一千八百一十四章 齐天锣</a></li><li><a href="4311240.html">第十卷 魔界之战 第一千八百一十五章 阴凤草</a></li><li><a href="4311241.html">第十卷 魔界之战 第一千八百一十六章 袋中物</a></li><li><a href="4311242.html">第十卷 魔界之战 第一千八百一十七章 再见金乌</a></li><li><a href="4311243.html">第十卷 魔界之战 第一千八百一十八章 孽云与净明丹</a></li><li><a href="4311244.html">第十卷 魔界之战 第一千八百一十九章 三换一</a></li><li><a href="4311245.html">第十卷 魔界之战 第一千八百二十章 再见故人</a></li><li><a href="4311246.html">第十卷 魔界之战 第一千八百二十一章 聚灵桩</a></li><li><a href="4311247.html">第十卷 魔界之战 第一千八百二十二章 约见</a></li><li><a href="4311248.html">第十卷 魔界之战 第一千八百二十三章 荒原妖影</a></li><li><a href="4311249.html">第十卷 魔界之战 第一千八百二十四章 逆灵真阴大法</a></li><li><a href="4311250.html">第十卷 魔界之战 第一千八百二十五章 万灵台</a></li><li><a href="4311251.html">第十卷 魔界之战 第一千八百二十六章 盘算</a></li><li><a href="4311253.html">第十卷 魔界之战 第一千八百二十七章 万灵兽</a></li><li><a href="4311254.html">第十卷 魔界之战 第一千八百二十八章 切磋（上）</a></li><li><a href="4311255.html">第十卷 魔界之战 第一千八百二十八章 切磋(下)</a></li><li><a href="4311256.html">第十卷 魔界之战 第一千八百三十章 切磋（下）</a></li><li><a href="4311257.html">第十卷 魔界之战 第一千八百三十一章 劳家的挑战</a></li><li><a href="4311258.html">第十卷 魔界之战 第一千八百三十二章 金身逞威</a></li><li><a href="4311259.html">第十卷 魔界之战 第一千八百三十三章 夜议</a></li><li><a href="4311260.html">第十卷 魔界之战 第一千八百三十五章 洗灵池和净灵莲</a></li><li><a href="4311261.html">第十卷 魔界之战 第一千八百三十四章 洗灵池和净灵莲</a></li><li><a href="4311262.html">第十卷 魔界之战 第一千八百三十六章 魔界之约</a></li><li><a href="4311263.html">第十卷 魔界之战 第一千八百三十七章 百年流逝</a></li><li><a href="4311264.html">第十卷 魔界之战 第一千八百三十八章 白果儿与交易</a></li><li><a href="4311265.html">第十卷 魔界之战 第一千八百三十九章 山腹小世界</a></li><li><a href="4311266.html">第十卷 魔界之战 第一千八百四十章 万毒混元身</a></li><li><a href="4311267.html">第十卷 魔界之战 第一千八百四十一章 新变异噬金虫</a></li><li><a href="4311268.html">第十卷 魔界之战 第一千八百四十二章 魔影渐近</a></li><li><a href="4311269.html">第十卷 魔界之战 第一千八百四十三章 再回飞灵</a></li><li><a href="4311270.html">第十卷 魔界之战 第一千八百四十四章 吃惊</a></li><li><a href="4311271.html">第十卷 魔界之战 第一千八百四十五章 半部法决</a></li><li><a href="4311272.html">第十卷 魔界之战 第一千八百四十六章 再回地渊（上）</a></li><li><a href="4311273.html">第十卷 魔界之战 第一千八百四十七章 地渊惊变</a></li><li><a href="4311274.html">第十卷 魔界之战 第一千八百四十八章 再回二层</a></li><li><a href="4311275.html">第十卷 魔界之战 第一千八百四十九章 巨坑与传送</a></li><li><a href="4311276.html">第十卷 魔界之战 第一千八百五十章 意外遭遇</a></li><li><a href="4311277.html">第十卷 魔界之战 第一千八百五十一章 化灵之战（上）</a></li><li><a href="4311278.html">第十卷 魔界之战 第一千八百五十二章 化灵之战（下）</a></li><li><a href="4311279.html">第十卷 魔界之战 第一千八百五十三章 破空异变</a></li><li><a href="4311280.html">第十卷 魔界之战 第一千八百五十四章 雷兽之力</a></li><li><a href="4311281.html">第十卷 魔界之战 第一千八百五十五章 刑兽再现</a></li><li><a href="4311282.html">第十卷 魔界之战 第一千八百五十六章 灭敌</a></li><li><a href="4311283.html">第十卷 魔界之战 第一千八百五十七章 巨眼</a></li><li><a href="4311284.html">第十卷 魔界之战 第一千八百五十八章 变化</a></li><li><a href="4311285.html">第十卷 魔界之战 第一千八百五十九章 拜访</a></li><li><a href="4311286.html">第十卷 魔界之战 第一千八百六十章 金焰候</a></li><li><a href="4311287.html">第十卷 魔界之战 第一千八百六十一章 来客</a></li><li><a href="4311288.html">第十卷 魔界之战 第一千八百六十二章 喜怒无常</a></li><li><a href="4311289.html">第十卷 魔界之战 第一千八百六十三章 蚀仙丹</a></li><li><a href="4311290.html">第十卷 魔界之战 第一千八百六十四章 再见残片</a></li><li><a href="4311291.html">第十卷 魔界之战 第一千八百六十五章 噬金虫与“噬金虫”</a></li><li><a href="4311292.html">第十卷 魔界之战 第一千八百六十六章 噬金虫王</a></li><li><a href="4311293.html">第十卷 魔界之战 第一千八百六十七章 育虫秘术</a></li><li><a href="4311294.html">第十卷 魔界之战 第一千八百六十八章 门人</a></li><li><a href="4311295.html">第十卷 魔界之战 第一千八百六十九章 魔斑降世</a></li><li><a href="4311296.html">第十卷 魔界之战 第一千八百七十章 候选虫王</a></li><li><a href="4311297.html">第十卷 魔界之战 第一千八百七十一章 深海迷影</a></li><li><a href="4311298.html">第十卷 魔界之战 第一千八百七十二章 木族大乘</a></li><li><a href="4311299.html">第十卷 魔界之战 第一千八百七十三章 依附</a></li><li><a href="4311300.html">第十卷 魔界之战 第一千八百七十四章 世家据点</a></li><li><a href="4311301.html">第十卷 魔界之战 1875</a></li><li><a href="4311302.html">第十卷 魔界之战 第一千八百七十七章 魔蝠</a></li><li><a href="4311303.html">第十卷 魔界之战 第一千八百七十八章 少年与巨汉</a></li><li><a href="4311304.html">第十卷 魔界之战 第一千八百七十九章 群魔初现</a></li><li><a href="4311307.html">第十卷 魔界之战 第一千八百八十章 魔潮汹涌</a></li><li><a href="4311309.html">第十卷 魔界之战 第一千八百八十一章 魔临城下</a></li><li><a href="4311310.html">第十卷 魔界之战 第一千八百八十二章 人魔之战（一）</a></li><li><a href="4311311.html">第十卷 魔界之战 人魔之战（二）</a></li><li><a href="4311312.html">第十卷 魔界之战 人魔之战（三）</a></li><li><a href="4311313.html">第十卷 魔界之战 第一千八百八十五章 人魔之战（四）</a></li><li><a href="4311314.html">第十卷 魔界之战 第一千八百八十六章 人魔之战（五）</a></li><li><a href="4311315.html">第十卷 魔界之战 第一千八百八十七章 人魔之战（六）</a></li><li><a href="4311316.html">第十卷 魔界之战 第一千八百八十九章 初遇魔尊</a></li><li><a href="4311317.html">第十卷 魔界之战 第一千八百八十八章 人魔之战（七）</a></li><li><a href="4311318.html">逃离</a></li><li><a href="4311319.html">第十卷 魔界之战 第一千八百九十章 激战三魔（上）</a></li><li><a href="4311320.html">第十卷 魔界之战 第一千八百九十一章 激战三魔（中）</a></li><li><a href="4311321.html">第十卷 魔界之战 第一千八百九十二章 激战三魔（下）</a></li><li><a href="4311322.html">第十卷 魔界之战 第一千八百九十三章 子母真魔和修罗鬼王</a></li><li><a href="4311323.html">第十卷 魔界之战 第一千八百九十四章 惊魔</a></li><li><a href="4311324.html">第十卷 魔界之战 第一千八百九十五章 魔阵</a></li><li><a href="4311325.html">第十卷 魔界之战 第一千八百九十六章 母魔</a></li><li><a href="4311326.html">第十卷 魔界之战 第一千八百九十七章 荡魔</a></li><li><a href="4311327.html">第十卷 魔界之战 第一千八百九十八章 暴怒</a></li><li><a href="4311328.html">第十卷 魔界之战 第一千八百九十九章 万象魔骑</a></li><li><a href="4311329.html">第十卷 魔界之战 第一千九百章 僵持</a></li><li><a href="4311330.html">第十卷 魔界之战 第一千九百零一章 大敌</a></li><li><a href="4311331.html">第十卷 魔界之战 第一千九百零二章 汇合</a></li><li><a href="4311332.html">第十卷 魔界之战 第一千九百零三章 九阳罡日绝阵</a></li><li><a href="4311333.html">第十卷 魔界之战 第一千九百零四章 圣祖后人</a></li><li><a href="4311334.html">第十卷 魔界之战 第一千九百零五章 神秘木盒</a></li><li><a href="4311335.html">第十卷 魔界之战 第一千九百零六章</a></li><li><a href="4311336.html">第十卷 魔界之战 第一千九百零七章 镇魔锁与车骑恭</a></li><li><a href="4311337.html">第十卷 魔界之战 第一千九百零八章 混沌二气</a></li><li><a href="4311338.html">第十卷 魔界之战 第一千九百零九章 大战再起</a></li><li><a href="4311339.html">第十卷 魔界之战 第一千九百一十章 倚天之战（一)</a></li><li><a href="4311340.html">第十卷 魔界之战 第一千九百一十一章 倚天之战（二）</a></li><li><a href="4311341.html">第十卷 魔界之战 第一千九百一十二章 倚天之战（三）</a></li><li><a href="4311342.html">第十卷 魔界之战 第一千九百一十三章 倚天之战（四）</a></li><li><a href="4311343.html">第十卷 魔界之战 第一千九百一十四章 倚天之战（五）</a></li><li><a href="4311344.html">第十卷 魔界之战 第一千九百一十五章 倚天之战（六）</a></li><li><a href="4311345.html">第十卷 魔界之战 第一千九百一十六章 倚天之战（七）</a></li><li><a href="4311346.html">第十卷 魔界之战 第一千九百一十七章 倚天之战（八）</a></li><li><a href="4311347.html">第十卷 魔界之战 第一千九百一十八章 倚天之战（九）</a></li><li><a href="4311348.html">第十卷 魔界之战 第一千九百一十九章 倚天之战（十）</a></li><li><a href="4311349.html">第十卷 魔界之战 第一千九百二十章 圣祖魔音 倚天之战（十一）</a></li><li><a href="4311350.html">第十卷 魔界之战 第一千九百二十一章 冰寒九天</a></li><li><a href="4311351.html">第十卷 魔界之战 第一千九百二十二章 青蟠</a></li><li><a href="4311352.html">第十卷 魔界之战 第一千九百二十三章 血腥魔影</a></li><li><a href="4311353.html">第十卷 魔界之战 第一千九百二十四章 沙翁</a></li><li><a href="4311354.html">第十卷 魔界之战 第一千九百二十五章 阻敌</a></li><li><a href="4311355.html">第十卷 魔界之战 第一千九百二十六章 问计</a></li><li><a href="4311356.html">第十卷 魔界之战 第一千九百二十七章 对策</a></li><li><a href="4311357.html">第十卷 魔界之战 第一千九百二十八章 分元斩尸大法</a></li><li><a href="4311358.html">第十卷 魔界之战 第一千九百二十九章 引念</a></li><li><a href="4311359.html">第十卷 魔界之战 第一千九百三十章 血海</a></li><li><a href="4311360.html">第十卷 魔界之战 第一千九百三十一章 激战</a></li><li><a href="4311361.html">第十卷 魔界之战 第一千九百三十二章 困敌</a></li><li><a href="4311362.html">第十卷 魔界之战 第一千九百三十三章 逆转</a></li><li><a href="4311363.html">第十卷 魔界之战 第一千九百三十四章 退敌</a></li><li><a href="4311364.html">第十卷 魔界之战 第一千九百三十五章 废城</a></li><li><a href="4311365.html">第十卷 魔界之战 第一千九百三十六章 遇旧</a></li><li><a href="4311366.html">第十卷 魔界之战 第一千九百三十七章 虚皇鼎</a></li><li><a href="4311367.html">第十卷 魔界之战 第一千九百三十八章 黑雨上人</a></li><li><a href="4311368.html">第十卷 魔界之战 第一千九百三十九章 黄泉地火</a></li><li><a href="4311369.html">第十卷 魔界之战 第一千九百四十章 陷阱</a></li><li><a href="4311370.html">第十卷 魔界之战 第一千九百四十一章 黄粱石灵</a></li><li><a href="4311371.html">第十卷 魔界之战 第一千九百四十二章 围攻石灵</a></li><li><a href="4311373.html">第十卷 魔界之战 第一千九百四十三章 分手</a></li><li><a href="4311374.html">第十卷 魔界之战 第一千九百四十四章 风邪与牵机大法</a></li><li><a href="4311375.html">第十卷 魔界之战 第一千九百四十五章 魔女现</a></li><li><a href="4311376.html">第十卷 魔界之战 第一千九百四十六章 新的大敌</a></li><li><a href="4311377.html">第十卷 魔界之战 第一千九百四十七章 石殿</a></li><li><a href="4311378.html">第十卷 魔界之战 第一千九百四十八章 大敌联手</a></li><li><a href="4311379.html">第十卷 魔界之战 第一千九百四十九章 拦截</a></li><li><a href="4311380.html">第一千九百五十章 狼狈</a></li><li><a href="4311381.html">第十卷 魔界之战 一千九百五十章 狼狈</a></li><li><a href="4311382.html">第十卷 魔界之战 第一千九百五十一章 脱壳</a></li><li><a href="4311383.html">第十卷 魔界之战 第一千九百五十二章 声东击西</a></li><li><a href="4311384.html">第十卷 魔界之战 第一千九百五十三章 追婴</a></li><li><a href="4311385.html">第十卷 魔界之战 第一千九百五十四章 远遁</a></li><li><a href="4311386.html">第十卷 魔界之战 第一千七百五十五章 黑棺</a></li><li><a href="4311387.html">第十卷 魔界之战 第一千七百五十六章 遭遇蛮荒</a></li><li><a href="4311388.html">第十卷 魔界之战 第一千七百五十七章 花树再现</a></li><li><a href="4311389.html">第十卷 魔界之战 第一千九百五十五章 黑棺</a></li><li><a href="4311390.html">第十卷 魔界之战 第一千九百五十六章 遭遇蛮荒</a></li><li><a href="4311391.html">第十卷 魔界之战 第一千九百五十七章 花树再现</a></li><li><a href="4311392.html">第十卷 魔界之战 第一千七百五十八章 暴露</a></li><li><a href="4311393.html">第十卷 魔界之战 第一千九百五十八章 幻日神通</a></li><li><a href="4311394.html">第十卷 魔界之战 第一千九百六十章 神弓伤敌</a></li><li><a href="4311395.html">第十卷 魔界之战 第一千九百六十一章 脱身</a></li><li><a href="4311396.html">第十卷 魔界之战 第一千九百六十二章 炼化之术</a></li><li><a href="4311397.html">第十卷 魔界之战 第一千九百六十三章 攻城</a></li><li><a href="4311398.html">第十卷 魔界之战 第一千九百六十四章 再入木族</a></li><li><a href="4311399.html">第十卷 魔界之战 第一千九百六十五章 潜入</a></li><li><a href="4311400.html">第十卷 魔界之战 第一千六百六十六章 地下冰河</a></li><li><a href="4311401.html">第十卷 魔界之战 第一千六百六十七章 返程与魔族之谜</a></li><li><a href="4311402.html">第十卷 魔界之战 第一千六百六十八章 敖啸现身</a></li><li><a href="4311403.html">第十卷 魔界之战 第一千六百六十九章 殿议</a></li><li><a href="4311404.html">第十卷 魔界之战 第一千九百七十章 银月与七星月体（第二更）</a></li><li><a href="4311405.html">第十卷 魔界之战 一千九百七十一章 獠影</a></li><li><a href="4311406.html">第十卷 魔界之战 第一千九百七十二章 火离宗</a></li><li><a href="4311407.html">第十卷 魔界之战 第一千九百七十三章 出手</a></li><li><a href="4311408.html">第十卷 魔界之战 第一千九百七十四章 入城</a></li><li><a href="4311409.html">第十卷 魔界之战 第一千九百七十五章 意外麻烦</a></li><li><a href="4311410.html">第十卷 魔界之战 第一千九百七十六章 威逼</a></li><li><a href="4311411.html">第十卷 魔界之战 第一千九百七十七章 怒意</a></li><li><a href="4311412.html">第十卷 魔界之战 第一千九百七十八章 三击</a></li><li><a href="4311413.html">第十卷 魔界之战 第一千九百七十九章 浑天两仪阵</a></li><li><a href="4311414.html">第十卷 魔界之战 第一千九百八十章 力压青龙</a></li><li><a href="4311415.html">第十卷 魔界之战 第一千九百八十一章 逼离</a></li><li><a href="4311416.html">第十卷 魔界之战 第一千九百八十二章 斩草除根</a></li><li><a href="4311418.html">第十卷 魔界之战 第一千九百八十三章 青龙陨落</a></li><li><a href="4311419.html">第十卷 魔界之战 第一千九百八十四章 余波</a></li><li><a href="4311420.html">第十卷 魔界之战 第一千九百八十五章 合体后期（一）</a></li><li><a href="4311421.html">第十卷 魔界之战 第一千九百八十六章 合体后期（二）</a></li><li><a href="4311422.html">第十卷 魔界之战 第一千九百八十七章 合体后期（三）</a></li><li><a href="4311423.html">第十卷 魔界之战 第一千九百八十八章 合体后期（四）(诸位书友，新年快乐！）</a></li><li><a href="4311424.html">第十卷 魔界之战 第一千九百八十九章 第一魔尊</a></li><li><a href="4311425.html">第十卷 魔界之战 第一千九百九十章 邀请</a></li><li><a href="4311426.html">第十卷 魔界之战 第一千九百九十一章 天戈符</a></li><li><a href="4311427.html">第十卷 魔界之战 第一千九百九十二章 天渊大战（一）</a></li><li><a href="4311428.html">第十卷 魔界之战 第一千九百九十三章 天渊大战（二）</a></li><li><a href="4311429.html">第十卷 魔界之战 第一千九百九十四章 天渊大战（三）</a></li><li><a href="4311430.html">第十卷 魔界之战 第一千九百九十五章 天渊大战（四）</a></li><li><a href="4311431.html">第十卷 魔界之战 第一千九百九十六章 天渊大战（五）</a></li><li><a href="4311432.html">第十卷 魔界之战 第一千九百九十七章 七焰扇和同心环</a></li><li><a href="4311433.html">第十卷 魔界之战 第一千九百九十八章 惊天一击</a></li><li><a href="4311434.html">第十卷 魔界之战 第一千九百九十九章 黑日</a></li><li><a href="4311435.html">第十卷 魔界之战 第两千章 涅盘圣体</a></li><li><a href="4311436.html">第十卷 魔界之战 第二千零一章 天戈灭敌</a></li><li><a href="4311437.html">第十卷 魔界之战 第二千零二章 太极图</a></li><li><a href="4311438.html">第十卷 魔界之战 第二千零三章 虫威</a></li><li><a href="4311439.html">第十卷 魔界之战 第两千零四章 大胜</a></li><li><a href="4311440.html">第十卷 魔界之战 第二千零四章 大胜</a></li><li><a href="4311441.html">第十卷 魔界之战 第两千零五章 意外来客</a></li><li><a href="4311442.html">第十卷 魔界之战 第两千零六章 提前之约</a></li><li><a href="4311443.html">新一章已经更新了，春节期间请假几天！</a></li><li><a href="4311444.html">第十卷 魔界之战 第两千零七章 摄灵天网</a></li><li><a href="4311445.html">第十卷 魔界之战 第两千零八章 黄巾傀儡</a></li><li><a href="4311446.html">第十卷 魔界之战 第两千零九章 请求</a></li><li><a href="4311447.html">第十卷 魔界之战 第两千一十章 第两千一十章 两族相聚</a></li><li><a href="4311448.html">第十卷 魔界之战 第两千一十一章 天命铜钱</a></li><li><a href="4311449.html">第十卷 魔界之战 第两千一十二章 炼鼎</a></li><li><a href="4311450.html">第十卷 魔界之战 第两千一十三章 天卜</a></li><li><a href="4311451.html">第十卷 魔界之战 第两千一十四章 灭口</a></li><li><a href="4311452.html">第十卷 魔界之战 第两千一十五章 硬闯</a></li><li><a href="4311453.html">第十卷 魔界之战 第两千一十六章 宝煌圣花</a></li><li><a href="4311454.html">第十卷 魔界之战 第两千一十七章 天泣和鹤颜</a></li><li><a href="4311455.html">第十卷 魔界之战 第两千一十八章 魔源海</a></li><li><a href="4311456.html">第十卷 魔界之战 第两千一十九章 八足魔蜥与仙魂丹</a></li><li><a href="4311457.html">第十卷 魔界之战 第两千二十章 滴血茯苓花与眩光天晶塔</a></li><li><a href="4311458.html">第十卷 魔界之战 第两千二十一章 玄化封灵符</a></li><li><a href="4311459.html">第十卷 魔界之战 第两千二十二章 草原兽潮</a></li><li><a href="4311460.html">第十卷 魔界之战 第两千二十三章 救魔</a></li><li><a href="4311461.html">第十卷 魔界之战 第两千二十四章 蝶尾兽</a></li><li><a href="4311462.html">第十卷 魔界之战 第两千二十五章 封魂</a></li><li><a href="4311463.html">第十卷 魔界之战 第两千二十六章 血鸦城</a></li><li><a href="4311464.html">第十卷 魔界之战 第两千二十七章 异魔金</a></li><li><a href="4311465.html">第十卷 魔界之战 第两千二十八章 光球与绿气</a></li><li><a href="4311466.html">第十卷 魔界之战 第两千二十九章 魔族拍卖</a></li><li><a href="4311467.html">第十卷 魔界之战 第两千三十章 暗血五色铃</a></li><li><a href="4311468.html">第十卷 魔界之战 第两千三十一章 圣砖与血鸦城主</a></li><li><a href="4311469.html">第十卷 魔界之战 第两千三十二章 真灵遗骨</a></li><li><a href="4311470.html">第十卷 魔界之战 第两千三十三章 通玄药灵</a></li><li><a href="4311471.html">第十卷 魔界之战 第两千三十四章 半夜魔影</a></li><li><a href="4311472.html">第十卷 魔界之战 第两千三十五章 泣灵秘藏</a></li><li><a href="4311473.html">第十卷 魔界之战 七杀血煞和黑骨魔虫</a></li><li><a href="4311475.html">第十卷 魔界之战 第两千三十七章 夺物</a></li><li><a href="4311476.html">第十卷 魔界之战 第两千三十八章 兽潮与虫潮</a></li><li><a href="4311477.html">第十卷 魔界之战 第两千三十九章 吸魔蚁</a></li><li><a href="4311478.html">第十卷 魔界之战 第两千四十章 吞噬之威</a></li><li><a href="4311479.html">第十卷 魔界之战 第两千四十一章 魔界荒地</a></li><li><a href="4311480.html">第十卷 魔界之战 第两千四十二章 重修灵决</a></li><li><a href="4311481.html">第十卷 魔界之战 第两千四十三章 幻夜白家</a></li><li><a href="4311482.html">第十卷 魔界之战 第两千四十四章 白芸馨</a></li><li><a href="4311483.html">第十卷 魔界之战 第两千四十四章 白芸馨</a></li><li><a href="4311485.html">第十卷 魔界之战 第两千四十五章 金曦鼠</a></li><li><a href="4311486.html">第十卷 魔界之战 第两千四十六章 幻夜城</a></li><li><a href="4311487.html">第十卷 魔界之战 第两千四十七章 万奴塔</a></li><li><a href="4311488.html">第十卷 魔界之战 第两千四十八章 女奴</a></li><li><a href="4311489.html">第十卷 魔界之战 第两千四十九章 再见素女功</a></li><li><a href="4311490.html">第十卷 魔界之战 第两千五十章 小灵天</a></li><li><a href="4311491.html">第十卷 魔界之战 第两千五十一章 覆天居士</a></li><li><a href="4311492.html">第十卷 魔界之战 第两千五十二章 麻烦</a></li><li><a href="4311493.html">第十卷 魔界之战 第两千五十三章 广阴宝镜</a></li><li><a href="4311494.html">第十卷 魔界之战 第两千五十四章 一进幻啸</a></li><li><a href="4311495.html">第十卷 魔界之战</a></li><li><a href="4311496.html">第十卷 魔界之战 第两千五十六章 血牙米</a></li><li><a href="4311497.html">第十卷 魔界之战 第两千五十七章 司魂佩</a></li><li><a href="4311498.html">第十卷 魔界之战 第两千五十八章 骸骨与熔岩湖</a></li><li><a href="4311499.html">第十卷 魔界之战 第两千五十九章 魔兽</a></li><li><a href="4311500.html">第十卷 魔界之战 第两千六十章 矿脉激战（上）</a></li><li><a href="4311501.html">第十卷 魔界之战 第两千六十一章 矿脉激战（中）</a></li><li><a href="4311502.html">第十卷 魔界之战 第两千六十二章 矿脉激战（下）</a></li><li><a href="4311503.html">第十卷 魔界之战 第两千六十三章 解决</a></li><li><a href="4311504.html">第十卷 魔界之战 第两千六十四章 再见异金</a></li><li><a href="4311505.html">第十卷 魔界之战 第两千六十五章 金鲸珠</a></li><li><a href="4311506.html">第十卷 魔界之战 第两千六十七章 计划</a></li><li><a href="4311507.html">第十卷 魔界之战 第两千六十八章 反算</a></li><li><a href="4311508.html">第十卷 魔界之战 第两千六十九章 拦截</a></li><li><a href="4311509.html">第十卷 魔界之战 第两千七十章 二进幻啸</a></li><li><a href="4311510.html">第十卷 魔界之战 第两千七十一章 兽尊殿</a></li><li><a href="4311511.html">第十卷 魔界之战 第两千七十二章 青鸾真血</a></li><li><a href="4311512.html">第十卷 魔界之战 第两千七十三章 意外对手</a></li><li><a href="4311513.html">第十卷 魔界之战 第两千七十四章 拦截</a></li><li><a href="4311514.html">第十卷 魔界之战 第两千七十五章 争斗</a></li><li><a href="4311515.html">第十卷 魔界之战 第两千七十六章 铁沙岭</a></li><li><a href="4311516.html">第十卷 魔界之战 第两千七十七章 熏香寨</a></li><li><a href="4311517.html">第十卷 魔界之战 第两千七十八章 强入</a></li><li><a href="4311518.html">第十卷 魔界之战 第两千七十九章 缠斗</a></li><li><a href="4311519.html">第十卷 魔界之战 第两千八十章 得手</a></li><li><a href="4311520.html">第十卷 魔界之战 第两千八十一章 魔源海</a></li><li><a href="4311521.html">第十卷 魔界之战 第两千八十二章 雷海</a></li><li><a href="4311522.html">第十卷 魔界之战 第两千八十三章 黄金蟹</a></li><li><a href="4311523.html">第十卷 魔界之战 第两千八十四章 三大始祖</a></li><li><a href="4311524.html">第十卷 魔界之战 第两千八十五章 灵岛</a></li><li><a href="4311525.html">第十卷 魔界之战 第两千八十六章 灵气晶化</a></li><li><a href="4311526.html">第十卷 魔界之战 第两千八十七章 元魇始祖</a></li><li><a href="4311527.html">第十卷 魔界之战 第两千八十八章 伪仙傫</a></li><li><a href="4311528.html">第十卷 魔界之战 第两千八十九章 玄天黑匕</a></li><li><a href="4311529.html">第十卷 魔界之战 第两千九十章 危机重重</a></li><li><a href="4311530.html">第十卷 魔界之战 第两千九十一章 灵王与陨界石</a></li><li><a href="4311531.html">第十卷 魔界之战 第两千九十二章 涅盘珠</a></li><li><a href="4311532.html">十卷 魔界之战 第两千九十三章 参天造化露</a></li><li><a href="4311533.html">第十卷 魔界之战 第两千九十四章 幸免</a></li><li><a href="4311534.html">第十卷 魔界之战 第两千九十五章 宝花现身</a></li><li><a href="4311535.html">第十卷 魔界之战 第两千九十六章 涅盘圣体与玄天之剑</a></li><li><a href="4311536.html">第十卷 魔界之战 第两千九十七章 天音雷核</a></li><li><a href="4311537.html">第十卷 魔界之战 第两千九十八章 银蓬再现</a></li><li><a href="4311538.html">第十卷 魔界之战 第两千九十九章 太虚妙灵丹</a></li><li><a href="4311539.html">第十卷 魔界之战 第两千一百章 魔界大劫</a></li><li><a href="4311540.html">第十卷 魔界之战 第两千一百零一章 探池</a></li><li><a href="4311541.html">第十卷 魔界之战 第两千一百零二章 净灵莲</a></li><li><a href="4311542.html">第十卷 魔界之战 第两千一百零三章 脱胎换骨</a></li><li><a href="4311543.html">第十卷 魔界之战 第两千一百零四章 吞噬</a></li><li><a href="4311544.html">第十卷 魔界之战 第两千一百零五章 双瓶</a></li><li><a href="4311545.html">第十卷 魔界之战 第两千一百零六章 脱身</a></li><li><a href="4311546.html">第十卷 魔界之战 第两千一百零七章 再见伪仙露</a></li><li><a href="4311547.html">第十卷 魔界之战 第两千一百零八章 圣蟹之威</a></li><li><a href="4311548.html">第十卷 魔界之战 第两千一百零九章 反戈</a></li><li><a href="4311549.html">第十卷 魔界之战 第两千一百一十章 蟹道人</a></li><li><a href="4311550.html">第十卷 魔界之战 第二千一百一十一章 滞留</a></li><li><a href="4311551.html">第十卷 魔界之战 第两千一百一十二章 血光之陨</a></li><li><a href="4311552.html">第十卷 魔界之战 第两千一百一十三章 玄天圣树</a></li><li><a href="4311553.html">第十卷 魔界之战 第两千一百一十四章 蓝瀑湖</a></li><li><a href="4311554.html">第十卷 魔界之战 第两千一百一十五章 入湖</a></li><li><a href="4311555.html">第十卷 魔界之战 第两千一百一十六章 黑纱女子</a></li><li><a href="4311556.html">第十卷 魔界之战 第两千一百一十七章 收购</a></li><li><a href="4311557.html">第十卷 魔界之战 第两千一百一十八章 无忧</a></li><li><a href="4311558.html">第十卷 魔界之战 第两千一百一十九章 广源斋</a></li><li><a href="4311559.html">第十卷 魔界之战 第两千二百章 麻衣少女</a></li><li><a href="4311560.html">第十卷 魔界之战 第两千两百零一章 重见红颜</a></li><li><a href="4311561.html">第十卷 魔界之战 第两千一百二十二章 六极门下</a></li><li><a href="4311562.html">第十卷 魔界之战 第两千一百二十三章 紫灵之劫</a></li><li><a href="4311563.html">第十卷 魔界之战 第两千一百二十四章 阴阳大五行真光</a></li><li><a href="4311564.html">第十卷 魔界之战 第两千一百二十五章 螟虫之母</a></li><li><a href="4311565.html">第十卷 魔界之战 第两千一百二十六章 私矿</a></li><li><a href="4311566.html">第十卷 魔界之战 第两千一百二十七章 消息</a></li><li><a href="4311567.html">第十卷 魔界之战 第两千一百二十八章 矿奴</a></li><li><a href="4311568.html">第十卷 魔界之战 第两千一百二十九章 磁光兽</a></li><li><a href="4311569.html">第十卷 魔界之战 第两千一百三十章 斗兽</a></li><li><a href="4311570.html">第十卷 魔界之战 第两千一百三十一章 得晶</a></li><li><a href="4311571.html">第十卷 魔界之战 第两千一百三十二章 密谋</a></li><li><a href="4311572.html">第十卷 魔界之战 第两千一百三十三章 暗流欲动</a></li><li><a href="4311573.html">第十卷 魔界之战 第两千一百三十四章 六绝青雷阵</a></li><li><a href="4311574.html">第十卷 魔界之战 第两千一百三十五章 绝阵之战（上）</a></li><li><a href="4311575.html">第十卷 魔界之战 第两千一百三十六章 绝阵之战（中）</a></li><li><a href="4311576.html">第十卷 魔界之战 第两千一百三十七章 灵域再现</a></li><li><a href="4311577.html">第十卷 魔界之战 第两千一百三十八章 惊退</a></li><li><a href="4311578.html">第十卷 魔界之战 第两千一百三十九章 通道异变</a></li><li><a href="4311579.html">第十卷 魔界之战 第两千一百四十章 闯入</a></li><li><a href="4311580.html">第十卷 魔界之战 第两千一百四十一章 通道巨舟</a></li><li><a href="4311581.html">第十卷 魔界之战 第两千一百四十二章 重回木族</a></li><li><a href="4311582.html">第十卷 魔界之战 第两千一百四十三章 木族惊变</a></li><li><a href="4311583.html">第十卷 魔界之战 第两千一百四十四章 再战元刹</a></li><li><a href="4311584.html">第十卷 魔界之战 第两千一百四十五章 意外来客</a></li><li><a href="4311585.html">第十卷 魔界之战 第两千一百四十六章 敖啸与银月</a></li><li><a href="4311586.html">第十卷 魔界之战 第两千一百四十七章 忘情决</a></li><li><a href="4311587.html">第两千四十八章 谈话</a></li><li><a href="4311588.html">十卷 魔界之战 第两千一百四十九章 木棉城</a></li><li><a href="4311589.html">第十卷 魔界之战 第两千一百五十章 莫简离</a></li><li><a href="4311590.html">第十卷 魔界之战 第两千一百五十一章 魔影再起</a></li><li><a href="4311591.html">第十卷 魔界之战 第两千一百五十二章 木界三十六天绝阵</a></li><li><a href="4311592.html">第十卷 魔界之战 第两千一百五十三章 任务</a></li><li><a href="4311593.html">第十卷 魔界之战 第两千一百五十四章 二号阵眼</a></li><li><a href="4311594.html">第十卷 魔界之战 第两千一百五十五章 绝阵成</a></li><li><a href="4311595.html">第十卷 魔界之战 第两千一百五十六章 木灵八子</a></li><li><a href="4311596.html">第十卷 魔界之战 第两千一百五十七章 木族大战（一）</a></li><li><a href="4311597.html">第两千一百五十八章 木族大战（二）</a></li><li><a href="4311598.html">第十卷 魔界之战 第两千一百五十八章 木族大战（三）</a></li><li><a href="4311599.html">第十卷 魔界之战 第两千一百六十章 木族大战（四）</a></li><li><a href="4311600.html">第十卷 魔界之战 第两千一百六十一章 木族大战（五）</a></li><li><a href="4311601.html">第十卷 魔界之战 第两千一百六十二章 木族大战（六）</a></li><li><a href="4311602.html">第十卷 魔界之战 第两千一百六十三章 木族大战（七）</a></li><li><a href="4311603.html">第十卷 魔界之战 第两千一百六十四章 木族大战（八）</a></li><li><a href="4311604.html">第两千一百六十五章 木族大战（九）</a></li><li><a href="4311605.html">第十卷 魔界之战 第两千一百六十六章 木族大战（十）</a></li><li><a href="4311606.html">第十卷 魔界之战 第两千一百六十七章 木族大战（十一）</a></li><li><a href="4311607.html">第十卷 魔界之战 第两千一百六十八章 木族大战（十二）</a></li><li><a href="4311608.html">第两千一百六十九章 木族大战（十三）</a></li><li><a href="4311609.html">第十卷 魔界之战 第两千一百七十章 惊变</a></li><li><a href="4311610.html">第十一卷 真仙降世 第两千一百七十一章 闭关</a></li><li><a href="4311611.html">第十一卷 真仙降世 第两千一百七十二章 宝决大成</a></li><li><a href="4311612.html">第十一卷 真仙降世 第两千一百七十三章 第三座极山</a></li><li><a href="4311613.html">第十一卷 真仙降世 第两千一百七十四章 准备</a></li><li><a href="4311614.html">第十一卷 真仙降世 第两千一百七十五章 灵潮</a></li><li><a href="4311615.html">第十一卷 真仙降世 第两千一百七十六章 五行之劫</a></li><li><a href="4311616.html">第十一卷 真仙降世 第两千一百七十七章 天劫之威</a></li><li><a href="4311617.html">第十一卷 真仙降世 第两千一百七十八章 真雷劫</a></li><li><a href="4311618.html">第十一卷 真仙降世 第两千一百七十九章 再见旧识</a></li><li><a href="4311619.html">第十一卷 真仙降世 两千一百八十章 黑白雷球</a></li><li><a href="4311620.html">第十一卷 真仙降世 第一千一百八十一章 虫变</a></li><li><a href="4311621.html">第十一卷 真仙降世 第一千一百八十二章 神雷退魔</a></li><li><a href="4311622.html">第十一卷 真仙降世第两千一百八十三章 心魔之劫</a></li><li><a href="4311623.html">第十一卷 真仙降世第两千一百八十四章 双王现</a></li><li><a href="4311624.html">第十一卷 真仙降世第两千一百八十六章 进阶大乘</a></li><li><a href="4311625.html">第十一卷 真仙降世 第两千一百八十五章 斩心魔</a></li><li><a href="4311626.html">第十一卷 真仙降世 第两千一百八十七章 神秘旧识</a></li><li><a href="4311627.html">第十一卷 真仙降世 第两千一百八十八章 霜蚣踪讯</a></li><li><a href="4311628.html">第十一卷 真仙降世 第两千一百八十九章 神游万里</a></li><li><a href="4311629.html">第十一卷 真仙降世 第两千一百九十章 樊咆子与道果大会</a></li><li><a href="4311630.html">第十一卷 真仙降世 第两千一百九十一章 返回</a></li><li><a href="4311631.html">第十一卷 真仙降世 第两千一百九十二章 圣岛使者</a></li><li><a href="4311632.html">第十一卷 真仙降世 第两千一百九十三章 杜宇</a></li><li><a href="4311633.html">第十一卷 真仙降世 第两千一百九十四章 翻脸(中秋快乐）</a></li><li><a href="4311634.html">第十一卷 真仙降世 第两千一百九十五章 以大欺小</a></li><li><a href="4311635.html">第十一卷 真仙降世 第两千一百九十六章 一击而溃</a></li><li><a href="4311636.html">第十一卷 真仙降世 第两千一百九十七章 重聚</a></li><li><a href="4311637.html">第十一卷 真仙降世 第两千一百九十八章 轰动两族</a></li><li><a href="4311638.html">第十一卷 真仙降世 第两千一百九十九章 庆典开始</a></li><li><a href="4311639.html">第十一卷 真仙降世 第两千二百章 万修朝拜</a></li><li><a href="4311640.html">第十一卷 真仙降世 第两千两百零一章 使者和贺礼</a></li><li><a href="4311641.html">第十一卷 真仙降世 第两千两百零二章 黑枭王</a></li><li><a href="4311642.html">第十一卷 真仙降世 第两千两百零三章 牛刀小试</a></li><li><a href="4311643.html">第十一卷 真仙降世 第两千两百零四章 斩大乘</a></li><li><a href="4311644.html">第十一卷 真仙降世 第两千两百零五章 血魂之讯</a></li><li><a href="4311645.html">第十一卷 真仙降世 第两千两百零六章 血蛊虫</a></li><li><a href="4311646.html">第十一卷 真仙降世 第两千两百零七章 灵鼎之秘</a></li><li><a href="4311647.html">第十一卷 真仙降世 两千两百零八章 天书阁</a></li><li><a href="4311648.html">第十一卷 真仙降世 第两千零九章 再入魔界</a></li><li><a href="4311649.html">第十一卷 真仙降世 第两千两百一十章 螟虫</a></li><li><a href="4311650.html">第十一卷 真仙降世 第两千两百一十一章 黑葫城</a></li><li><a href="4311651.html">第十一卷 真仙降世 第两千两百一十二章 威震黑葫</a></li><li><a href="4311652.html">第十一卷 真仙降世 第两千两百一十三章邪莲圣祖</a></li><li><a href="4311653.html">第十一卷 真仙降世 第两千两百一十四章 白光界</a></li><li><a href="4311654.html">第十一卷 真仙降世 第两千两百一十五章 真相</a></li><li><a href="4311655.html">第十一卷 真仙降世 第两千两百一十六章 聚会</a></li><li><a href="4311656.html">第十一卷 真仙降世 第两千两百一十七章 铜鸦老人</a></li><li><a href="4311657.html">第十一卷 真仙降世 第两千两百一十八章 落星幡与小幻天镜</a></li><li><a href="4311658.html">第十一卷 真仙降世 第两千两百一十九章 上古封印</a></li><li><a href="4311659.html">第十一卷 真仙降世 第两千两百二十章 出发</a></li><li><a href="4311660.html">第十一卷 真仙降世 第两千两百二十一章 虫海激战（上）</a></li><li><a href="4311661.html">第十一卷 真仙降世 第两千两百二十二章 虫海激战（下）</a></li><li><a href="4311662.html">第十一卷 真仙降世 第两千两百二十三章 地宫</a></li><li><a href="4311663.html">第十一卷 真仙降世 第两千两百二十四章 人面虫</a></li><li><a href="4311664.html">第十一卷 真仙降世 第两千两百二十五章 祭雷再现</a></li><li><a href="4311665.html">第十一卷 真仙降世 第两千两百二十六 章 击杀凶虫</a></li><li><a href="4311666.html">第十一卷 真仙降世 第两千两百二十七章 地下石林</a></li><li><a href="4311667.html">第十一卷 真仙降世 第两千两百二十八章 凤灵宝盘</a></li><li><a href="4311668.html">第十一卷 真仙降世 第两千两百二十九章 土皇钉</a></li><li><a href="4311669.html">第十一卷 真仙降世 第两千两百三十章 联手一击</a></li><li><a href="4311670.html">第十一卷 真仙降世 第两千两百三十一章 女童</a></li><li><a href="4311671.html">第十一卷 真仙降世 第两千两百三十二章 虫母之战（上）</a></li><li><a href="4311672.html">第十一卷 真仙降世 第两千两百三十三章 虫母之战（中）</a></li><li><a href="4311673.html">第十一卷 真仙降世 第两千两百三十四章 虫母之战（下）</a></li><li><a href="4311674.html">第十一卷 真仙降世 第两千两百三十五章 骸骨诡影</a></li><li><a href="4311675.html">第十一卷 真仙降世 第两千两百三十六章 疑团</a></li><li><a href="4311676.html">第十一卷 真仙降世 第两千两百三十七章 灵域之争</a></li><li><a href="4311677.html">第十一卷 真仙降世 第两千两百三十八章 恶战</a></li><li><a href="4311678.html">第十一卷 真仙降世 第两千两百三十九章 真极之躯</a></li><li><a href="4311679.html">第十一卷 真仙降世 第两千二百四十章 玄仙</a></li><li><a href="4311680.html">第十一卷 真仙降世 第两千两百四十一章 强强之战</a></li><li><a href="4311681.html">第十一卷 真仙降世 第两千两百四十二章 神念之链与刑罚之雷</a></li><li><a href="4311682.html">第十一卷 真仙降世 第两千两百四十三章 仙界禁术</a></li><li><a href="4311683.html">第十一卷 真仙降世 第两千两百四十四章 真仙之述</a></li><li><a href="4311684.html">第十一卷 真仙降世 第两千两百四十五章 援手</a></li><li><a href="4311685.html">第十一卷 真仙降世 第两千两百四十六章 重回广源</a></li><li><a href="4311686.html">第十一卷 真仙降世 第两千两百四十七章 紫灵之心</a></li><li><a href="4311687.html">第十一卷 真仙降世 第两千两百四十八章 最后进化</a></li><li><a href="4311688.html">第十一卷 真仙降世 第两千两百四十九章 旧敌</a></li><li><a href="4311689.html">第十一卷 真仙降世 第两千两百五十章 秘藏现</a></li><li><a href="4311690.html">第十一卷 真仙降世 第两千两百五十一章 巨傀儡</a></li><li><a href="4311691.html">第十一卷 真仙降世 第两千两百五十二章 傀儡大军</a></li><li><a href="4311692.html">第十一卷 真仙降世 第两千两百五十三章 返回</a></li><li><a href="4311693.html">第十一卷 真仙降世 第两千两百五十四章 三清雷霄符</a></li><li><a href="4311694.html">第十一卷 真仙降世 第两千两百五十五章 灵族之行</a></li><li><a href="4311695.html">第十一卷 真仙降世 第两千两百五十六章 蛮荒旧人</a></li><li><a href="4311696.html">第十一卷 真仙降世 第两千两百五十七章 昊阴之石</a></li><li><a href="4311697.html">第十一卷 真仙降世 第两千两百五十八章 虫王出世</a></li><li><a href="4311698.html">第十一卷 真仙降世 第两千两百五十九章 妖修花石</a></li><li><a href="4311699.html">第十一卷 真仙降世 第两千两百六十章 上古祭坛</a></li><li><a href="4311700.html">第十一卷 真仙降世 第两千两百六十一章 灵族之行(大家元旦快乐）</a></li><li><a href="4311701.html">第十一卷 真仙降世 第两千两百六十二章 灵天要塞</a></li><li><a href="4311702.html">第十一卷 真仙降世 第两千两百六十三章 伏灵山</a></li><li><a href="4311703.html">第十一卷 真仙降世 第两千两百六十三四章 乌龙</a></li><li><a href="4311704.html">第十一卷 真仙降世 第两千两百六十五章 灵王</a></li><li><a href="4311705.html">第十一卷 真仙降世 第两千两百六十六章 血燃与黑鳞</a></li><li><a href="4311706.html">第十一卷 真仙降世 第两千两百六十七章 小修罗界</a></li><li><a href="4311707.html">第十一卷 真仙降世 第两千两百六十八章 冰峰</a></li><li><a href="4311708.html">第十一卷 真仙降世 第两千两百六十九章 金翰仙宫</a></li><li><a href="4311709.html">第十一卷 真仙降世 第两千两百七十章 九元观</a></li><li><a href="4311710.html">第十一卷 真仙降世 第两千两百七十一章 马良</a></li><li><a href="4311711.html">第十一卷 真仙降世 第两千两百七十二章 蝠群</a></li><li><a href="4311712.html">第十一卷 真仙降世 第两千两百七十三章 鱼怪</a></li><li><a href="4311713.html">第十一卷 真仙降世 第两千两百七十四章 尾随</a></li><li><a href="4311714.html">第十一卷 真仙降世 第两千两百七十五章 神念之战</a></li><li><a href="4311715.html">第十一卷 真仙降世 第两千两百七十六章 隐秘</a></li><li><a href="4311716.html">第十一卷 真仙降世 第两千两百七十七章 玄武真血</a></li><li><a href="4311717.html">第十一卷 真仙降世 第两千两百七十八章 车泣子</a></li><li><a href="4311718.html">第十一卷 真仙降世 第两千两百七十九章 联手</a></li><li><a href="4311719.html">第十一卷 真仙降世 第两千两百八十章 传讯</a></li><li><a href="4311720.html">第十一卷 真仙降世 第两千两百八十一章 战前</a></li><li><a href="4311721.html">第十一卷 真仙降世 第两千两百八十二章 修罗之战（一）</a></li><li><a href="4311722.html">第十一卷 真仙降世 第两千两百八十三章 修罗之战（二）</a></li><li><a href="4311723.html">第十一卷 真仙降世 第两千两百八十四章 修罗之战（三）</a></li><li><a href="4311724.html">第十一卷 真仙降世 第两千两百八十五章 修罗之战（四）</a></li><li><a href="4311725.html">第十一卷 真仙降世 第两千两百八十六章 修罗之战（五）</a></li><li><a href="4311726.html">第十一卷 真仙降世 第两千两百八十七章 修罗之战（六））(新年快乐)</a></li><li><a href="4311727.html">第十一卷 真仙降世 第两千两百八十八章 修罗之战（七）</a></li><li><a href="4311728.html">第十一卷 真仙降世 第两千两百八十九章 修罗之战（八）</a></li><li><a href="4311729.html">第十一卷 真仙降世 第两千两百九十章 修罗之战（九）</a></li><li><a href="4311730.html">第十一卷 真仙降世 第两千两百九十一章 时空之力</a></li><li><a href="4311731.html">第十一卷 真仙降世 第两千两百九十二章 空鱼圣物</a></li><li><a href="4311732.html">第十一卷 真仙降世 第两千两百九十三章 寒潭</a></li><li><a href="4311733.html">第十一卷 真仙降世 第两千两百九十四章 打捞</a></li><li><a href="4311734.html">第十一卷 真仙降世 第两千两百九十五章 寒潭之宝</a></li><li><a href="4311735.html">第十一卷 真仙降世 第两千两百九十六章 重回</a></li><li><a href="4311736.html">第十一卷 真仙降世 第两千两百九十七章 第二件圣物</a></li><li><a href="4311737.html">第十一卷 真仙降世 第两千两百九十八章 空鱼族长</a></li><li><a href="4311738.html">第十一卷 真仙降世 第两千两百九十九章 山海珠</a></li><li><a href="4311739.html">第十一卷 真仙降世 第两千三百章 族誓</a></li><li><a href="4311740.html">第十一卷 真仙降世 第两千三百零一章 再见灵王</a></li><li><a href="4311741.html">第十一卷 真仙降世 第两千三百零二章 元魂灯</a></li><li><a href="4311742.html">第十一卷 真仙降世 第两千三百零三章 法则心得</a></li><li><a href="4311743.html">第十一卷 真仙降世 第两千三百零四章 敖啸之陨</a></li><li><a href="4311744.html">第十一卷 真仙降世 第两千三百零五章 无涯海与元合岛</a></li><li><a href="4311745.html">第十一卷 真仙降世 两千三百零六章 黄元子</a></li><li><a href="4311746.html">第十一卷 真仙降世 第两千三百零七章 越隆</a></li><li><a href="4311747.html">第十一卷 真仙降世 第两千三百零八章 极元晶与重元塑灵</a></li><li><a href="4311748.html">第十一卷 真仙降世 第两千三百零九章 再见金悦</a></li><li><a href="4311749.html">第十一卷 真仙降世 第两千三百一十章 金罡风魔阵</a></li><li><a href="4311750.html">第十一卷 真仙降世 第两千三百一十二章 天地之力</a></li><li><a href="4311751.html">第十一卷 真仙降世 第两千三百一十二章 青元之劫</a></li><li><a href="4311752.html">第十一卷 真仙降世 第两千三百一十三章 大敌降临</a></li><li><a href="4311753.html">第十一卷 真仙降世 第两千三百一十四章 敌友齐至</a></li><li><a href="4311754.html">第十一卷 真仙降世 第两千三百一十五章 窥视</a></li><li><a href="4311755.html">第十一卷 真仙降世 第两千三百一十六章 谷外大战（上）</a></li><li><a href="4311756.html">第十一卷 真仙降世 第两千三百一十七章 谷外大战（中）</a></li><li><a href="4311757.html">第十一卷 真仙降世 第两千三百一十八章 谷外大战（下）</a></li><li><a href="4311758.html">第十一卷 真仙降世 第两千三百一十九章 力斩强敌</a></li><li><a href="4311759.html">第十一卷 真仙降世 第两千三百二十章 讨人</a></li><li><a href="4311760.html">第十一卷 真仙降世 第两千三百二十一章 赤融山脉</a></li><li><a href="4311761.html">第十一卷 真仙降世 第两千三百二十二章 黑焦峰</a></li><li><a href="4311762.html">第十一卷 真仙降世 第两千三百二十三章 香女</a></li><li><a href="4311763.html">第十一卷 真仙降世 第两千三百二十四章 意外之讯</a></li><li><a href="4311764.html">第十一卷 真仙降世 第两千三百二十五章 碧影</a></li><li><a href="4311765.html">第十一卷 真仙降世 第两千三百二十六章 胡玉双</a></li><li><a href="4311766.html">第十一卷 真仙降世 第两千三百二十七章 黄金骨髓</a></li><li><a href="4311767.html">第十一卷 真仙降世 第两千三百二十八章 商盟四老</a></li><li><a href="4311768.html">第十一卷 真仙降世 第两千三百二十九章 翻天旗</a></li><li><a href="4311769.html">第十一卷 真仙降世 第两千三百三十章 玉书再现</a></li><li><a href="4311770.html">第十一卷 真仙降世 第两千三百三十一章 祖龙之血</a></li><li><a href="4311771.html">第十一卷 真仙降世 第两千三百三十二章 劫宝</a></li><li><a href="4311772.html">第十一卷 真仙降世 第两千三百三十三章 重诺</a></li><li><a href="4311773.html">第十一卷 真仙降世 第两千三百三十四章 五藏锻元功</a></li><li><a href="4311774.html">第十一卷 真仙降世 第两千三百三十五章 魇龙与田飞儿</a></li><li><a href="4311775.html">第十一卷 真仙降世 第两千三百三十六章 进入血天</a></li><li><a href="4311776.html">第十一卷 真仙降世 第两千三白三十七章 八鬼噬佛图</a></li><li><a href="4311777.html">第十一卷 真仙降世 第两千三百三十八章 阴司十王</a></li><li><a href="4311778.html">第十一卷 真仙降世 第两千三百三十九章 血鹤城</a></li><li><a href="4311779.html">第十一卷 真仙降世 第两千三百四十章 血骨门</a></li><li><a href="4311780.html">第十一卷 真仙降世 第两千三百四十一章 面具男子</a></li><li><a href="4311781.html">第十一卷 真仙降世 第两千三百四十二章 清平道人与万花夫人</a></li><li><a href="4311782.html">第十一卷 真仙降世 第两千三百四十三章 九目血蟾</a></li><li><a href="4311783.html">第十一卷 真仙降世 第两千三百四十四章 阵图</a></li><li><a href="4311784.html">第十一卷 真仙降世 第两千三百四十五章 天鼎宫</a></li><li><a href="4311785.html">第十一卷 真仙降世 第两千三百四十六章 钥匙</a></li><li><a href="4311786.html">第十一卷 真仙降世 第两千三百四十七章 现世</a></li><li><a href="4311787.html">第十一卷 真仙降世 第两千三百四十八章 巨门</a></li><li><a href="4311788.html">第十一卷 真仙降世 第两千三百四十九章 双鼎</a></li><li><a href="4311789.html">第十一卷 真仙降世 第两千三百五十章 进入</a></li><li><a href="4311790.html">第十一卷 真仙降世 第两千三百五十一章 鬼脸、巨花、傀儡</a></li><li><a href="4311791.html">第十一卷 真仙降世 第两千三百五十二章 血影与赤雷</a></li><li><a href="4311792.html">第十一卷 真仙降世 第两千三百五十三章 血芒蛇</a></li><li><a href="4311793.html">第十一卷 真仙降世 第两千三百五十四章 噬灵之威</a></li><li><a href="4311794.html">第十一卷 真仙降世 第两千三百五十五章 聚集与巧合</a></li><li><a href="4311795.html">第十一卷 真仙降世 第两千三百五十六章 血狱</a></li><li><a href="4311796.html">第十一卷 真仙降世 第两千三百五十七章 巫道神通</a></li><li><a href="4311797.html">第十一卷 真仙降世 第两千三百五十八章 巨碑</a></li><li><a href="4311798.html">第十一卷 真仙降世 第两千三百五十九章 铁笼</a></li><li><a href="4311799.html">第十一卷 真仙降世 第两千三百六十章 骸骨</a></li><li><a href="4311800.html">第十一卷 真仙降世 第两千三百六十一章 血煞尸</a></li><li><a href="4311801.html">第十一卷 真仙降世 第两千三百六十二章 三圣之陨</a></li><li><a href="4311802.html">第十一卷 真仙降世 第两千三百六十三章 冰魄现</a></li><li><a href="4311803.html">第十一卷 真仙降世 第两千三百六十四章 取宝</a></li><li><a href="4311804.html">第十一卷 真仙降世 第两千三百六十五章 联手</a></li><li><a href="4311805.html">第十一卷 真仙降世 第两千三百六十六章 战五祖</a></li><li><a href="4311806.html">第十一卷 真仙降世 第两千三百六十七章 寒武玄龟</a></li><li><a href="4311807.html">第十一卷 真仙降世 第两千三百六十八章 大战</a></li><li><a href="4311808.html">第十一卷 真仙降世 第两千三百六十九章 退走</a></li><li><a href="4311809.html">第十一卷 真仙降世 第两千三百七十章 回归</a></li><li><a href="4311810.html">第十一卷 真仙降世 第两千三百七十一章 万灵血玺</a></li><li><a href="4311811.html">第十一卷 真仙降世 第两千三百七十二章 六翼再现</a></li><li><a href="4311812.html">第十一卷 真仙降世 第两千三百七十三章 天机碎</a></li><li><a href="4311813.html">第十一卷 真仙降世 第两千三百七十四章 大战将启</a></li><li><a href="4311814.html">第十一卷 真仙降世 第两千三百七十五章 阴司五王</a></li><li><a href="4311815.html">第十一卷 真仙降世 第两千三百七十六章 凶司王</a></li><li><a href="4311816.html">第十一卷 真仙降世 第两千三百七十七章 五魔</a></li><li><a href="4311817.html">第十一卷 真仙降世 第两千三百七十八章 鬼气滔滔</a></li><li><a href="4311818.html">第十一卷 真仙降世 第两千三百七十九章 千鬼之力</a></li><li><a href="4311819.html">第十一卷 真仙降世 第两千三百八十章 莲台血骨</a></li><li><a href="4311820.html">第十一卷 真仙降世 第两千三百八十一章 转轮王</a></li><li><a href="4311821.html">第十一卷 真仙降世 第两千三百八十二章 胜负</a></li><li><a href="4311822.html">第十一卷 真仙降世 第两千三百八十三章 讨魔</a></li><li><a href="4311823.html">第十一卷 真仙降世 第两千三百八十四章 埋伏</a></li><li><a href="4311824.html">十一卷 真仙降世 第两千三百八十五章 天地二阵</a></li><li><a href="4311825.html">第十一卷 真仙降世 第两千三百八十六章 绝世凶威</a></li><li><a href="4311826.html">第十一卷 真仙降世 第两千三百八十七章 海上巧遇</a></li><li><a href="4311827.html">第十一卷 真仙降世 第两千三百八十八章 镇海宫</a></li><li><a href="4311828.html">第十一卷 真仙降世 第两千三百八十九章 小灵天</a></li><li><a href="4311829.html">第十一卷 真仙降世 第两千三百九十章 绿灵族</a></li><li><a href="4311830.html">第十一卷 真仙降世 第两千三百九十一章 古树祖灵</a></li><li><a href="4311831.html">第十一卷 真仙降世 第两千三百九十二章 震动人族</a></li><li><a href="4311832.html">第十一卷 真仙降世 第两千三百九十三章 相见（上）</a></li><li><a href="4311833.html">第十一卷 真仙降世 第两千三百九十四章 相见（下）</a></li><li><a href="4311834.html">第十一卷 真仙降世 第两千三百九十五章 威震诸族</a></li><li><a href="4311835.html">第十一卷 真仙降世 第两千三百九十六章 血天之变</a></li><li><a href="4311836.html">第十一卷 真仙降世 第两千三百九十七章 祸水东移</a></li><li><a href="4311837.html">第十一卷 真仙降世 第两千三百九十八章 失踪</a></li><li><a href="4311838.html">第十一卷 真仙降世 第两千三百九十九章 明尊之议</a></li><li><a href="4311839.html">第十一卷 真仙降世 第两千四百章 法则之链</a></li><li><a href="4311840.html">第十一卷 真仙降世 第两千四百零一章 小瓶再现</a></li><li><a href="4311841.html">第十一卷 真仙降世 第两千四百零二章 人族再聚</a></li><li><a href="4311842.html">第十一卷 真仙降世 第两千四百零三章 定计</a></li><li><a href="4311843.html">第十一卷 真仙降世 第两千四百零四章 未雨绸缪</a></li><li><a href="4311844.html">第十一卷 真仙降世 第两千四百零五章 大劫将至</a></li><li><a href="4311845.html">第十一卷 真仙降世 第两千四百零六章 甲豚强者</a></li><li><a href="4311846.html">第十一卷 真仙降世 第两千四百零七章 商盟之危</a></li><li><a href="4311847.html">第十一卷 真仙降世 第两千四百零八章 鸣煞之地</a></li><li><a href="4311848.html">第十一卷 真仙降世 第两千四百零九章 天外天</a></li><li><a href="4311849.html">第十一卷 真仙降世 第两千四百一十章 群强云集</a></li><li><a href="4311850.html">第十一卷 真仙降世 第两千四百一十一章 轩九灵</a></li><li><a href="4311851.html">第十一卷 真仙降世 第两千四百一十二章 阵眼</a></li><li><a href="4311852.html">第十一卷 真仙降世 第两千四百一十三章 打赌</a></li><li><a href="4311853.html">第十一卷 真仙降世 第两千四百一十四章 黑猊兽</a></li><li><a href="4311854.html">第十一卷 真仙降世 第两千四百一十五章 激战开始</a></li><li><a href="4311855.html">第十一卷 真仙降 第两千四百一十六章 神魂印记</a></li><li><a href="4311856.html">第十一卷 真仙降 第两千四百一十七章 斩鹿（上）</a></li><li><a href="4311857.html">第十一卷 真仙降临 第两千四百一十八章 斩鹿（下）</a></li><li><a href="4311858.html">第十一卷 真仙降临 第两千四百一十九章 真仙之身（上）</a></li><li><a href="4311859.html">第十一卷 真仙降临 第两千四百二十章 真仙之身（下）</a></li><li><a href="4311860.html">第十一卷 真仙降临 第两千四百二十一章 玺印之威</a></li><li><a href="4311861.html">第十一卷 真仙降临 第两千四百二十二章 九劫现</a></li><li><a href="4311862.html">第十一卷 真仙降临 第两千四百二十三章 群强之陨</a></li><li><a href="4311863.html">第十一卷 真仙降临 第两千四百二十四章 献祭</a></li><li><a href="4311864.html">第十一卷 真仙降临 第两千四百二十五章 掌天瓶</a></li><li><a href="4311865.html">第十一卷 真仙降临 第两千四百二十六章 斩仙（上）</a></li><li><a href="4311866.html">第十一卷 真仙降临 第两千四百二十七章 斩仙（中）</a></li><li><a href="4311867.html">第十一卷 真仙降临 第两千四百二十八章 斩仙（下）</a></li><li><a href="4311868.html">第十一卷 真仙降临 第两千四百二十九章 天魔契约</a></li><li><a href="4311869.html">第十一卷 真仙降临 第两千四百三十章 本命牌</a></li><li><a href="4311870.html">第十一卷 真仙降临 第两千四百三十一章 第一大乘</a></li><li><a href="4311871.html">第十一卷 真仙降临 第两千四百三十二章 再见灵王</a></li><li><a href="4311872.html">第十一卷 真仙降临 第两千四百三十三章 下落</a></li><li><a href="4311873.html">第十一卷 真仙降临 第两千四百三十四章 再回魔源</a></li><li><a href="4311874.html">第十一卷 真仙降临 第两千四百三十五章 瓶灵回归</a></li><li><a href="4311875.html">第十一卷 真仙降临 第两千四百三十六章 龙岛使者</a></li><li><a href="4311876.html">第十一卷 真仙降临 第两千四百三十七章 龙岛</a></li><li><a href="4311877.html">第十一卷 真仙降临 第两千四百三十八章 收获</a></li><li><a href="4311878.html">第十一卷 真仙降临 第两千四百三十九章 交易、大会</a></li><li><a href="4311879.html">第十一卷 真仙降临 第两千四百四十章 得果</a></li><li><a href="4311880.html">第十一卷 真仙降临 第两千四百四十一章 人族之变</a></li><li><a href="4311881.html">第十一卷 真仙降临 第两千四百四十二章 重回人界</a></li><li><a href="4311882.html">第十一卷 真仙降临 第两千四百四十三章 人界众象</a></li><li><a href="4311883.html">第十一卷 真仙降临 第两千四百四十四章 北极元晶(祝各位书友，中秋快乐）</a></li><li><a href="4311884.html">第十一卷 真仙降临 第两千四百四十五章 飞升之劫</a></li><li><a href="4311885.html">第十一卷 真仙降临 第两千四百四十六章 飞升仙界(大结局）</a></li><li><a href="4311886.html">感言</a></li><li><a href="4311887.html">凡人外传一已经放出！</a></li><li><a href="4311888.html">凡人外传二已经放出！</a></li><li><a href="4311889.html">凡人仙界篇外传一已经上传了</a></li><li><a href="4311890.html">新书《魔天记》已经建好！</a></li><li><a href="4311891.html">写在新书正式上传前的回忆！</a></li><li><a href="4311892.html">希望大家多把推荐票投给新书魔天记！</a></li><li><a href="4311893.html">《凡人》还有不到一万票，就可在推荐总榜上登顶第一了哦！</a></li><li><a href="4311894.html">忘语新书《魔天记》已经字数不少了，大家可以开读了哦。</a></li><li><a href="4311895.html">开始免费上传《魔天记前传》。</a></li><li><a href="4311896.html">忘语新作，《魔天记》手游正式公测了哦！</a></li><li><a href="4311897.html">明天，忘语新作《魔天记》手游将安卓版公测，书友专属服务器将盛大开启！！！</a></li><li><a href="4311898.html">忘语新作《魔天记》，安卓版手游今天开始公测，同时盛大开启书友专属服务器！</a></li><li><a href="4311899.html">新书《玄界之门》正式发布了哦！</a></li><li><a href="4311900.html">新书《玄界之门》正式发布了哦！</a></li><li><a href="4311901.html">忘语新书《玄界之门》</a></li><li></li><li></li><div class="clear"></div></ul></div></div><p class="footer-bookinfo">本站推荐：<a href="https://www.bqg34.net/article/54197/" target="_blank" title="逆天邪神">逆天邪神</a>、<a href="https://www.bqg34.net/article/22303/" target="_blank" title="神途">神途</a>、<a href="https://www.bqg34.net/article/36060/" target="_blank" title="永恒圣王">永恒圣王</a>、<a href="https://www.bqg34.net/article/15577/" target="_blank" title="青城道长">青城道长</a>、<a href="https://www.bqg34.net/article/54193/" target="_blank" title="仙帝归来">仙帝归来</a>、<a href="https://www.bqg34.net/article/100952/" target="_blank" title="三寸人间">三寸人间</a>、<a href="https://www.bqg34.net/article/889/" target="_blank" title="星辰变">星辰变</a>、<a href="https://www.bqg34.net/article/54096/" target="_blank" title="九阳神王">九阳神王</a>、<a href="https://www.bqg34.net/article/53991/" target="_blank" title="无限升级系统">无限升级系统</a>、<a href="https://www.bqg34.net/article/56078/" target="_blank" title="神武帝尊">神武帝尊</a></p><p class="footer-bookinfo" id="footer"> 凡人修仙传所有内容均来自互联网或网友上传，笔趣阁小说网只为原作者忘语的小说进行宣传。欢迎各位书友支持忘语并收藏《凡人修仙传》最新章节。 </p><script type="text/javascript">foot();</script><script type="text/javascript">bd_push();articlevisit("9148");</script><div style="display: none;"><script> var _hmt = _hmt || []; (function () { var hm = document.createElement("script"); hm.src = "//hm.baidu.com/hm.js?afd76bc2518b47f91c54b911f60c0c29"; var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(hm, s); })(); </script></div></body></html>
 `
+
+var DATA_01xs_SEARCH = `
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="application/xhtml+xml;charset=utf-8" />
+    <title>搜索小说</title>
+    <meta name="MobileOptimized" content="240"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0" />
+    <meta http-equiv="Cache-Control" content="max-age=300" />
+    <meta http-equiv="Cache-Control" content="no-transform " />
+    <link rel="stylesheet" type="text/css" href="//01xs.cdn.bcebos.com/style/css.css"/>
+    <script src="https://cdn.staticfile.org/jquery/2.1.4/jquery.min.js"></script>
+    <script src="//01xs.cdn.bcebos.com/style/common.js"></script>
+	<style>.search-hd{ padding:0 10px;}.search-list { padding:0 10px; }</style>
+</head>
+<body>
+<header id="header" class="header dise">
+    <div class="zuo"><a href="/" title="第一小说">&nbsp;</a></div>
+    <div class="zhong f-user">搜索小说</div>
+    <div class="you"><a href="/bookcase.php" rel="nofollow">&nbsp;</a></div>
+    <div class="cc"></div>
+</header>
+
+
+<script>sousuo();</script>
+
+
+<div class="fk">
+    <div class="search-list">
+                        <dl>
+            <dt><a href="https://m.01xs.com/xiaoshuo/1129/" target="_blank"><font color="red">凡</font><font color="red">人</font><font color="red">修</font><font color="red">仙</font>之仙界篇</a></dt>
+            <dd>作者：忘语 |  完本 </dd>
+			<dd><a href="https://m.01xs.com/xiaoshuo/1129/1400.html" target="_blank">新书《大梦主》上架感言</a> 2020-08-17</dd>
+        </dl>
+                <dl>
+            <dt><a href="https://m.01xs.com/xiaoshuo/104953/" target="_blank"><font color="red">凡</font><font color="red">人</font><font color="red">修</font><font color="red">仙</font>也疯狂</a></dt>
+            <dd>作者：大彤二兮 |  连载 </dd>
+			<dd><a href="https://m.01xs.com/xiaoshuo/104953/392.html" target="_blank">第392章 进攻迷失之海</a> 2020-07-30</dd>
+        </dl>
+                <dl>
+            <dt><a href="https://m.01xs.com/xiaoshuo/5745/" target="_blank"><font color="red">凡</font><font color="red">人</font><font color="red">修</font><font color="red">仙</font>传</a></dt>
+            <dd>作者：忘语 |  完本 </dd>
+			<dd><a href="https://m.01xs.com/xiaoshuo/5745/2455.html" target="_blank">新书《玄界之门》</a> 2019-06-11</dd>
+        </dl>
+                <dl>
+            <dt><a href="https://m.01xs.com/xiaoshuo/45359/" target="_blank"><font color="red">凡</font><font color="red">人</font><font color="red">修</font><font color="red">仙</font>录</a></dt>
+            <dd>作者：陈万李 |  完本 </dd>
+			<dd><a href="https://m.01xs.com/xiaoshuo/45359/170.html" target="_blank">第一百六十九章 大结局</a> 2018-10-02</dd>
+        </dl>
+                <dl>
+            <dt><a href="https://m.01xs.com/xiaoshuo/78983/" target="_blank"><font color="red">凡</font><font color="red">人</font><font color="red">修</font><font color="red">仙</font>传</a></dt>
+            <dd>作者：童话雨邪 |  连载 </dd>
+			<dd><a href="https://m.01xs.com/xiaoshuo/78983/167.html" target="_blank">第二卷 蓬莱仙林 第五十九章 局势逆转</a> 2018-09-21</dd>
+        </dl>
+                <dl>
+            <dt><a href="https://m.01xs.com/xiaoshuo/111992/" target="_blank">小小<font color="red">凡</font><font color="red">人</font><font color="red">修</font><font color="red">仙</font>传</a></dt>
+            <dd>作者：至尊小宝 |  完本 </dd>
+			<dd><a href="https://m.01xs.com/xiaoshuo/111992/634.html" target="_blank">关于小凡人完结和新书</a> 2016-11-19</dd>
+        </dl>
+                        <dl>
+            <dt><a href="javascript:void(0);" class="publish" message="87583cfe9f4730581fbcc928e281f2f5"><font color="red">凡</font><font color="red">人</font><font color="red">修</font><font color="red">仙</font>神话精彩故事海瑞</a></dt>
+            <dd>作者：季诗魂 |  连载 </dd>
+			<dd>第362章：碧玉玄天金蝉子 2021-08-06</dd>
+        </dl>
+                <dl>
+            <dt><a href="javascript:void(0);" class="publish" message="e226447b95a33800bbd566a640d27b3a">从<font color="red">凡</font><font color="red">人</font><font color="red">修</font><font color="red">仙</font>开始</a></dt>
+            <dd>作者：凉瓜生 |  完本 </dd>
+			<dd>第17章：太极洞 2021-07-21</dd>
+        </dl>
+                <dl>
+            <dt><a href="javascript:void(0);" class="publish" message="e548b1ea6b0e9fd3f1da840498e93449">异世<font color="red">凡</font><font color="red">人</font><font color="red">修</font><font color="red">仙</font>录</a></dt>
+            <dd>作者：谭无颜 |  完本 </dd>
+			<dd>第一百九十四章 大结局 2020-08-18</dd>
+        </dl>
+        		    </div>
+</div>
+<script>yd01ydtj();</script>
+</body>
+</html>
+
+`
+
+var DATA_m01xs_LIST = `
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>凡人修仙之仙界篇最新章节,凡人修仙之仙界篇TXT下载,凡人修仙之仙界篇全文阅读,忘语作品集,武侠小说,360小说阅读网</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gbk" />
+<meta name="keywords" content="小说:凡人修仙之仙界篇,忘语作品集,最新,凡人修仙之仙界篇最新章节,最新更新,TXT,电子书,下载,凡人修仙之仙界篇全文阅读,360小说阅读网" />
+<meta name="description" content="小说:《凡人修仙之仙界篇》,属于忘语作品集;360小说阅读网提供凡人修仙之仙界篇最新章节在线阅读、全文阅读;凡人修仙之仙界篇最新章节《章节目录 第一千二百七十三章 斩尸》由网友上传,整理成全集阅读;本站所有TXT电子书均免费下载" />
+<meta name="author" content="忘语" />
+<meta name="copyright" content="360小说阅读网_www.360xs.com_版权申明" />
+<meta name="generator" content="173.hk" />
+<link rel="stylesheet" rev="stylesheet" href="/themes/173hk/style.css" type="text/css" media="all" />
+<script language="javascript" type="text/javascript" src="/scripts/common.js"></script>
+<script language="javascript" type="text/javascript" src="/themes/173hk/theme.js"></script>
+</head>
+<body>
+<script language="javascript">
+　　if (self.parent.frames.length != 0)
+　　 self.parent.location.href='http://www.360xs.com/register.php';
+</script>
+<script language="javascript">
+　　if(top.location != self.location)
+　　 self.parent.location.href='http://www.360xs.com/register.php';
+</script>
+<!--全局头部文件-开始-->
+<div id="header">
+  <p class="header_p">忘语作品武侠小说凡人修仙之仙界篇全文阅读简介:凡人修仙之仙界篇最新章节<a href="http://www.360xs.com/mulu/95095-64332411.html">章节目录 第一千二百七十三章 斩尸</a></p>
+  <div class="header_top"><a name="StranLink" id="StranLink">繁體中文</a> | <a href="/sitemap/index.html">网站地图</a> | <a href="/sitemap.xml">Sitemaps</a></div>
+  <div class="header"><a href="/"><img class="logo" src="/themes/173hk/logo.gif" alt="360小说阅读网_www.360xs.com_首页_Logo" title="返回360小说阅读网_www.360xs.com首页" /></a>
+<div class="nav">
+      <div class="nav_top">
+        <ul>
+          <li><a href="/"><strong>首页</strong></a></li>
+          <li><a href="/book.html">在线书库</a></li>
+          <li><a href="/full.html">全本小说</a></li>
+          <li><span>|</span></li>
+          <li><a href="/toplist/lastupdate-1.html">最近更新</a></li>
+          <li><a href="/toplist/allvisit-1.html">点击排行榜</a> <span>|</span></li>
+          <li><a onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('https://www.360xs.com');" href="#"><strong>设为首页</strong></a></li>
+          <li><a href="javascript:window.external.addFavorite('https://www.360xs.com','360小说阅读网_www.360xs.com')">加入收藏</a></li>
+          <li><a href="mailto:360xs(at)163.com">联系我们</a> <span>|</span></li>
+          <li><a href="/note.html">留言板</a></li>
+          <li><a href="/jifen.html"><strong>积分规则</strong></a></li>
+        </ul>
+      </div>
+      <div class="nav_bottom"><iframe marginwidth="0" hspace="0" vspace="0" marginheight="0" src="/loginframe.php" frameborder="0" width=400 scrolling="no" height="26"></iframe>
+        <form class="search" name="articlesearch" method="post" action="/search.html" target="_blank">
+          <label>搜索：</label>
+          <input name="searchkey" onblur="this.className='inputout';if(this.value==''){this.value='请输入关键字';}" onfocus="this.value='';;" value="请输入关键字" size="20" />
+          <select name="searchtype">
+            <option value="articlename" selected="selected">图书-书名</option>
+            <option value="author">图书-作者</option>
+          </select>
+          <input class="search_submit" src="/themes/173hk/images/search.gif" type="image" name="submit" />
+        </form>
+      </div>
+    </div>
+  </div>
+  <ul class="sort" align="center">
+    <li ><a href="/fenlei/1-1.html" alt="玄幻小说">玄幻</a></li>
+    <li ><a href="/fenlei/2-1.html" alt="奇幻小说">奇幻</a> | </li>
+    <li ><a href="/fenlei/3-1.html" alt="武侠小说">武侠</a></li>
+    <li ><a href="/fenlei/4-1.html" alt="仙侠小说">仙侠</a> | </li>
+    <li ><a href="/fenlei/5-1.html" alt="言情小说">言情</a></li>
+    <li ><a href="/fenlei/6-1.html" alt="都市小说">都市</a> | </li>   
+	<li ><a href="/fenlei/7-1.html" alt="历史小说">历史</a></li>
+    <li ><a href="/fenlei/8-1.html" alt="军事小说">军事</a> | </li> 
+    <li ><a href="/fenlei/9-1.html" alt="科幻小说">科幻</a></li>
+    <li ><a href="/fenlei/10-1.html" alt="灵异小说">灵异</a> | </li>    
+	<li ><a href="/fenlei/11-1.html" alt="游戏小说">游戏</a></li>
+    <li ><a href="/fenlei/12-1.html" alt="竞技小说">竞技</a> | </li>    
+	<li ><a href="/fenlei/13-1.html" alt="美文小说">美文</a></li>
+    <li ><a href="/fenlei/14-1.html" alt="同人小说">同人</a> | </li>
+	<li ><a href="/fenlei/15-1.html" alt="其他小说">其他</a> | </li>
+	<li ><a href="/toplist/allvote-1.html">总推荐榜</a> | </li>
+	<li ><a href="/toplist/monthvisit-1.html">月排行榜</a> | </li>
+	<li ><a href="/toplist/monthvote-1.html">月推荐榜</a> | </li>
+	<li ><a href="/toplist/postdate-1.html">最新入库</a> | </li>
+	<li ><a href="/toplist/goodnum-1.html">总收藏</a> | </li>
+	<li ><a href="/toplist/size-1.html">字数排行</a></li>
+  </ul>
+</div>
+<!--全局头部文件-结束-->
+<div id="articleinfo">
+  <div class="article_nav"><span alt="360小说阅读网_www.360xs.com_小说目录"></span>
+    <div class="article_nav_a">您的位置：<a href="/">首 页</a> &gt; <a href="/fenlei/3-1.html">武侠小说</a> &gt; <a href="https://www.360xs.com/book/95095.html">凡人修仙之仙界篇</a> &gt; 凡人修仙之仙界篇目录</div>
+  </div>
+  <div id="article_left">
+    <div id="article_cover">
+      <div class="article_img"><a href="https://www.360xs.com/book/95095.html" title="凡人修仙之仙界篇_忘语作品_" >
+        <script type="text/javascript" src="/modules/article/articleimage.php?id=95095" ></script>
+        </a> </div>
+      <div class="article_author" title="忘语作品集"><a href="/modules/article/search.php?searchkey=忘语&searchtype=author" title="忘语作品集">忘语作品集</a></div>
+    </div>
+    <div id="index_left">
+      <ul>
+        <li id="index_left_li"> <a id="index_articlea" href="https://www.360xs.com/modules/article/addbookcase.php?bid=95095" target="_blank">收藏</a> <a id="index_articlea" href="/modules/article/reviews.php?aid=95095" target="_blank">评论</a> <a id="index_articlea" href="https://www.360xs.com/modules/article/uservote.php?id=95095" target="_blank">推荐</a> <a id="index_articlea" href="/userdetail.php" target="_blank">个人中心</a> </li>
+        
+		<script language="javascript" src="/gaogao/index-left.js"></script>
+      </ul>
+    </div>
+  </div>
+  <div id="article_right">
+    <div class="article_maininfo"> <a href="https://www.360xs.com/book/95095.html" title="返回_凡人修仙之仙界篇" >
+      <h1> 凡人修仙之仙界篇</h1>
+      </a>
+	  <h2 class="hottext">
+        <!-- 作者上AD开始 -->
+        <script language="javascript" src="/gaogao/index-r1.js"></script>
+        <!--作者上AD结束 -->
+      </h2>
+      <h2 class="hottext">忘语作品</h2>
+      <p class="article_intro">忘语新书，凡人修仙之仙界篇，忘语新书，凡人修仙之仙界篇，忘语新书，凡人修仙之仙界篇，忘语新书，凡人修仙之仙界篇，&nbsp;&nbsp;&nbsp;&nbsp;各位书友要是觉得《凡人修仙之仙界篇 》还不错的话请不要忘记向您QQ群和微博里的朋友推荐哦！</p>
+      <p class="article_keyword"> <span class="hottext">关键字：</span>  Tags,凡人修仙之仙界篇全文阅读,凡人修仙之仙界篇最新更新,忘语作品集,武侠小说免费小说阅读,txt手机电子书免费下载</p>
+
+    </div>
+	<p class="article_keyword">
+        <!-- 目录上AD开始 -->
+        <script language="javascript" src="/gaogao/index-r2.js"></script>
+        <!--目录上下AD结束 -->
+      </p>
+    <div id="index">
+      <div style="border-top:1px solid #77b325;"></div>
+      
+ 
+  
+      <div id="index_title"> <span>3</span><strong>章节目录</strong>  </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-54224724.html">仙界篇外传一</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-54224725.html">仙界篇外传二</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-54224726.html">第一章 狐女</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-54224727.html">第二章 石头哥哥</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-54227874.html">第三章 远去</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-54232940.html">第四章 相依</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-54238759.html">第五章 马兽</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-54246608.html">第六章 白袍少年</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-54246609.html">第七章 余府</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-54260714.html">第八章 白石真人</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-54265906.html">第九章 法阵</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-54270581.html">第十章 危机</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-54275015.html">第十一章 苏醒</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-54279737.html">第十二章 我是韩立</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-54284090.html">第十三章 魔光</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-54288555.html">第十四章 遭变</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-54292928.html">第十五章 令牌</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-54297744.html">第十六章 绝望</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-54302485.html">第十七章 灭二修</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-54308589.html">第十八章 请求</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-54313223.html">第十九章 化神侄孙</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-54317363.html">第二十章 邀请</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-54321994.html">第二十一章 元婴异变</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-54325352.html">第二十二章 风云双煞</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-54329338.html">第二十三章 争斗</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-54333438.html">第二十四章 碾压</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-54337235.html">第二十五章 陆崖</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-54341665.html">第二十六章 敌踪再现</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-54346038.html">第二十七章 担五岳，压五鬼</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-54353795.html">第二十八章 惊动</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-54358198.html">第二十九章 灵焰山脉</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-54365340.html">第三十章 举田</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-54370401.html">第三十一章 通易谷</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-54374988.html">第三十二章 逆丹诀</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-54384810.html">第三十三章 先天紫气</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-54384811.html">第三十四章 失窃</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-54384812.html">第三十五章 瞒天过海</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-54384813.html">第三十六章 偷梁换柱</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-54384814.html">第三十七章 脱身</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-54384815.html">第三十八章 柳暗花明</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-54388110.html">第三十九章 传谕</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-54393083.html">第四十章 不了了之</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-54394743.html">第四十一章 小瓶掌天</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-54400221.html">第四十二章 失而复得</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-54401267.html">第四十三章 大仇得报</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-54404993.html">第四十四章 隔元法链</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-54406273.html">第四十五章 这不可能</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-54409910.html">第四十六章 两个办法</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-54411241.html">第四十七章 试探</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-54415628.html">第四十八章 劫持</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-54417486.html">第四十九章 要挟</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-54421436.html">第五十章 破塔而出</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-54427870.html">第五十一章 小挪移空间术</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-54433132.html">第五十二章 该我了</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55214621.html">第五十三章 魔焰焚身</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55214622.html">第五十四章 吞吐魔焰</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55214623.html">第五十五章 交代</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55214624.html">第五十六章 天鬼出世</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55214625.html">第五十七章 惊蛰变</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55214626.html">第五十八章 却之不恭</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55214627.html">第五十九章 借星台</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55214628.html">第六十章 通缉</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55214629.html">第六十一章 暗流</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55214630.html">第六十二章 反常</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55214631.html">第六十三章 撒豆成兵</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55214632.html">第六十四章 同时出手</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55214633.html">第六十五章 玄黄之索</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55214634.html">第六十六章 灵婴剑符</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55214635.html">第六十七章 百目天鬼</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55214636.html">第六十八章 追杀</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55214637.html">第六十九章 银月之变</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55214638.html">第七十章天外飞豆</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55214639.html">第七十一章涅槃圣体</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55214640.html">第七十二章收服大乘</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55214641.html">第七十三章灭门</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55214642.html">第七十四章 出事了</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55214643.html">第七十五章 打听</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55214644.html">第七十六章 传奇</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55214645.html">第七十七章 两件异宝</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55214646.html">第七十八章 北斗异象</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55214647.html">第七十九章 破碎虚空</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55214648.html">诸位道友，节日快乐！</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55214649.html">第八十章 神秘气泡(元丹快乐）</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55214650.html">第八十一章 独目巨人与半人马</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55214651.html">第八十二章 交锋</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55214652.html">第八十三章 急中生智</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55214653.html">第八十四章 雕像</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55214654.html">第八十五章 祖神</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55214655.html">第八十六章 退敌</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55214656.html">第八十七章 地仙</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55214657.html">第八十八章 地祇化身</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55214658.html">第八十九章 仙器</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55214659.html">第九十章 寻觅</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55214660.html">第九十一章 尝试</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55214661.html">第九十二章 第九条锁链</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55214662.html">第九十三章 前提条件</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55214663.html">第九十四章 祖神遗言</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55214664.html">第九十五章 小瓶失灵</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55214665.html">第九十六章 绿液再现</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55214666.html">第九十七章 三名祖神</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55214667.html">第九十八章 被困</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55214668.html">第九十九章 承认身份</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55214669.html">第一百章 牛头面具</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55214670.html">第一百零一章 无常盟</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55214671.html">第一百零二章 迟到</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55214672.html">第一百零三章 红月岛主</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55214673.html">第一百零四章 朝圣</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55214674.html">第一百零五章 接头</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55214675.html">第一百零六章 血色空间</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55214676.html">第一百零七章 脱困</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55214677.html">第一百零八章 诡异</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55214678.html">第一百零九章 初探红月城</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55214679.html">第一百一十章 线索（明天开始正式上架）</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55214680.html">上架感言</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55214681.html">第一百一十一章 天选</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55214682.html">第一百一十二章 端倪（求月票推荐票）</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55214683.html">第一百一十三章 算计</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55214684.html">第一百一十四章 以命换命</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55214685.html">第一百一十五章 再战仇五</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55214686.html">第一百一十六章 惊退二仙</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55214687.html">第一百一十七章 再陷困境</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55214688.html">第一百一十八章 诱饵（继续求月票）</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55214689.html">第一百一十九章 红月</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55214690.html">第一百二十章 鏖战岛主</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55214691.html">第一百二十一章 举荐</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55214692.html">第一百二十二章 试炼</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55214693.html">第一百二十三章 黑海重水经</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55214694.html">第一百二十四章 土孙果和凝海晶</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55214695.html">第一百二十五章 凝练化身</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55214696.html">第一百二十六章 胁迫</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55214697.html">第一百二十七章 出乎意料</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55214698.html">第一百二十八章 破链（上）</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55214699.html">第一百二十九章 破链（下）</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55214700.html">第一百三十章 似曾相识（求票票）</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55214701.html">第一百三十一章 灵液化晶</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55214702.html">第一百三十二章 重水</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55214703.html">第一百三十三章 三大至尊法则</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55214704.html">第一百三十四章 逆天灵物</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55214705.html">第一百三十五章 本命八灵缸</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55214706.html">第一百三十六章 安排</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55214707.html">第一百三十七章 黑风城</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55214708.html">第一百三十八章 仙元石和地丹师</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55214709.html">第一百三十九章 仙界丹师</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55214710.html">第一百四十章 道丹</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55214711.html">新年快乐！</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55214712.html">第一百四十一章 炼丹比试（新年快乐）</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55214713.html">第一百四十二章 不可兼得</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55214714.html">第一百四十三章 寻人</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55214715.html">第一百四十四章 失踪的岛主之女</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55214716.html">第一百四十五章 寻迹追踪</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55214717.html">凡人十年感言！！！</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55214718.html">第一百四十六章 青羽岛二修</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55214719.html">第一百四十七章 夺功</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55214720.html">第一百四十八章 斗三煞(凡人十周年求月票）</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55214721.html">第一百四十九章 大拍卖会</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55214722.html">第一百五十章 竞价</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55214723.html">第一百五十一章 重水雷珠</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55214724.html">第一百五十二章 初见道丹</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55214725.html">第一百五十三章 参悟雷珠</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55214726.html">第一百五十四章 烛龙道</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55214727.html">第一百五十五章 离去</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55214728.html">第一百五十六章 叵测仙途</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55214729.html">第一百五十七章 仙栈</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55214730.html">第一百五十八章 启程</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55214731.html">第一百五十九章 一路往东</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55214732.html">第一百六十章 甘九真</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55214733.html">月底求月票啦！！！</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55214734.html">第一百六十一章 困斗</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55214735.html">第一百六十二章 赠符</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55214736.html">第一百六十三章 兽潮之殃(最后一天了，求月票）</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55214737.html">第一百六十四章 隐藏的强者</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55214738.html">十年蹉跎凡人梦，一朝成就众友心</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55214739.html">第一百六十五章 似曾相识</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55214740.html">第一百六十六章 速之法则</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55214741.html">第一百六十七章 封婴之仇</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55214742.html">第一百六十八章 追逃</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55214743.html">第一百六十九章 反击</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55214744.html">第一百七十章 迁怒</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55214745.html">第一百七十一章 被逼无奈</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55214746.html">第一百七十二章 做个了结</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55214747.html">第一百七十三章 似真似幻</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55214748.html">第一百七十四章 背后主使？</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55214749.html">第一百七十五章 跨海雷舟</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55214750.html">第一百七十六章 雷暴</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55214751.html">第一百七十七章 深海巨蚌</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55214752.html">第一百七十八章 蚌口取珠</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55214753.html">第一百七十九章 踏足新大陆</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55214754.html">第一百八十章 感应</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55214755.html">第一百八十一章 天魔夺舍</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55214756.html">第一百八十二章 祭天</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55214757.html">第一百八十三章 太峨诛魔</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55214758.html">第一百八十四章 一个请求</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55214759.html">第一百八十五章 初入烛龙</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55214760.html">第一百八十六章 打算</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55214761.html">第一百八十七章 资质低下</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55214762.html">第一百八十八章 金仙收徒</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55214763.html">第一百八十九章 洞府与守山兽</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55214764.html">第一百九十章 无相真轮经</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55214765.html">第一百九十一章 真仙仆从</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55214766.html">第一百九十二章 选仆</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55214767.html">第一百九十三章 守山灵兽</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55214768.html">第一百九十四章 气息再现</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55214769.html">第一百九十五章 火脉现踪</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55214770.html">第一百九十六章 布置</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55214771.html">第一百九十七章 真言化轮经</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55214772.html">第一百九十八章 狗屎运</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55214773.html">第一百九十九章 北斗天星盘</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55214774.html">第二百章 宝轮初成</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55214775.html">第二百零一章 出现异常</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55214776.html">第二百零二章 重水真轮</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55214777.html">第二百零三章 初入太玄殿</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55214778.html">第二百零四章 派系之争</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55214779.html">第二百零五章 逆元石剑</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55214780.html">第二百零六章 把握分寸</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55214781.html">第二百零七章 第四柄石剑</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55214782.html">第二百零八章 天剑冢</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55214783.html">第二百零九章 千锋聚灵</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55214784.html">第二百一十章 群剑乱舞</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55214785.html">第二百一十一章 逆转</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55214786.html">第二百一十二章 破空</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55214787.html">第二百一十三章 回来了</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55214788.html">第二百一十四章 六道</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55214789.html">第二百一十五章 群猴拜仙</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55214790.html">第二百一十六章 钟鸣声起</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55214791.html">第二百一十七章 邋遢老头</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55214792.html">第二百一十八章 一个巧合</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55214793.html">第二百一十九章 小试锋芒</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55214794.html">第二百二十章 顺道为之</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55214795.html">第二百二十一章 醍醐论道</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55214796.html">第二百二十二章 酒逢知己</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55214797.html">第二百二十三章 印记</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55214798.html">第二百二十四章 移祸江东</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55214799.html">第二百二十五章 又见孙克</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55214800.html">第二百二十六章 仙俗</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55214801.html">第二百二十七章 三路</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55214802.html">第二百二十八章 差距</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55214803.html">第二百二十九章 被困</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55214804.html">第二百三十章 话多</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55214805.html">第二百三十一章 重水之威</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55214806.html">第二百三十二章 释疑</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55214807.html">第二百三十三章 植豆兵</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55214808.html">第二百三十四章 猴儿酒</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55214809.html">第二百三十五章 猴王献宝</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55214810.html">凡人第九届书评赛“梦想不死”杯正式开赛</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55214811.html">第二百三十六章 初涉仙丹</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55214812.html">第二百三十七章 法则炼丹</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55214813.html">第二百三十八章 囊中羞涩</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55214814.html">第二百三十九章 狂人</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55214815.html">第二百四十章 金仙议事</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55214816.html">第二百四十一章 麟九传讯</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55214817.html">第二百四十二章 熔金炼剑</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55214818.html">第二百四十三章 极寒</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55214819.html">第二百四十四章 判断</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55214820.html">第二百四十五章 入谷</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55214821.html">第二百四十六章 燃婴血丹</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55214822.html">第二百四十七章 避其锋芒</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55214823.html">第二百四十八章 临死一击</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55214824.html">第二百四十九章 招惹仙宫</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55214825.html">第二百五十章 身陷绝境</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55214826.html">第二百五十一章 拖延</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55214827.html">第二百五十二章 金仙的威胁</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55214828.html">第二百五十三章 惹麻烦</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55214829.html">第二百五十四章 争炉</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55214830.html">第二百五十五章 避风头</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55214831.html">第二百五十六章 闲事</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55214832.html">第二百五十七章 还人情</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55214833.html">第二百五十八章 启盒</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55214834.html">第二百五十九章 忙碌</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55214835.html">第二百六十章 炼剑</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55214836.html">第二百六十一章 浮山异变</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55214837.html">第二百六十二章 出关</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55214838.html">第二百六十三章 试验真轮</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55214839.html">第二百六十四章 托付身后事</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55214840.html">第二百六十五章 极限尝试</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55214841.html">第二百六十六章 五千奖励</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55214842.html">第二百六十七章 白雀</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55214843.html">第二百六十八章 念羽</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55214844.html">第二百六十九章 真实之眼</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55214845.html">第二百七十章 时空补缺</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55214846.html">第二百七十一章 真眼之实</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55214847.html">第二百七十二章 逆转真轮</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55214848.html">第二百七十三章 惊诧</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55214849.html">第二百七十四章 大耳僧讲道</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55214850.html">第二百七十五章 偷道的代价</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55214851.html">第二百七十六章 闭关百年</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55214852.html">第二百七十七章 法言天地</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55214853.html">第二百七十八章 回溯</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55214854.html">第二百七十九章 母豆发芽</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55214855.html">第二百八十章 豆兵异变</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55214856.html">第二百八十一章 圣傀门</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55214857.html">第二百八十二章 驻守三年</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55214858.html">第二百八十三章 白家老祖</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55214859.html">第二百八十四章 另一暗势力</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55214860.html">第二百八十五章 破阵进击</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55214861.html">第二百八十六章 一触即发</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55214862.html">第二百八十七章 二对三</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55214863.html">第二百八十八章 援手</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55214864.html">第二百八十九章 谈崩</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55214865.html">第二百九十章 静观其变</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55214866.html">第二百九十一章 驰援</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55214867.html">第二百九十二章 救援</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55214868.html">第二百九十三章 解惑</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55214869.html">第二百九十四章 禁地与金仙傀儡</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55214870.html">第二百九十五章 大周天星元功</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55214871.html">第二百九十六章 刀剑相逢</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55214872.html">第二百九十七章 冤家路窄</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55214873.html">第二百九十八章颓势</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55214874.html">第二百九十九章 动一下试试？</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55214875.html">第三百章 不详</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55214876.html">第三百零一章 煞</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55214877.html">第三百零二章 针锋相对</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55214878.html">第三百零三章 震惊</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55214879.html">第三百零四章 灵煞晶丝</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55214880.html">第三百零五章 手段尽出</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55214881.html">第三百零六章 不要也罢</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55214882.html">第三百零七章 仙傀儡</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55214883.html">第三百零八章 改造</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55214884.html">第三百零九章 进阶后期</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55214885.html">第三百一十章 两株花</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55214886.html">第三百一十一章 植豆入傫</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55214887.html">第三百一十二章 雷豆（六一快乐^^）</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55214888.html">第三百一十三章 另辟蹊径</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55214889.html">第三百一十四章 融合</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55214890.html">第三百一十五章 第一道主</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55214891.html">第三百一十六章 祁良之邀</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55214892.html">第三百一十七章 天蝎令</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55214893.html">第三百一十八章 交换会</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55214894.html">第三百一十九章 消息</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55214895.html">第三百二十章 地下拍卖会</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55214896.html">第三百二十一章 共生纹</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55214897.html">第三百二十二章 天价争夺</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55214898.html">第三百二十三章 识货人</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55214899.html">第三百二十四章 炼化</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55214900.html">第三百二十五章 一息十块</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55480650.html">第三百二十六章 陆续到场</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55480651.html">第三百二十七章 天人有五衰</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55480652.html">第三百二十八章 蒙在鼓里</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55641476.html">第三百二十九章 轮回殿要犯（端午节快乐）</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55641477.html">第三百三十章 混乱</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55686879.html">第三百三十一章 屠鸡宰狗</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55789590.html">第三百三十二章 地底异动</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55824757.html">第三百三十三章 巨首</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55896786.html">第三百三十四章 困龙之斗</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55896787.html">第三百三十五章 业火归身</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55896788.html">第三百三十六章 想起来了</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-55896789.html">第三百三十七章 极山再现</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-55977282.html">第三百三十八章 宝轮显威</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-56020207.html">第三百三十九章 巨瞳</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-56064558.html">第三百四十章 诱敌</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-56096031.html">第三百四十一章 炼婴</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-56138874.html">第三百四十二章 离宗</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-56172869.html">第三百四十三章 打算</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-56210820.html">第三百四十四章 收获</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-56240703.html">第三百四十五章 避风头</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-56288835.html">第三百四十六章 悬赏追杀</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-56328734.html">第三百四十七章 名额</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-56372179.html">第三百四十八章 旁敲侧击</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-56397181.html">第三百四十九章 耐人寻味</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-56425524.html">第三百五十章 封城</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-56449618.html">第三百五十一章 路遇纷争</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-56482349.html">第三百五十二章 暴露身份</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-56512697.html">第三百五十三章 重返乌蒙</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-56576427.html">第三百五十四章 选址</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-56624271.html">第三百五十五章 封岛</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-56646872.html">第三百五十六章 万轮丹</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-56675187.html">第三百五十七章 最后一步</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-56689744.html">第三百五十八章 豚兽赠石</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-56706452.html">第三百五十九章 回复</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-56726699.html">第三百六十章 凑齐</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-56743490.html">第三百六十一章 丹劫</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-56764299.html">第三百六十二章 迁思回虑</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-56789533.html">第三百六十三章 劫至</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-56802788.html">第三百六十四章 孤注一掷</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-56821489.html">第三百六十五章 暗流</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-56841008.html">第三百六十六章 提前发作</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-56854700.html">第三百六十七章 服丹</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-56870805.html">第三百六十八章 你醒了</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-56885932.html">第三百六十九章 师与徒</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-56902459.html">第三百七十章 因果缘</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-56917135.html">第三百七十一章 虚实难辨</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-56957470.html">第三百七十二章 意外收获</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-56974242.html">第三百七十三章 有消息了</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-56986376.html">第三百七十四章 交易</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-57004253.html">第三百七十五章 后半部</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-57033383.html">第三百七十六章 轮回之子</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-57044336.html">第三百七十七章 释疑</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-57060163.html">第三百七十八章 地榜</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-57082092.html">第三百七十九章 软禁</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-57098040.html">第三百八十章 隐患</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-57112298.html">第三百八十一章 各方势力</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-57124621.html">第三百八十二章 替代方案</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-57135682.html">第三百八十三章 离去</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-57150423.html">第三百八十四章 异常</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-57171184.html">第三百八十五章 偶遇</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-57181531.html">第三百八十六章 警觉</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-57214230.html">第三百八十七章 乱局</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-57230888.html">第三百八十八章 深入惊风</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-57248002.html">第三百八十九章 雾影重重</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-57266042.html">第三百九十章 鬼首</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-57277468.html">第三百九十一章 出手相助</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-57278711.html">第三百九十二章 仙府临世</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-57289833.html">第三百九十三章 折返</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-57296612.html">第三百九十四章 暂别</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-57304378.html">第三百九十五章 重塑</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-57305819.html">第三百九十六章 准备</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-57315548.html">第三百九十七章 有备无患</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-57316682.html">第三百九十八章 临近</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-57327325.html">第三百九十九章 另一个消息</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-57345909.html">第四百章 集合</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-57345910.html">第四百章零一章 欲盖弥彰</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-57345911.html">第四百章零二章 入口</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-57345912.html">第四百章零三章 封锁</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-57345913.html">第四百章零四章 僵持</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-57345914.html">第四百章零五章 齐聚</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-57381665.html">第四百章零六章 请进</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-57386384.html">第四百章零七章 一个请求</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-57403791.html">第四百章零八章 入府</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-57405109.html">第四百章零九章 失散</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-57412797.html">第四百章一十章 雪狮</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-57413353.html">第四百章一十一章 眼熟</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-57422568.html">第四百章一十二章 跟随</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-57423190.html">第四百章一十三章 传言</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-57432562.html">第四百章一十四章 暴露</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-57433700.html">第四百章一十五章 一言不合</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-57451619.html">第四百章一十六章 联手</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-57452625.html">第四百章一十七章 追兵</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-57459874.html">第四百章一十八章 攀峰</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-57460372.html">第四百章一十九章 禁斗</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-57507717.html">第四百章二十章 登顶</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-57509591.html">第四百章二十一章 大千世界</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-57516964.html">第四百章二十二章 故技重施</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-57518088.html">第四百章二十三章 诱饵</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-57527448.html">第四百章二十四章 携手一击</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-57527853.html">第四百章二十五章 觅宝</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-57538060.html">第四百章二十六章 壁画</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-57538762.html">第四百章二十七章 药园</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-57550194.html">第四百章二十八章 断树</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-57550704.html">第四百章二十九章 枯藤</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-57558743.html">第四百章三十章 追兵</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-57560524.html">第四百章三十一章 别有洞天</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-57568093.html">第四百章三十二章 穿界碑</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-57572395.html">第四百三十三章 失落的剑宗</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-57577174.html">第四百三十四章 解剑</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-57580399.html">第四百三十五章 剑海</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-57585074.html">第四百三十六章 迷离</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-57585075.html">第四百三十七章 旧怨</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-57598490.html">第四百三十八章 剑斗</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-57601745.html">第四百三十九章 极限</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-57609078.html">第四百四十章 炼剑</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-57609593.html">第四百四十一章 一剑荡天穹</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-57616404.html">第四百四十二章 崩塌</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-57618039.html">第四百四十三章 千钧一发</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-57621659.html">第四百四十四章 空空如也</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-57621660.html">第四百四十五章 无尽沙海</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-57632192.html">第四百四十六章 生死大劫</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-57633432.html">第四百四十七章 先天灵葫</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-57638329.html">第四百四十八章 风起云涌</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-57639070.html">第四百四十九章 蜃影重重</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-57649762.html">第四百五十章 晚了一步</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-57653634.html">第四百五十一章 宫殿</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-57654575.html">第四百五十二章 禁锢</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-57690726.html">第四百五十三章 倒戈</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-57704357.html">第四百五十四章 相助</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-57704358.html">第四百五十五章 女童</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-57731168.html">第四百五十六章 小城</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-57744432.html">第四百五十七章 顾虑</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-57744433.html">第四百五十八章 五百年</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-57744434.html">第四百五十九章 第三衰</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-57748011.html">第四百六十章 雷池洗婴</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-57748697.html">第四百六十一章 法则之奥（诸位道友，中秋快乐！）</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-57751757.html">第四百六十二章 震撼</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-57753206.html">第四百六十三章 另有乾坤</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-57766997.html">第四百六十四章 天纵之才</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-57767670.html">第四百六十五章 核心</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-57782033.html">第四百六十六章 偏门</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-57784886.html">第四百六十七章 凝煞破境</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-57786571.html">第四百六十八章 灵域</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-57802615.html">第四百六十九章 刹那光阴</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-57806774.html">第四百七十章 出手</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-57808933.html">第四百七十一章 域斗</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-57818955.html">第四百七十二章 斩灵</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-57827690.html">第四百七十三章 清点</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-57833299.html">第四百七十四章 这是我的！</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-57835014.html">第四百七十五章 找死</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-57840374.html">第四百七十六章 暗流</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-57843807.html">第四百七十七章 异象</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-57845391.html">第四百七十八章 殿口</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-57853418.html">第四百七十九章 偷窥</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-57857493.html">第四百八十章 猝不及防</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-57858408.html">第四百八十一章 一出好戏</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-57862204.html">第四百八十二章 看下去</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-57863272.html">第四百八十三章 域灵</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-57865469.html">第四百八十四章 携手御灵</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-57870636.html">第四百八十五章 出人意料</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-57871207.html">第四百八十六章 嗜金仙</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-57876854.html">第四百八十七章 金云丹劫</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-57877519.html">第四百八十八章 仙使</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-57880046.html">第四百八十九章 门后的世界</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-57880827.html">第四百九十章 我信</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-57883709.html">第四百九十一章 别有洞天</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-57884533.html">第四百九十二章 隐瞒</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-57887387.html">第四百九十三章 截丹</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-57891974.html">第四百九十四章 灭杀</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-57892649.html">第四百九十五章 出手</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-57896996.html">第四百九十六章 纷争</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-57897739.html">第四百九十七章 潜入</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-57903293.html">第四百九十八章 夺丹</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-57903934.html">第四百九十九章 对峙</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-57907049.html">第五百章 混战</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273258.html">第五百零一章 归魂</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273259.html">第五百零二章 赶到</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273260.html">第五百零三章 迟了</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273261.html">第五百零四章 协力</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273262.html">第五百零五章 气影</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273263.html">第五百零六章 何苦</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273264.html">第五百零七章 想杀谁？</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273265.html">第五百零八章 良机</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273266.html">第五百零九章 急攻</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273267.html">第五百一十章 斩太乙</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273268.html">第五百零一十一章 没想到</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273269.html">第五百零一十二章 别离</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273270.html">第五百一十三章 收获（开新卷了哦）</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273271.html">第五百一十四章 重函秘宝</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273272.html">第五百一十五章 暴富</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273273.html">第五百一十六章 只进不出</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273274.html">第五百一十七章 印证</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273275.html">第五百一十八章 星河剑阵</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273276.html">第五百一十九章 安排</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273277.html">第五百二十章 浑水摸鱼</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273278.html">第五百二十一章 尾随</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273279.html">第五百二十二章 喜相逢</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273280.html">第五百二十三章慰风尘</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273281.html">第五百二十四章 凡尘往事</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273282.html">第五百二十五章 无底洞</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273283.html">第五百二十六章 复仇</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273284.html">第五百二十七章 失踪了？</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273285.html">第五百二十八章 出来见我</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273286.html">第五百二十九章 上门</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273287.html">凡人仙界篇一年感言！！！</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273288.html">第五百三十章 交换条件</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273289.html">第五百三十一章 第三部功法</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273290.html">第五百三十二章 初临元荒</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273291.html">第五百三十三章 蛮荒逸事</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273292.html">第五百三十四章 沙海</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273293.html">第五百三十五章 迷踪</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273294.html">第五百三十六章 妖族男子</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273295.html">第五百三十七章 启程</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273296.html">第五百三十八章 陌生气息</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273297.html">第五百三十九章 沙海异兽</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273298.html">第五百四十章 入蛮荒</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273299.html">第五百四十一章 觅宝</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273300.html">第五百四十二章 荒泽骨山</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273301.html">第五百四十三章 纷争</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273302.html">第五百四十四章 留下？</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273303.html">第五百四十五章 上宾</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273304.html">第五百四十六章 蛮荒大族</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273305.html">第五百四十七章 盘桓</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273306.html">第五百四十八章 三大功法</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273307.html">第五百四十九章 梦回真言门</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273308.html">第五百五十章 辛秘</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273309.html">第五百五十一章 熟悉气息</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273310.html">第五百五十二章 同仇敌忾</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273311.html">第五百五十三章 鏖战</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273312.html">第五百五十四章 第一声战鼓</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273313.html">第五百五十五章 针锋相对</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273314.html">第五百五十六章 猝不及防</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273315.html">第五百五十七章 失算</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273316.html">第五百五十八章 宿六</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273317.html">第五百五十九章 臭虫</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273318.html">第五百六十章 王</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273319.html">第五百六十一章 无奈</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273320.html">第五百六十二章 惊退</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273321.html">第五百六十三章 密谋</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273322.html">第五百六十四章 八灵聚首</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273323.html">第五百六十五章 深入</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273324.html">第五百六十六章 第三种</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273325.html">第五百六十七章 来了</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273326.html">更新通知</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273327.html">第五百六十八章 夺路狂奔</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273328.html">第五百六十九章 不仁不义</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273329.html">第五百七十章 血洗</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273330.html">第五百七十一章 祸水东引</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273331.html">第五百七十二章 燃烧本源</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273332.html">第五百七十三章 紧追不舍</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273333.html">第五百七十四章 濒临极限</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273334.html">第五百七十五章 绝境</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273335.html">第五百七十六章 因果执念</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273336.html">第五百七十七章 进退两难</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273337.html">第五百七十八章 下探</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273338.html">第五百七十九章 沉沦</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273339.html">第五百八十章 因祸得福</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273340.html">第五百八十一章 仙聚</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273341.html">第五百八十二章 孤注一掷</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273342.html">第五百八十三章 洞底</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273343.html">第五百八十四章 两尸</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273344.html">第五百八十五章 分魂</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273345.html">第五百八十六章 化险为夷</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273346.html">第五百八十七章 分食</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273347.html">第五百八十八章 一搏</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273348.html">第五百八十九章 苏醒</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273349.html">第五百九十章 最后的准备</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273350.html">第五百九十一章 葫中剑</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273351.html">第五百九十二章 汹涌而至</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273352.html">第五百九十三章 诱敌深入</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273353.html">第五百九十四章 砍</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273354.html">第五百九十五章 殊死相搏</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273355.html">第五百九十六章 拼了</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273356.html">第五百九十七章 你死我活</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273357.html">第五百九十八章 断因果</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273358.html">第五百九十九章 第五衰</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273359.html">第六百章 对抗</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273360.html">第六百零一章 事从权宜</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273361.html">第六百零二章 出去走走</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273362.html">第六百零三章 对弈</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273363.html">第六百零四章 闲云野鹤</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273364.html">第六百零五章 蛰伏</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273365.html">第六百零六章 大道归一</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273366.html">第六百零七章 神秘之河</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273367.html">第六百零八章 片段</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273368.html">第六百零九章 二入聚琨</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273369.html">2018年起点年终盛典人气作者投票开始了哦！</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273370.html">第六百一十章 一帛难求</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273371.html">第六百一十一章 真实身份</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273372.html">第六百一十二章 小道消息</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273373.html">第六百一十三章 凡品仙价</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273374.html">第六百一十四章 事出反常</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273375.html">第六百一十五章 另一根兽骨</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273376.html">第六百一十六章 惊诧</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273377.html">第六百一十七章 陷阱</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273378.html">第六百一十八章 怪盗</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273379.html">第六百一十九章 真容</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273380.html">第六百二十章 看戏</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273381.html">第六百二十一章 原来是他</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273382.html">第六百二十二章 花鸟鱼虫</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273383.html">第六百二十三章 湖心小岛</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273384.html">第六百二十四章 花枝</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273385.html">第六百二十五章 “二指禅”</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273386.html">第六百二十六章 安顿</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273387.html">第六百二十七章 另寻他法</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273388.html">第六百二十八章 摸索</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273389.html">第六百二十九章 天魔斗</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273390.html">第六百三十章 胶着</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273391.html">第六百三十一章 筹码</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273392.html">第六百三十二章 魔域</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273393.html">第六百三十三章 炼瞳</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273394.html">第六百三十四章 离奇之事</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273395.html">第六百三十五章 又出事了</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273396.html">第六百三十六章 融剑</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273397.html">第六百三十七章 避风头</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273398.html">第六百三十八章 器分九品</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273399.html">第六百三十九章 热火遭难</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273400.html">第六百四十章 没找错人(新年快乐）</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273401.html">第六百四十一章 找上门（元旦快乐）</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273402.html">第六百四十二章 不凑热闹</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273403.html">第六百四十三章 去而复返</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273404.html">第六百四十四章 整装待发</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273405.html">第六百四十五章 我自逍遥</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273406.html">第六百四十六章 打点</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273407.html">第六百四十七章 地下城</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273408.html">第六百四十八章 渡口</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273409.html">第六百四十九章 失落宗门</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273410.html">第六百五十章 出现了</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273411.html">第六百五十一章 故地重游</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273412.html">第六百五十二章 修复</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273413.html">第六百五十三章 蠢蠢欲动</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273414.html">第六百五十四章 先手</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273415.html">第六百五十五章 乱流</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273416.html">第六百五十六章 死城</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273417.html">第六百五十七章 激斗水衍宫</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273418.html">第六百五十八章 四人行</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273419.html">第六百五十九章 五条路</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273420.html">第六百六十章 尸魅</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273421.html">第六百六十一章 大头童尸</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273422.html">第六百六十二章 诱饵</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273423.html">第六百六十三章 无奈之举</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273424.html">第六百六十四章 不顾信义</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273425.html">第六百六十五章 意外之喜</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273426.html">第六百六十六章 晶莲</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273427.html">第六百六十七章 火岁萤虫</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273428.html">第六百六十八章 乱流</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273429.html">第六百六十九章 缘法天地间</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273430.html">第六百七十章 静止</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273431.html">第六百七十一章 已经死了</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273432.html">第六百七十二章 惊天指</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273433.html">第六百七十三章 熟人</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273434.html">第六百七十四章 顾虑</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273435.html">第六百七十五章</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273436.html">第六百七十六章</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273437.html">第六百七十七章 尸骸</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273438.html">第六百七十八章 煞胎</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273439.html">第六百七十九章 空灵竹曲</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273440.html">第六百八十章 怪人</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273441.html">第六百八十一章 灰界生物</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273442.html">第六百八十二章 初露端倪</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273443.html">第六百八十三章 真言宫</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273444.html">第六百八十四章 失联</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273445.html">第六百八十五章 六识尽失</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273446.html">第六百八十六章 重宝现</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273447.html">第六百八十七章 不信</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273448.html">第六百八十八章 以彼之道</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273449.html">第六百八十九章 认出</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273450.html">第六百九十章 险战</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273451.html">第六百九十一章 星官</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273452.html">第六百九十二章 灭宗之谜</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273453.html">第六百九十三章 事发突然</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273454.html">第六百九十四章 凝固</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273455.html">第六百九十五章</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273456.html">第六百九十六章 清点</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273457.html">第六百九十七章 吞丹砂</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273458.html">第六百九十八章 约定</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273459.html">第六百九十九章 部落</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273460.html">第七百章 演技</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273461.html">第七百零一章 挑衅(新春快乐）</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273462.html">第七百零二章 教训一下</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273463.html">第七百零三章 价差</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273464.html">第七百零四章 沾光</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273465.html">第七百零五章 内乱</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273466.html">第七百零六章 受邀</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273467.html">第七百零七章 清点</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273468.html">第七百零八章 会晤</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273469.html">第七百零九章 两难境地</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273470.html">第七百一十章 洗煞池</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273471.html">第七百一十一章 冒险</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273472.html">第七百一十二章 双首狐刀</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273473.html">第七百一十三章 欲擒故纵</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273474.html">第七百一十四章 拔刀</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273475.html">第七百一十五章 封刀入鞘</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273476.html">第七百一十六章 初临黑齿</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273477.html">第七百一十七章 赴九幽</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273478.html">第七百一十八章 波澜</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273479.html">第七百一十九章 各怀心思</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273480.html">第七百二十章 颠倒</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273481.html">第七百二十一章 潜行</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273482.html">第七百二十二章 再聚首</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273483.html">第七百二十三章 窥视</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273484.html">第七百二十四章 分头行动</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273485.html">第七百二十五章 声东击西</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273486.html">第七百二十六章 刻不容缓</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273487.html">第七百二十七章 传闻</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273488.html">第七百二十八章 惑敌乱真</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273489.html">第七百二十九章 动手</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273490.html">第七百三十章 横遭变故</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273491.html">第七百三十一章 危局</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273492.html">第七百三十二章 幽牢</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273493.html">第七百三十三章 无间狱</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273494.html">第七百三十四章 功亏一篑？</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273495.html">第七百三十五章 植虫</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273496.html">第七百三十六章 不得其解</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273497.html">第七百三十七章 究竟是谁？</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273498.html">第七百三十八章 坎坷经历</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273499.html">第七百三十九章 脱困</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273500.html">第七百四十章 约定</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273501.html">第七百四十一章 失去联系</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273502.html">第七百四十二章 合力退敌</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273503.html">第七百四十三章 穷追不舍</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273504.html">第七百四十四章 闯禁地</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273505.html">第七百四十五章 殊死一搏</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273506.html">第七百四十六章 再陷囹圄</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273507.html">第七百四十七章 棋行险招</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273508.html">第七百四十八章 太古异兽</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273509.html">第七百四十九章 出世</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273510.html">第七百五十章 二次解封</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273511.html">第七百五十一章 明争暗斗</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273512.html">第七百五十二章 惊人意外</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273513.html">第七百五十三章 四色雷禁</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273514.html">第七百五十四章 天狐老祖</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273515.html">第七百五十五章 三品仙器？</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273516.html">第七百五十六章 买卖</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273517.html">第七百五十七章 入池</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273518.html">第七百五十八章 不破不立</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273519.html">第七百五十九章 斩链</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273520.html">第七百六十章 一缕分魂</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273521.html">第七百六十一章 师徒之情</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273522.html">第七百六十二章 南柯一梦</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273523.html">第七百六十三章 二斩雷链</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273524.html">第七百六十四章 拼死一搏</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273525.html">第七百六十五章 齐抗大罗</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273526.html">第七百六十六章</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273527.html">第七百六十七章 煞域</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273528.html">第七百六十八章 出奇制胜</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273529.html">第七百六十九章 搁置争议</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273530.html">第七百七十章 进化</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273531.html">第七百七十一章 迫在眉睫</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273532.html">第七百七十二章 险象环生</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273533.html">第七百七十三章 大难未死</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273534.html">第七百七十四章 至净玉体</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273535.html">第七百七十五章 进阶太乙</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273536.html">第七百七十六章 觅红颜</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273537.html">第七百七十七章 大皇子</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273538.html">第七百七十八章 拦截</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59273539.html">第七百七十九章 剑戮群凶</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59273540.html">第七百八十章 斩草除根</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59310879.html">第七百八十一章 围追堵截</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59370666.html">第七百八十二章 战双羽</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59428874.html">第七百八十三章 经验之谈</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59449451.html">第七百八十四章 亡命奔逃</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59519141.html">第七百八十五章 驱虎吞狼</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59544247.html">第七百八十六章 向俗之心</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59641192.html">第七百八十七章 大肆收购</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59732540.html">第七百八十八章 意外交易</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59743117.html">第七百八十九章 真面目</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59796141.html">第七百九十章 黄雀在后</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59861269.html">第七百九十一章 弹指破敌</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59861272.html">第七百九十二章 奉主</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59861274.html">第七百九十三章 过门而不入</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-59906292.html">第七百九十四章 释疑</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-59930806.html">第七百九十七章 同体双姝</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-60014422.html">第七百九十五章 万物皆有时</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-60109820.html">第七百九十八章 自家地盘</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-60160096.html">第七百九十六章 以逸待劳</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-60169398.html">第七百九十九章 吞空而行</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-60207477.html">第八百章 魔域商都</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-60214073.html">第八百零一章 缺席</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-60230735.html">第八百零二章 叛徒？</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-60233948.html">第八百零三章 异常</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-60242244.html">第八百零四章 诡异手段</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-60249843.html">第八百零五章 中招</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-60268445.html">第八百零六章 封魂</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-60272029.html">第八百零七章 力破花镜</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-60278877.html">第八百零八章 离城</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-60285381.html">第八百零九章 强敌</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-60310098.html">第八百一十章 暗渡楚禹</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-60316693.html">第八百一十一章 绝不容情</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-60346743.html">第八百一十二章 培炼</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-60347418.html">第八百一十三章 发芽</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-60363041.html">第八百一十四章 山野小镇</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-60380083.html">第八百一十五章 搬山异兽</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-60386220.html">第八百一十六章 五品仙灯</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-60519166.html">第八百一十七章 掩人耳目</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-60519167.html">第八百一十八章 阴魂不散</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-60519169.html">第八百一十九章 念刃显威</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-60568686.html">第八百二十章 怎么又是你？</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-60709999.html">第八百二十一章 选举大典</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-60857753.html">第八百二十二章 治世</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-60857756.html">第八百二十三章 八皇子</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-60919745.html">第八百二十四章 不动</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-60933766.html">第八百二十五章 解围</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-61036346.html">第八百二十六章 兄弟情深</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-61036347.html">第八百二十七章 点阅</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-61124497.html">第八百二十八章 初探坊市</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-61124498.html">第八百二十九章 不必跟着了</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-61175526.html">第八百三十章 慧眼识珠者</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-61191160.html">第八百三十一章 寻医问药</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-61246576.html">第八百三十二章 出关了</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-61246577.html">第八百三十三章 觐见</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-61270788.html">第八百三十四章 挑拨离间</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-61309223.html">第八百三十五章 免礼</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-61309224.html">第八百三十六章 赏赐</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-61322806.html">第八百三十七章 冠冕堂皇</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-61326776.html">第八百三十八章 肉身入境</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-61344177.html">第八百三十九章 原来是这样</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-61344178.html">第八百四十章 二斗照骨</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-61356962.html">第八百四十一章 救主</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-61361267.html">第八百四十二章 两个消息</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-61395133.html">第八百四十三章 为红颜</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-61405434.html">第八百四十四章 得罪</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-61405435.html">第八百四十五章 流放</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-61409544.html">第八百四十六章 冒险</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-61433293.html">第八百四十七章 有进无出</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-61433637.html">第八百四十八章 路漫漫</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-61448847.html">第八百四十九章 捕鸟三人行</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-61455175.html">第八百五十章 妙用</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-61467907.html">第八百五十一章 踪迹全无</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-61467971.html">第八百五十二章 线索</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-61483194.html">第八百五十三章 蟹道人被擒</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-61584316.html">第八百五十四章 不打不相识</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-61584317.html">第八百五十五章 加入玄城？</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-61584318.html">第八百五十六章 打不过就跑</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-61604674.html">第八百五十七章 青羊城</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-61604675.html">第八百五十八章 测试</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-61617912.html">第八百五十九章 另有安排</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-61618072.html">第八百六十章 玄斗士和玄斗场</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-61622591.html">第八百六十一章 转化吸收</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-61636019.html">第八百六十二章 嘘声四起</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-61636020.html">第八百六十三章 不能再打了</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-61653312.html">第八百六十四章 出人意料</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-61653314.html">第八百六十五章 血池</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-61653316.html">第八百六十六章 暗中陷害</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-61681346.html">第八百六十七章 再次挑战</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-61687554.html">第八百六十八章 或死或生</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-61724789.html">第八百六十九章 声名渐起</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-61724790.html">第八百七十章 骨千寻的邀请</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-61764562.html">第八百七十一章 场上见真章</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-61783881.html">第八百七十二章 赌约</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-61820843.html">第八百七十三章 隐患</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-61832146.html">第八百七十四章 刀疤之死</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-61875018.html">第八百七十五章 闭窍之术</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-61892393.html">第八百七十六章 功法互换</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-61943820.html">第八百七十七章 冲击瓶颈</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-61958674.html">第八百七十八章 信封与瓶子</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-62003844.html">第八百七十九章 非常规手段</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-62017262.html">第八百八十章 黑劫石</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-62047175.html">第八百八十一章 时辰到了</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-62065381.html">第八百八十二章 你做了什么？</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-62102574.html">第八百八十三章 疯狂吸收</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-62118719.html">第八百八十四章 复仇</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-62137975.html">第八百八十五章 各怀目的</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-62148671.html">第八百八十六章 联手</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-62178067.html">第八百八十七章 一无所获</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-62184345.html">第八百八十八章 神秘雕像</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-62206259.html">第八百八十九章 谋逆</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-62206260.html">第八百九十章 天煞镇狱功</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-62211868.html">第八百九十一章 突飞猛进</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-62263261.html">第八百九十二章 五城会武</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-62271030.html">第八百九十三章 赴玄城</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-62295605.html">第八百九十四章 小白脸</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-62303807.html">第八百九十五章 动荡</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-62322589.html">第八百九十六章 寻访六花</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-62337879.html">第八百九十七章 闭门羹</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-62349365.html">第八百九十八章 收徒</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-62352915.html">第八百九十九章 一趟生意</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-62361245.html">第九百章 动员</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-62368273.html">第九百零一章 前夕</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-62384938.html">第九百零二章 修罗场</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-62385266.html">第九百零三章 重赏之下</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-62388525.html">第九百零四章 杀心</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-62391599.html">第九百零五章 一击毙命</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-62403016.html">第九百零六章 下一轮的约定</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-62403499.html">第九百零七章 激斗</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-62409220.html">第九百零八章 当众挑衅</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-62412237.html">第九百零九章 星器</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-62415865.html">第九百一十章 算什么本事？</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-62416611.html">第九百一十一章 崭露头角</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-62419628.html">第九百一十二章 技惊四座</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-62420603.html">第九百一十三章 传闻中的星器</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-62439727.html">第九百一十四章 突然中断</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-62440088.html">第九百一十五章 别有目的</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-62444344.html">第九百一十六章 虚惊一场</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-62451406.html">第九百一十七章 大墟</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-62455497.html">第九百一十八章 疑惑</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-62459314.html">第九百一十九章 深入险境</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-62463387.html">第九百二十章 协作</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-62471437.html">第九百二十一章 特立独行</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-62471438.html">第九百二十二章 共筑星舟</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-62476148.html">第九百二十三章 紫色身影</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-62476997.html">第九百二十四章 蟹道人来访</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-62481540.html">第九百二十五章 补救之法</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-62481541.html">第九百二十六章 笼络</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-62484340.html">第九百二十七章 私会</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-62484965.html">第九百二十八章 起航</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-62489436.html">第九百二十九章 动荡起伏</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-62491343.html">第九百三十章 有惊无险</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-62491344.html">第九百三十一章 突如其来</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-62492274.html">第九百三十二章 初入大墟</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-62497163.html">第九百三十三章 冤家路窄</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-62505817.html">第九百三十四章 兄弟相残</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-62506030.html">第九百三十五章 真相？</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-62507856.html">第九百三十六章 反目</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-62508485.html">第九百三十七章 圣骸</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-62514351.html">第九百三十八章 异动</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-62515348.html">第九百三十九章 关卡重重</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-62518668.html">第九百四十章 血红钥匙</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-62519972.html">第九百四十一章 围追堵截</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-62522403.html">第九百四十二章 脱困</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-62523143.html">第九百四十三章 第二座祭坛</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-62525155.html">第九百四十四章 念斩符灵</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-62530607.html">第九百四十五章 再携手</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-62546132.html">第九百四十六章 各怀心思</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-62550034.html">第九百四十七章 第二把钥匙？</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-62566273.html">第九百四十八章 冲突爆发</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-62582588.html">第九百四十九章 突然出现</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-62612005.html">第九百五十章 解除后顾之忧</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-62625887.html">第九百五十一章 各怀鬼胎</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-62654386.html">第九百五十二章 玄修神物</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-62661590.html">第九百五十三章 血门</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-62677084.html">第九百五十四章 五角深坑</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-62688131.html">第九百五十五章 埋骨之地</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-62702919.html">第九百五十六章 入血池</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-62708978.html">第九百五十七章 鳞犼守门</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-62730318.html">第九百五十八章 泣血阵图</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-62735965.html">第九百五十九章 突发变故</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-62754418.html">第九百六十章 内斗</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-62778292.html">第九百六十一章 生死交锋</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-62803394.html">第九百六十二章 蓄势待发</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-62803396.html">第九百六十三章 不简单</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-62803397.html">第九百六十四章 入阵拜会！</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-62837319.html">第九百六十五章 喧宾夺主</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-62837320.html">第九百六十六章 引雷</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-62847395.html">第九百六十七章 恩怨</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-62900153.html">第九百六十八章 别打扰我</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-62900154.html">第九百六十九章 阵中异样</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-62900155.html">第九百七十章 据守</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-62900156.html">第九百七十一章 雷霆手段</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-62900157.html">第九百七十二章 私怨</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-62900764.html">第九百七十三章 追寻</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-62920374.html">第九百七十四章 魔君的身份？</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-62920375.html">第九百七十五章 苦肉计</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-62920376.html">第九百七十六章 摘心</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-62920377.html">第九百七十七章 大皇子的报复</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-62920378.html">第九百七十八章 任务完成</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-62920379.html">第九百七十九章 蟹道人的主人</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-62920380.html">第九百八十章 倾世红颜</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-62922710.html">第九百八十一章 轮到你了</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-62933148.html">第九百八十二章 借你一用</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-62957465.html">第九百八十三章 复苏</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-62957466.html">第九百八十四章 再回首，恍如隔世</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-62984423.html">第九百八十五章 相逢若别离</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-62984424.html">第九百八十六章 沉心静气</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-62984425.html">第九百八十七章 突飞猛进</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-62984426.html">第九百八十八章 聚变</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-62994941.html">第九百八十九章 道天大劫</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-62994942.html">第九百九十章 缘起黄金蟹</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-63007114.html">第九百九十一章 无能为力</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-63052231.html">第九百九十二章 秘境迷踪</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-63052232.html">第九百九十三章 当年那一战</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-63052233.html">第九百九十四章 是我？</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-63070017.html">第九百九十五章 道别，珍重</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-63079064.html">第九百九十六章 夜闯夜阳宫</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-63084778.html">第九百九十七章 败絮其中</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-63103609.html">第九百九十八章 协定</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-63103610.html">第九百九十九章 后会无期</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-63118178.html">第一千章 摆了一道</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-63118179.html">第一千零一章 就这些能耐？</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-63124241.html">第一千零二章 手起拳落</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-63124242.html">第一千零三章 造化晶粒</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-63124243.html">第一千零四章 混乱之地</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-63133867.html">第一千零五章 举手之劳</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-63133868.html">第一千零六章 一别多年</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-63144410.html">第一千零七章 别有洞天</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-63154518.html">第一千零八章 骨肉亲情</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-63166184.html">第一千零九章 施救</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-63176600.html">第一千零一十章 渊源</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-63176601.html">第一千一十一章 不可思议之人</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-63196479.html">第一千零一十二章 巧合齐汇于一身</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-63198225.html">第一千零一十三章 难言之隐</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-63203953.html">第一千零一十四章 主动上报</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-63212802.html">第一千零一十五章 灭族</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-63212946.html">第一千零一十六章 去去就回</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-63214322.html">第一千零一十七章 等人</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-63218693.html">第一千零一十八章 找上门来</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-63222241.html">第一千零一十九章 请君入阵</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-63223193.html">第一千零二十章 反制</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-63230017.html">第一千零二十一章 上禀</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-63231178.html">第一千零二十二章 独闯仙宫</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-63233903.html">第一千零二十三章 树倒猢狲散</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-63234677.html">第一千零二十四章 诛五恶</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-63238962.html">第一千零二十五章 除恶务尽</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-63239793.html">第一千零二十六章 一波未平</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-63241870.html">第一千零二十七章 紧追不舍</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-63242592.html">第一千零二十八章 怪泉</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-63244907.html">第一千零二十九章 探秘</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-63245969.html">第一千零三十章 金属兽</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-63255272.html">第一千零三十一章 雅趣</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-63255273.html">第一千零三十二章 耸人听闻</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-63255274.html">第一千零三十三章 冲天异象</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-63255275.html">第一千零三十四章 各方云集</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-63255276.html">第一千零三十五章 太岁府</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-63255277.html">第一千零三十六章 启封</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-63255278.html">第一千零三十七章 紧锣密鼓</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-63257010.html">第一千零三十八章 不讲究</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-63264327.html">第一千零三十九章 欲擒故纵</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-63265383.html">第一千零四十章 犬马之劳</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-63267839.html">第一千零四十一章 惊险一幕</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-63272102.html">第一千零四十二章 破阵</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-63276043.html">第一千零四十三章 现敌踪</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-63277177.html">第一千零四十四章 择路无悔</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-63286616.html">第一千零四十五章 举棋不定</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-63286617.html">第一千零四十六章 打头阵</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-63296608.html">第一千零四十七章 不识抬举</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-63341441.html">第一千零四十八章 真面目</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-63391639.html">第一千零四十九章 破冰</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-63397423.html">第一千零五十章 寻踪</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-63403794.html">第一千零五十一章 暴露了？</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-63407948.html">第一千零五十二章 跑得最快</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-63425930.html">第一千零五十三章 举棋不定</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-63425931.html">第一千零五十四章 分道扬镳</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-63426924.html">第一千零五十五章 各施手段</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-63444090.html">第一千零五十六章 虫巢</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-63458850.html">第一千零五十七章 退无可退</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-63460348.html">第一千零五十八章 囚塔</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-63467344.html">第一千零五十九章 十八层</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-63469192.html">第一千零六十章 神雷御鬼</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-63476368.html">第一千零六十一章 大罗鬼王</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-63478599.html">第一千零六十二章 自投罗网</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-63487940.html">第一千零六十三章 再斗奇摩子</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-63489041.html">第一千零六十四章 幻景</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-63490997.html">第一千零六十五章 智取</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-63491980.html">第一千零六十六章 注定一战</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-63493546.html">第一千零六十七章 巧遇</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-63496192.html">第一千零六十八章 出手</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-63498107.html">第一千零六十九章 利奇马</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-63498108.html">第一千零七十章 一路向前</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-63506544.html">第一千零七十二章 炼丝</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-63507633.html">第一千零七十一章 交换条件</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-63511885.html">第一千零七十三章 暴涨</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-63512926.html">第一千零七十四章 幻物</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-63520194.html">第一千零七十五章 破幻</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-63522470.html">第一千零七十六章 神灯异闻</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-63528919.html">第一千零七十七章 第六层</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-63528920.html">第一千零七十八章 坦白</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-63528921.html">第一千零七十九章 一言为定</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-63528922.html">第一千零八十章 一拳之约</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-63528923.html">第一千零八十一章 舍命相救</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-63528924.html">第一千零八十二章 重犯</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-63528925.html">第一千零八十三章 反转</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-63528926.html">第一千零八十四章 私通</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-63533193.html">第一千零八十五章 退强敌</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-63542923.html">第一千零八十六章 古剑</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-63543770.html">第一千零八十七章 反常举动</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-63546786.html">第一千零八十八章 拔剑大荒</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-63563126.html">第一千零八十九章 出人意料</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-63563127.html">第一千零九十章 惊退</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-63572275.html">第一千零九十一章 封魔往事</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-63578158.html">第一千零九十二章 第二座祭坛</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-63585353.html">第一千零九十三章 晚了</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-63599123.html">第一千零九十四章 退魔</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-63599125.html">第一千零九十五章 合作</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-63599127.html">第一千零九十六章 各怀心思</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-63604774.html">第一千零九十七章 兵分三路</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-63608983.html">第一千零九十八章 独闯</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-63611136.html">第一千零九十九章 暗袭</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-63614136.html">第一千一百章 暗度陈仓</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-63622710.html">第一千一百零一章 实力大进</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-63628759.html">第一千一百零二章 神灯之疑</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-63632991.html">第一千一百零三章 后手</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-63636247.html">第一千一百零四章 闯剑阵</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-63636248.html">第一千一百零五章 剑阵通天</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-63644730.html">第一千一百零六章 携手</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-63651282.html">第一千一百零七章 觅阵枢</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-63651283.html">第一千一百零八章 阵图之争</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-63651874.html">第一千一百零九章 道兵阵</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-63657433.html">第一千一百一十章 携手抗五行</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-63660720.html">第一千一百一十一章 夺灯</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-63668831.html">第一千一百一十二章 道胤真人</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-63680804.html">第一千一百一十三章 困杀</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-63690055.html">第一千一百一十四章 惨烈</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-63692488.html">第一千一百一十五章 突破</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-63708366.html">第一千一百一十六章 间不容发</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-63708367.html">第一千一百一十七章 幡然醒悟(诸位道友，中秋快乐！）</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-63708368.html">第一千一百一十八章 算账</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-63708369.html">第一千一百一十九章 疯魔黑天</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-63708370.html">第一千一百二十章 疯癫</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-63714107.html">第一千一百二十一章 寻妻觅儿</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-63720694.html">第一千一百二十二章 取灯</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-63720695.html">第一千一百二十三章 揍</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-63725972.html">第一千一百二十四章 太岁残灵</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-63730216.html">第一千一百二十五章 追杀奇摩子</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-63732107.html">第一千一百二十六章 鏖战奇摩子</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-63732108.html">第一千一百二十七章 自陷</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-63737719.html">第一千一百二十八章 入手神灯</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-63741782.html">第一千一百二十九章 天人境</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-63749477.html">第一千一百三十章 逃出生天</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-63749478.html">第一千一百三十一章 牺牲与保全</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-63761164.html">第一千一百三十二章 另一种报酬</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-63761165.html">第一千一百三十三章 生灵涂炭</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-63768861.html">第一千一百三十四章 金童被擒</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-63768862.html">第一千一百三十五章 仙域之分</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-63774651.html">第一千一百三十六章 轮回殿主</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-63774652.html">第一千一百三十七章 庞然大物</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-63778322.html">第一千一百三十八章 风起云涌</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-63778323.html">第一千一百三十九章 排名急窜</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-63778324.html">第一千一百四十章 被发现了</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-63788870.html">第一千一百四十一章 踏虚而行</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-63803616.html">第一千一百四十二章 妙法亲至</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-63803617.html">第一千一百四十三章 在劫难逃</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-63811657.html">第一千一百四十四章 唯一的机会</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-63815449.html">第一千一百四十五章 再陷囹圄</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-63823243.html">第一千一百四十六章 瓶灵现身</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-63823244.html">第一千一百四十七章 再回真言门</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-63830874.html">第一千一百四十八章 熟悉的一幕</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-63834144.html">第一千一百四十九章 第七弟子</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-63840147.html">第一千一百五十章 真言门之根基</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-63842609.html">第一千一百五十一章 诸般神通</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-63851388.html">第一千一百五十二章 拜师(诸位道友，国庆快乐^^)</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-63852711.html">第一千一百五十三章 入蛮荒</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-63856789.html">第一千一百五十四章 八王血脉</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-63856790.html">第一千一百五十五章 幼兽</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-63856791.html">第一千一百五十六章 偶遇小白</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-63856792.html">第一千一百五十七章 收获</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-63856793.html">第一千一百五十八章 复活神灯</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-63856794.html">第一千一百五十九章 一场交易</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-63856795.html">第一千一百六十章 天降丹劫</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-63856796.html">第一千一百六十一章 惊退</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-63885412.html">第一千一百六十二章 八荒</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-63891520.html">第一千一百六十三章 阻拦</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-63899152.html">第一千一百六十四章 信物</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-63899154.html">第一千一百六十五章 第二枚鳞片</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-63906192.html">第一千一百六十六章 故人重逢</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-63909623.html">第一千一百六十七章 天狐往事</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-63912863.html">第一千一百六十八章 敌视</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-63916898.html">第一千一百六十九章 如此小看</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-63922606.html">第一千一百七十章 苏醒</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-63927660.html">第一千一百七十一章 菩提盛宴</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-63927661.html">第一千一百七十二章 铸阵</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-63934740.html">第一千一百七十三章 血祀大会</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-63934741.html">第一千一百七十四章 登山</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-63934742.html">第一千一百七十五章 至顶</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-63937668.html">第一千一百七十六章 你也入殿</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-63946668.html">第一千一百七十七章 新王</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-63946669.html">第一千一百七十八章 修罗血门</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-63946670.html">第一千一百七十九章 唤灵</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-63946671.html">第一千一百八十章 横生变数</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-63954206.html">第一千一百八十一章 底气</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-63960109.html">第一千一百八十二章 传承</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-63960110.html">第一千一百八十三章 启三门</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-63971670.html">第一千一百八十四章 我想试试</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-63973294.html">第一千一百八十五章 进去了！</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-63977502.html">第一千一百八十六章 传承</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-63977503.html">第一千一百八十七章 出关</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-63977504.html">第一千一百八十八章 婉拒</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-63977505.html">第一千一百八十九章 两百年之约</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-63977506.html">第一千一百九十章 五光雷池</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-63977507.html">第一千一百九十一章 淬剑</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-63988693.html">第一千一百九十二章 没把握</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-63992406.html">第一千一百九十三章 乱象渐起</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-63997187.html">第一千一百九十四章 进阶大罗</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-64015722.html">第一千一百九十五章 天人境</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-64015723.html">第一千一百九十六章 困顿</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-64019168.html">第一千一百九十七章 瞬息万年</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-64022153.html">第一千一百九十八章 万宝节</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-64042998.html">第一千一百九十九章 目不暇接</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-64045365.html">第一千二百章 竞价</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-64062437.html">第一千二百零一章 露出端倪</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-64062438.html">第一千二百零二章 暗中跟随</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-64068204.html">第一千二百零三章 大罗之争</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-64068205.html">第一千二百零四章 意外连连</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-64068206.html">第一千二百零五章 惊退</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-64071888.html">第一千二百零六章 破例</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-64080501.html">第一千二百零七章 黑色面具</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-64081866.html">第一千二百零八章 同舟而行</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-64088408.html">第一千二百零九章 差空间</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-64094825.html">第一千二百一十章 十八万年</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-64103856.html">第一千二百一十一章 天灾</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-64105914.html">第一千二百一十二章 三足小鼎</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-64105915.html">第一千二百一十三章 了因果</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-64122332.html">第一千二百一十四章 初临九元城</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-64123832.html">第一千二百一十五章 遗徒</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-64126900.html">第一千二百一十六章 新的任务</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-64134079.html">第一千二百一十七章 正合我意</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-64137910.html">第一千二百一十八章 前夕</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-64138910.html">第一千二百一十九章 首战</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-64148875.html">第一千二百二十章 把握时机</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-64150152.html">第一千二百二十一章 酣战</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-64162208.html">第一千二百二十二章 第三日</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-64162306.html">第一千二百二十三章 先下手为强</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-64173559.html">第一千二百二十四章 隐藏实力</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-64174568.html">第一千二百二十五章 赤梦之邀</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-64182467.html">第一千二百二十六章 有惊无险</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-64188263.html">第一千二百二十七章 观内异动</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-64192141.html">第一千二百二十八章 无法置信</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-64192546.html">第一千二百二十九章 暴露</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-64198790.html">第一千二百三十章 另有图谋</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-64199988.html">第一千二百三十一章 虎穴潜行</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-64204913.html">第一千二百三十二章 入关</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-64208211.html">第一千二百三十三章 寻踪觅影</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-64217110.html">第一千二百三十四章 深入地下</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-64217111.html">第一千二百三十五章 出乎意料</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-64218056.html">第一千二百三十六章 鬼阵</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-64218057.html">第一千二百三十七章 恶斗鬼灵子</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-64222942.html">第一千二百三十八章 剑镇判官</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-64223517.html">第一千二百三十九章 绝杀</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-64223519.html">第一千二百四十章 斩尸仙符</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-64223522.html">第一千二百四十一章 本恶之争</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-64223524.html">第一千二百四十二章 权宜之计</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-64223526.html">第一千二百四十三章 祸福相依</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-64223528.html">第一千二百四十四章 迷阵重重</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-64236207.html">第一千二百四十五章 二金之争</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-64236208.html">第一千二百四十六章 故景重现</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-64236209.html">第一千二百四十七章 另有目的</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-64236210.html">第一千二百四十八章 夺路狂奔</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-64251279.html">第一千二百四十九章 最亲近之人</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-64257724.html">第一千二百五十章 再战妙法</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-64275634.html">第一千二百五十一章 殿内混战</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-64275635.html">第一千二百五十二章 胶着之势</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-64275636.html">第一千二百五十三章 又一件仿制品？</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-64278411.html">第一千二百五十四章 梦中人</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-64279302.html">第一千二百五十五章 无形之手</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-64288881.html">第一千二百五十六章 差不多了</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-64290385.html">第一千二百五十七章 不留情面</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-64292871.html">第一千二百五十八章 断因果</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-64292872.html">第一千二百五十九章 赝品</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-64292873.html">第一千二百六十一章 迫在眉睫</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-64292874.html">第一千二百六十章 提壶山</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-64302485.html">第一千二百六十二章 殊死搏杀</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-64303998.html">第一千二百六十三章 濒临崩溃</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-64310672.html">第一千二百六十四章 重返八荒</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-64313084.html">第一千二百六十五章 天外天</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-64313359.html">第一千二百六十六章 天魔乱神</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-64313667.html">第一千二百六十七章 无处容身</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-64322184.html">第一千二百六十八章 斩尸瓶颈</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-64332407.html">第一千二百六十九章 朝行夕至</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-64332408.html">第一千七十章 归去来兮</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-64332409.html">第一千七十一章 说服自己</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-64332410.html">第一千七十二章 准备妥当</a>  </li>
+        </ul>
+      </div>
+      
+  
+   
+      
+      
+      <div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-64332411.html">第一千二百七十三章 斩尸</a> 
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" />&nbsp;   </li>
+        </ul>
+      </div>
+      
+  
+<div id="index_list">
+        <ul>
+          <li id="index_list_li1"> <img  class="list_ico"  src="/themes/173hk/images/list_ico.gif"  /><a href="/mulu/95/95095-64332411.html">凡人修仙之仙界篇 </a>
+             <img class="list_ico" src="/themes/173hk/images/list_ico.gif" /><a href="/mulu/95/95095-64332411.html">凡人修仙之仙界篇 </a></li>
+        </ul>
+      </div>
+      <div style="border-left:1px solid #77b325;border-right:1px solid #77b325;"></div>
+      <div class="cb" style="border-top:1px solid #77b325;"></div>
+    </div>
+  </div>
+  <div class="cb"></div>
+</div>
+<div id="bottom">
+  <div id="footer_copyright">
+    <script type="text/javascript" src="/modules/article/articlebottom.php" ></script>
+  </div>
+  <!--底部通栏代码-->
+  <!--统计代码开始-->
+  <div style="display:none">
+   <script type="text/javascript" src="/gaogao/tj.js"></script>
+   <script type="text/javascript" src="/themes/173hk/gb.js"></script>
+  </div>
+  <!--统计代码结束-->
+<script type="text/javascript" src="/gaogao/tc.js"></script>
+<script type="text/javascript" src="/gaogao/fmt.js"></script>
+
+</body>
+</html>
+
+`

@@ -19,6 +19,7 @@ const FILTER_TEXT_NODE = "textNodes"
 const FILTER_OWN_TEXT = "ownText"
 const FILTER_HTML = "html"
 const FILTER_ALL = "all"
+const FILTER_HREF = "href"
 const FILTER_TAG_NAME = "tag" //only for debug
 
 const JSOUP_SPLIT = "."

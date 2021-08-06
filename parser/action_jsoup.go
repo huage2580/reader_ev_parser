@@ -67,9 +67,8 @@ func parseDocumentJsoup(node *goquery.Selection, rule string, needFilterString b
 	//逐条执行命令
 	for _, r := range execRuleList {
 		cssQuery, includeIndex, excludeIndex := remapToCssQuery(r)
-		var nodesInRound = make([]*goquery.Selection, 0)
+		var nodesPerSplitRule = make([]*goquery.Selection, 0)
 		for _, currentNode := range currentNodes {
-			nodesInRound = make([]*goquery.Selection, 0) //清空结果
 			var find *goquery.Selection
 			if cssQuery == JSOUP_SUPPORT_CHILD { //单独处理获取子元素
 				find = currentNode.Children()
@@ -79,11 +78,11 @@ func parseDocumentJsoup(node *goquery.Selection, rule string, needFilterString b
 			var pResults = find.Nodes
 			for i := range pResults {
 				var s = find.Eq(i)
-				nodesInRound = append(nodesInRound, s)
+				nodesPerSplitRule = append(nodesPerSplitRule, s)
 			}
 		}
 		//保留或过滤指定序号
-		currentNodes = filterIndex(nodesInRound, includeIndex, excludeIndex)
+		currentNodes = filterIndex(nodesPerSplitRule, includeIndex, excludeIndex)
 	}
 	result = currentNodes
 
@@ -142,7 +141,7 @@ func remapToCssQuery(r string) (string, []int, []int) {
 	case JSOUP_SUPPORT_TEXT:
 		css = ":containsOwn(" + aValue + ")"
 	default:
-		css = r //直接执行css，不支持的类型
+		css = queryWithIndex[0] //直接执行css，不支持的类型
 	}
 	return css, indexStringToArray(includeStr), indexStringToArray(excludeStr)
 }
@@ -182,7 +181,10 @@ func mapText(node *goquery.Selection, clazz string) string {
 	case FILTER_TEXT_NODE:
 		var out = ""
 		node.Contents().Each(func(i int, s *goquery.Selection) {
-			out = out + strings.TrimSpace(s.Text()) + "\n"
+			var nodeName = goquery.NodeName(s)
+			if nodeName != "script" && nodeName != "style" {
+				out = out + strings.TrimSpace(s.Text()) + "\n"
+			}
 		})
 		return out
 	case FILTER_ALL:
@@ -190,6 +192,13 @@ func mapText(node *goquery.Selection, clazz string) string {
 		return out
 	case FILTER_TAG_NAME:
 		return goquery.NodeName(node)
+	case FILTER_HREF:
+		var href = node.AttrOr(clazz, "null")
+		if strings.HasPrefix(href, "javascript") { //过滤下奇怪的地址
+			return ""
+		}
+		return href
+
 	default:
 		return node.AttrOr(clazz, "null")
 	}
@@ -217,7 +226,10 @@ func filterIndex(nodes []*goquery.Selection, include []int, exclude []int) []*go
 	}
 	//指定
 	for _, c := range include {
-		result = append(result, nodes[negative(c, len(nodes))])
+		var need = negative(c, len(nodes))
+		if need >= 0 && need < len(nodes) {
+			result = append(result, nodes[need])
+		}
 	}
 	return result
 }
