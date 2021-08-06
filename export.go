@@ -11,10 +11,11 @@ import (
 	"log"
 	"reader_ev_parser/parser"
 	"reflect"
+	"sync"
 	"unsafe"
 )
 
-var holder = make(map[uintptr]interface{})
+var holder = sync.Map{} // 并发问题
 
 //export StartTransaction
 func StartTransaction(inputString *C.char) *C.char {
@@ -67,11 +68,14 @@ func FreeStr(address *C.char) {
 //export FreeSlice
 func FreeSlice(address uintptr) {
 	//fmt.Println(address)
-	var a = holder[address].([]*C.char)
-	for _, char := range a {
-		C.free(unsafe.Pointer(char))
+	var v, ok = holder.Load(address)
+	if ok {
+		var a = v.([]*C.char)
+		for _, char := range a {
+			C.free(unsafe.Pointer(char))
+		}
 	}
-	delete(holder, address)
+	holder.Delete(address)
 }
 
 //------------------------------------------------------------------------
@@ -93,7 +97,7 @@ func stringSliceToC(input []string) uintptr {
 	}
 	ptr := (*reflect.SliceHeader)(unsafe.Pointer(&arr))
 	//做持有操作，避免被回收，后续调用free
-	holder[ptr.Data] = arr
+	holder.Store(ptr.Data, arr)
 	return ptr.Data
 }
 
