@@ -164,7 +164,7 @@ func mapText(node *goquery.Selection, clazz string) string {
 			var nodeName = goquery.NodeName(s)
 			if nodeName == "br" {
 				out = out + "\n"
-			} else if nodeName != "script" && nodeName != "style" {
+			} else if nodeName == "script" || nodeName == "style" {
 				//nothing
 			} else {
 				out = out + s.Text()
