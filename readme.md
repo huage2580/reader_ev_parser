@@ -20,7 +20,7 @@ $env:GOARCH="arm64"
 $env:CGO_ENABLED="1"
 $env:CC="C:\Users\hua\AppData\Local\Android\Sdk\ndk\22.0.7026061\toolchains\llvm\prebuilt\windows-x86_64\bin\aarch64-linux-android21-clang.cmd"
 $env:CXX="C:\Users\hua\AppData\Local\Android\Sdk\ndk\22.0.7026061\toolchains\llvm\prebuilt\windows-x86_64\bin\aarch64-linux-android21-clang++.cmd"
-go build -buildmode=c-shared -o evparser.so
+go build -buildmode=c-shared -o libevparser.so
 # 查看编译结果
 readelf -h evparser.so
 ```
@@ -32,4 +32,15 @@ $env:CGO_ENABLED="1"
 $env:CC=""
 $env:CXX=""
 go build -buildmode=c-shared -o evparser.dll
+```
+
+### IOS
+```shell
+export GOOS="ios"
+export GOARCH="arm64"
+export CGO_ENABLED="1"
+go build -buildmode=c-archive -o libevparser.a
+# 查看便衣结果
+lipo -info libevparser.a
+
 ```
