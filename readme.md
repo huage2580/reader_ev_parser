@@ -39,7 +39,19 @@ go build -buildmode=c-shared -o evparser.dll
 export GOOS="ios"
 export GOARCH="arm64"
 export CGO_ENABLED="1"
-go build -buildmode=c-archive -o libevparser.a
+
+# 手机
+CC=/usr/local/go/misc/ios/clangwrap.sh GOOS=ios GOARCH=arm64 CGO_ENABLED=1 go build -buildmode=c-archive -o out_ios/libevparser.a
+# arm模拟器
+CC=/$HOME/go/clangwrap2.sh GOOS=ios GOARCH=arm64 CGO_ENABLED=1 go build -buildmode=c-archive -o out_arm/libevparser.a
+# x86模拟器
+CC=/$HOME/go/clangwrap2.sh GOOS=ios GOARCH=amd64 CGO_ENABLED=1 go build -buildmode=c-archive -o out_x86/libevparser.a
+
+CC=/usr/local/go/misc/ios/clangwrap.sh GOOS=ios GOARCH=amd64 CGO_ENABLED=1 go build -buildmode=c-archive -o out_x86/libevparser.a
+
+#组合
+lipo -create out_ios/libevparser.a out_x86/libevparser.a -output libevparser.a
+
 # 查看便衣结果
 lipo -info libevparser.a
 
