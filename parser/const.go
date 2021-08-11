@@ -35,3 +35,5 @@ const JSOUP_EXCLUDE_INT = ":"
 
 const ACTION_TYPE_JSOUP = "jsoup"
 const ACTION_TYPE_CSS = "css"
+
+const REGEXP_FOR_JSOUP_1 = `.*\.[-]?\d` //有些奇怪的只有两段的jsoup格式，例如 a.1,匹配之后执行前面的css再筛选后面的

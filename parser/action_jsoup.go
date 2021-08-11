@@ -3,6 +3,7 @@ package parser
 import (
 	"golang.org/x/net/html"
 	"log"
+	"regexp"
 	"strconv"
 	"strings"
 )
@@ -144,7 +145,14 @@ func remapToCssQuery(r string) (string, []int, []int) {
 	case JSOUP_SUPPORT_TEXT:
 		css = ":containsOwn(" + aValue + ")"
 	default:
-		css = queryWithIndex[0] //直接执行css，不支持的类型
+		var rule = queryWithIndex[0]
+		var re1 = regexp.MustCompile(REGEXP_FOR_JSOUP_1)
+		if re1.MatchString(rule) { //奇怪的执行css再过滤的写法？ a.1 这种
+			css = querySplit[0]
+			includeStr = querySplit[1]
+		} else {
+			css = queryWithIndex[0] //直接执行css，不支持的类型
+		}
 	}
 	return css, indexStringToArray(includeStr), indexStringToArray(excludeStr)
 }
