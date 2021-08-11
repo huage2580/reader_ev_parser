@@ -132,8 +132,11 @@ func remapToCssQuery(r string) (string, []int, []int) {
 	switch aType {
 	case JSOUP_SUPPORT_CHILD:
 		css = JSOUP_SUPPORT_CHILD
-	case JSOUP_SUPPORT_CLASS:
-		css = "." + aValue
+	case JSOUP_SUPPORT_CLASS: //可能有组合的class 空格隔开的
+		var sp = strings.Split(aValue, " ")
+		for _, s := range sp {
+			css += "." + s
+		}
 	case JSOUP_SUPPORT_TAG:
 		css = aValue
 	case JSOUP_SUPPORT_ID:
